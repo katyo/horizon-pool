@@ -1,0 +1,44 @@
+{
+    "MPN": [
+        false,
+        "ECS-xx-yy-z"
+    ],
+    "datasheet": [
+        false,
+        "https://ecsxtal.com/store/pdf/hc_49us.pdf"
+    ],
+    "description": [
+        false,
+        "±30ppm Crystal 3.57..70MHz 20pF HC-49/US"
+    ],
+    "entity": "5159b99a-7b6d-48f7-8588-d0b503cdd8d8",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "ECS"
+    ],
+    "model": "d7916eff-ffdd-4400-bb86-fd40d7c8b81a",
+    "package": "48b5d42e-caab-467e-bf72-28e0ad7cdbef",
+    "pad_map": {
+        "5b6cf15a-60b3-45f7-8ae6-6908c89b523a": {
+            "gate": "2a1bd72d-6d14-48c7-94d4-91d36e7a56c6",
+            "pin": "852f1fe6-06dc-4661-8a14-61a9a6ebb26a"
+        },
+        "e394bede-4597-4b8c-8822-e339f9b2e78b": {
+            "gate": "2a1bd72d-6d14-48c7-94d4-91d36e7a56c6",
+            "pin": "29995253-b4b1-4c7c-a049-b6db2713ca7c"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "crystal",
+        "passive"
+    ],
+    "type": "part",
+    "uuid": "3fc31258-3fab-44de-a16e-e1dae80fa45a",
+    "value": [
+        false,
+        "3.57..70MHz 20pF"
+    ]
+}
