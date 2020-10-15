@@ -1,0 +1,62 @@
+{
+    "manufacturer": "ST",
+    "name": "STM32F103C(8-B)Tx PWR",
+    "pins": {
+        "059dde0c-d714-425f-b7c8-376232801eb0": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VDDA",
+            "swap_group": 0
+        },
+        "0c76fede-5f48-4168-9e14-20a1a003aaca": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VSSA",
+            "swap_group": 0
+        },
+        "1b51c4f5-d690-4000-9142-7dc54cf560a3": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VDD",
+            "swap_group": 0
+        },
+        "249f1d2f-a877-43ea-97f0-6210914dabfd": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VSS",
+            "swap_group": 0
+        },
+        "54378d60-d7f8-4141-8524-f717c21f9798": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VBAT",
+            "swap_group": 0
+        },
+        "9fb5f9a9-0984-4057-9020-be57907dee61": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VSS",
+            "swap_group": 0
+        },
+        "c05a8669-91ab-4380-94ae-77d223af664e": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VSS",
+            "swap_group": 0
+        },
+        "f540645d-bd54-4407-9f50-a3214540bbfa": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VDD",
+            "swap_group": 0
+        },
+        "f69356a7-7c17-435f-b02a-61d7331ad899": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VDD",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "050da6cb-6354-4e55-bb54-58fcfb43b112"
+}

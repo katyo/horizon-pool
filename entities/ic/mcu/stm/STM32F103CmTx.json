@@ -1,0 +1,27 @@
+{
+    "gates": {
+        "9a020aab-517c-4a40-bf52-f24f0d0e230a": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "9764149d-c703-480e-8396-be98af9fdcef"
+        },
+        "bfda9684-31d3-426f-abf0-ced197d8086d": {
+            "name": "Power",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "050da6cb-6354-4e55-bb54-58fcfb43b112"
+        }
+    },
+    "manufacturer": "ST",
+    "name": "STM32F103C(8-B)Tx",
+    "prefix": "U",
+    "tags": [
+        "ic",
+        "mcu",
+        "arm",
+        "stm32"
+    ],
+    "type": "entity",
+    "uuid": "a0cf5a1b-c5b5-4541-89f9-9e574b1a836d"
+}
