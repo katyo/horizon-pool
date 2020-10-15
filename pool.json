@@ -1,0 +1,9 @@
+{
+    "default_via": "3c4a52fe-3ae0-4c3e-a108-824b53d6d6da",
+    "name": "Horizon pool by Illiumium.Org",
+    "pools_included": [
+        "6d752bc3-29b3-45df-8cf2-1e3aacefbcc6"
+    ],
+    "type": "pool",
+    "uuid": "2a651be1-bfbf-4d83-8b01-c2d7b42fdb60"
+}
