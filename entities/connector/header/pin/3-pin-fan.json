@@ -1,0 +1,21 @@
+{
+    "gates": {
+        "d3b99648-b256-4f14-ad58-8f518b184ba6": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "fe4bb8eb-8e82-44d2-adb7-ba082c65bbbb"
+        }
+    },
+    "manufacturer": "",
+    "name": "3-Pin Fan Socket",
+    "prefix": "P",
+    "tags": [
+        "connector",
+        "generic",
+        "header",
+        "socket"
+    ],
+    "type": "entity",
+    "uuid": "f8e65e2b-07cc-4740-8384-fb8b76f271ec"
+}

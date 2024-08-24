@@ -1,0 +1,39 @@
+{
+    "MPN": [
+        false,
+        "SS1x"
+    ],
+    "base": "61a535f8-261f-411d-818b-7931e1ded062",
+    "datasheet": [
+        false,
+        "https://www.onsemi.com/pdf/datasheet/ss19-d.pdf"
+    ],
+    "description": [
+        false,
+        "High efficiency, low power loss, general propose schottky rectifiers"
+    ],
+    "flags": {
+        "base_part": "set",
+        "exclude_bom": "clear",
+        "exclude_pnp": "clear"
+    },
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        false,
+        "ON Semiconductor"
+    ],
+    "model": "9191c081-b934-4c52-be70-c15d3f276956",
+    "parametric": {},
+    "tags": [
+        "rectifier",
+        "shottky"
+    ],
+    "type": "part",
+    "uuid": "0fe73c47-d9ad-45eb-989c-c5d76c12be94",
+    "value": [
+        false,
+        ""
+    ],
+    "version": 1
+}

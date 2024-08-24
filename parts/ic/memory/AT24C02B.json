@@ -1,0 +1,30 @@
+{
+    "MPN": [
+        false,
+        "AT24C02B"
+    ],
+    "base": "e2e144aa-35fe-4a22-9a0d-f5750a5c6383",
+    "datasheet": [
+        true,
+        ""
+    ],
+    "description": [
+        false,
+        "2K I2C EEPROM with 3 address lines and Write Protect"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        true,
+        ""
+    ],
+    "model": "b99785a3-c0da-4658-969d-6287cec3be05",
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "87ee1c81-feb5-4d8e-bbf3-b279f0f2d2f5",
+    "value": [
+        true,
+        "AT24xx"
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "MPN": [
+        false,
+        "IR0603 940NM RA"
+    ],
+    "base": "f18b87d5-5838-4806-8cfc-0f5b6f3bc36e",
+    "datasheet": [
+        true,
+        ""
+    ],
+    "description": [
+        false,
+        "BDQ 0603 940NM LED Right Angle"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        false,
+        "BDQ"
+    ],
+    "model": "bb3da64d-20c6-408b-bff1-a83e492a3f7f",
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "d5fe5120-f04c-402e-bb34-2c3dbfcc4cdb",
+    "value": [
+        true,
+        "0603 LED Right Angle"
+    ]
+}

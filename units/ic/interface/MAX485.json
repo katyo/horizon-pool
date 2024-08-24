@@ -1,0 +1,56 @@
+{
+    "manufacturer": "Maxim",
+    "name": "MAX485",
+    "pins": {
+        "0089c7ca-a711-4725-9b38-da844430e0e4": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "B",
+            "swap_group": 0
+        },
+        "0989298f-f762-4440-81a4-a1d4cc03b9de": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "DI",
+            "swap_group": 0
+        },
+        "22812eed-1661-4734-9656-e999b5642f91": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "A",
+            "swap_group": 0
+        },
+        "29f43cbb-34cb-4185-a64c-2878d275024f": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "DE",
+            "swap_group": 0
+        },
+        "2ade1e98-f7ba-439c-a17c-c185e05d8132": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "GND",
+            "swap_group": 0
+        },
+        "35419bb6-3ec8-4e7c-ab62-237ca876d4e4": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "RO",
+            "swap_group": 0
+        },
+        "47bbfba3-a959-42a8-a5b2-35286e329c5b": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "~RE",
+            "swap_group": 0
+        },
+        "523af14b-2c78-45ef-ad61-c9086b0cc690": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VCC",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "a78849e8-c14f-4bda-a4b5-c72d58f37323"
+}

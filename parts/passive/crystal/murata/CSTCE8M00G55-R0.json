@@ -1,0 +1,45 @@
+{
+    "MPN": [
+        false,
+        "CSTCE8M00G55-R0"
+    ],
+    "datasheet": [
+        false,
+        "https://www.murata.com/en-us/api/pdfdownloadapi?cate=cgsubResonators&partno=CSTCE8M00G55-R0"
+    ],
+    "description": [
+        false,
+        "Ceramic resonator 40 Ohm with built-in load capacitors 33 pF"
+    ],
+    "entity": "03e9b2b2-36ee-4e93-a665-c9327c97cc89",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Murata"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "c13adf6e-2a65-477e-9e97-59d55ef68eae",
+    "pad_map": {
+        "9d0b14c1-63c3-44ff-90c6-f827bad7da2f": {
+            "gate": "2a1bd72d-6d14-48c7-94d4-91d36e7a56c6",
+            "pin": "29995253-b4b1-4c7c-a049-b6db2713ca7c"
+        },
+        "b9f8c20a-499a-4558-b589-a4de4cf9f336": {
+            "gate": "2a1bd72d-6d14-48c7-94d4-91d36e7a56c6",
+            "pin": "852f1fe6-06dc-4661-8a14-61a9a6ebb26a"
+        },
+        "ceb155a3-9125-4d6a-abb9-9ab12c9c9425": {
+            "gate": "2a1bd72d-6d14-48c7-94d4-91d36e7a56c6",
+            "pin": "d118db9b-0850-4b8a-a5a0-5f50299fd232"
+        }
+    },
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "85459aa6-193f-413c-ac7e-1478992e71ec",
+    "value": [
+        false,
+        "8 MHz"
+    ]
+}

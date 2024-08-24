@@ -1,0 +1,19 @@
+{
+    "gates": {
+        "61b14ef0-2b4d-4b08-b65c-330f1dff1e93": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "00e9e1b3-ddab-41ae-b215-679eac0f50c9"
+        }
+    },
+    "manufacturer": "",
+    "name": "I2C EEPROM with 3 address lines and Write Protect",
+    "prefix": "U",
+    "tags": [
+        "eeprom",
+        "memory"
+    ],
+    "type": "entity",
+    "uuid": "6d2d8421-98f4-4245-b614-6ad6b0b13cfc"
+}

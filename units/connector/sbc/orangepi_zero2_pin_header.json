@@ -1,0 +1,213 @@
+{
+    "manufacturer": "Xunlong OrangePi",
+    "name": "OrangePi Zero2 Pin Header",
+    "pins": {
+        "0683afa1-3b69-47c4-a043-622fcdc9ef8d": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PC10",
+            "swap_group": 0
+        },
+        "0c9f53e0-2997-4f22-b7de-b2efca78966d": {
+            "alt_names": {
+                "a6879799-a2fa-40e5-a90e-f1f85984f905": {
+                    "direction": "output",
+                    "name": "I2C3-SCK"
+                }
+            },
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PH4",
+            "swap_group": 0
+        },
+        "2d87532a-73fe-460f-ac53-6392ee32a17e": {
+            "direction": "power_output",
+            "names": [],
+            "primary_name": "GND5",
+            "swap_group": 0
+        },
+        "3297fc68-173c-41cf-a46f-c0d50e30ca62": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PC8",
+            "swap_group": 0
+        },
+        "34ed0f96-10af-451c-8b9a-b21ee86536e7": {
+            "alt_names": {
+                "8f4c423c-3076-4315-92e4-33609caae4bf": {
+                    "direction": "input",
+                    "name": "UART5-RX"
+                }
+            },
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PH3",
+            "swap_group": 0
+        },
+        "436d7f76-f710-4321-85f0-a77685cbacd0": {
+            "alt_names": {
+                "744e7ffc-2991-4c4c-9319-bf469de9054d": {
+                    "direction": "output",
+                    "name": "SPI1-MOSI"
+                }
+            },
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PH7",
+            "swap_group": 0
+        },
+        "493a6008-68d2-4bd3-ac7b-077e851f766e": {
+            "direction": "power_output",
+            "names": [],
+            "primary_name": "5V2",
+            "swap_group": 0
+        },
+        "51bdffb7-df76-4865-9a11-7f63758cf960": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PC15",
+            "swap_group": 0
+        },
+        "55a31c79-ffca-4027-9805-bf9c2ce0d168": {
+            "alt_names": {
+                "abd28453-9465-43a2-a777-a6e2122a0e08": {
+                    "direction": "output",
+                    "name": "UART5-TX"
+                }
+            },
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PH2",
+            "swap_group": 0
+        },
+        "5ed57201-df94-4ae8-a724-60d35398776d": {
+            "alt_names": {
+                "3de4af3d-bcca-47f9-846a-14381b222b9e": {
+                    "direction": "input",
+                    "name": "SPI1-MISO"
+                }
+            },
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PH8",
+            "swap_group": 0
+        },
+        "600e93ea-e4ae-4a4a-994d-3ad02a9296a2": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PC9",
+            "swap_group": 0
+        },
+        "6b0851a5-ed87-4f55-bb61-f4f32f5191d5": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PC14",
+            "swap_group": 0
+        },
+        "6f5495e1-d711-4fc9-b51b-519bd5742114": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PC6",
+            "swap_group": 0
+        },
+        "7973886a-b5fd-4e0b-ba52-82cb15fbbb94": {
+            "direction": "power_output",
+            "names": [],
+            "primary_name": "GND3",
+            "swap_group": 0
+        },
+        "7b304c84-03fc-4595-a22d-166650789a75": {
+            "direction": "power_output",
+            "names": [],
+            "primary_name": "GND1",
+            "swap_group": 0
+        },
+        "7bddd7b3-6077-499c-b409-d37ae72951a4": {
+            "direction": "power_output",
+            "names": [],
+            "primary_name": "3.3V2",
+            "swap_group": 0
+        },
+        "8d205e57-3f67-489d-91b4-008d3c8e37ab": {
+            "direction": "power_output",
+            "names": [],
+            "primary_name": "3.3V1",
+            "swap_group": 0
+        },
+        "9a21a0bc-34d5-4f4b-b269-748e54add2e1": {
+            "alt_names": {
+                "e78df13f-78d7-4bb8-b9cb-5a56f88393da": {
+                    "direction": "output",
+                    "name": "SPI1-CS"
+                }
+            },
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PH9",
+            "swap_group": 0
+        },
+        "9b6001be-9436-42ad-bbc6-f06b6106fc0b": {
+            "direction": "power_output",
+            "names": [],
+            "primary_name": "GND4",
+            "swap_group": 0
+        },
+        "9c87198d-4e07-45ea-87ed-d17bd6b45581": {
+            "direction": "power_output",
+            "names": [],
+            "primary_name": "GND2",
+            "swap_group": 0
+        },
+        "a4053bd5-9057-4d66-847e-90c4339e9257": {
+            "direction": "power_output",
+            "names": [],
+            "primary_name": "5V1",
+            "swap_group": 0
+        },
+        "c24e6e30-17ed-4e5e-8d95-a21ad70b09f3": {
+            "alt_names": {
+                "dc3dc77d-1c72-483a-b3d8-97c8481c1c45": {
+                    "direction": "bidirectional",
+                    "name": "I2C3-SDA"
+                }
+            },
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PH5",
+            "swap_group": 0
+        },
+        "c2622451-c2a9-4198-a2ab-5c5f1e318cfe": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PC5",
+            "swap_group": 0
+        },
+        "da8136e0-f319-4307-a50d-160a437f9643": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PC11",
+            "swap_group": 0
+        },
+        "de792fa2-f8a1-4976-9d6c-58099ed7b125": {
+            "alt_names": {
+                "453c44a3-b600-4e1a-9e28-784b98345294": {
+                    "direction": "output",
+                    "name": "SPI1-CLK"
+                }
+            },
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PH6",
+            "swap_group": 0
+        },
+        "fe323cdd-e10e-4991-8c39-708dcdf52e86": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PC7",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "1e0d677d-fb71-4609-958e-2f25f3bef764",
+    "version": 1
+}

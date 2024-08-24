@@ -1,0 +1,19 @@
+{
+    "gates": {
+        "7d201dc7-9d71-442b-9fee-fe25571618d7": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "a1947abc-9e63-4472-be91-d789f80fa6e4"
+        }
+    },
+    "manufacturer": "Ai-Thinker",
+    "name": "Ra-02",
+    "prefix": "U",
+    "tags": [
+        "lora",
+        "radio"
+    ],
+    "type": "entity",
+    "uuid": "fc4d6bd7-21e0-4e51-ba3d-1874bc73ce9e"
+}

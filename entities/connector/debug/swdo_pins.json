@@ -1,0 +1,19 @@
+{
+    "gates": {
+        "5bf775c5-e43d-425d-9f0a-7ee1c943dc9f": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "8302816b-addc-40e8-a322-76261b8e13b0"
+        }
+    },
+    "manufacturer": "",
+    "name": "SWDO Pins",
+    "prefix": "P",
+    "tags": [
+        "connector",
+        "debug"
+    ],
+    "type": "entity",
+    "uuid": "94eeff41-2b91-486d-b459-e46cae93645e"
+}

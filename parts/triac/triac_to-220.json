@@ -1,0 +1,54 @@
+{
+    "MPN": [
+        false,
+        "Triac TO-220"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "Triac in TO-220"
+    ],
+    "entity": "a97efe79-91c8-41ae-a44f-3199c2b3c387",
+    "flags": {
+        "base_part": "set",
+        "exclude_bom": "clear",
+        "exclude_pnp": "clear"
+    },
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        ""
+    ],
+    "model": "a03a12c8-0b02-4ebd-a7c6-dd6c693b7dab",
+    "package": "c924d9d4-a75a-4802-bfef-43d433856c91",
+    "pad_map": {
+        "0c3f4901-a7ed-4cc4-9c85-e3c000f8957a": {
+            "gate": "b1c62820-716f-4ec0-9f0b-7afd8c5a281f",
+            "pin": "b7770b69-dcad-44f4-879f-6f20e5d51db0"
+        },
+        "10b6b0e8-2890-4565-9a61-9438bd15f398": {
+            "gate": "b1c62820-716f-4ec0-9f0b-7afd8c5a281f",
+            "pin": "debe4001-d5f5-4fb6-86b8-3fede168904d"
+        },
+        "c9b5b13f-efaf-4a13-a88a-1cb6c968a58c": {
+            "gate": "b1c62820-716f-4ec0-9f0b-7afd8c5a281f",
+            "pin": "0ff8a8e2-8837-4a54-8deb-4270fce98adb"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "generic",
+        "triac"
+    ],
+    "type": "part",
+    "uuid": "02df1525-7c2e-4635-91ba-41fdf7cfcec4",
+    "value": [
+        false,
+        ""
+    ],
+    "version": 1
+}

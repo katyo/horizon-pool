@@ -1,0 +1,81 @@
+{
+    "manufacturer": "Ai-Thinker",
+    "name": "ESP32-C3 SPI",
+    "pins": {
+        "40890aee-47fd-48ea-9f3b-1b5ed163b1d4": {
+            "alt_names": {
+                "1a3f0fc6-0cf8-4b45-a8bb-bade3d9207a4": {
+                    "direction": "bidirectional",
+                    "name": "GPIO13"
+                }
+            },
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "SPI_WP",
+            "swap_group": 0
+        },
+        "b7b8031c-9125-45d0-b8da-228e04cf03d5": {
+            "alt_names": {
+                "1a3f0fc6-0cf8-4b45-a8bb-bade3d9207a4": {
+                    "direction": "bidirectional",
+                    "name": "GPIO15"
+                }
+            },
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "SPI_CLK",
+            "swap_group": 0
+        },
+        "bec120ee-37af-4a63-abe5-9bb228c4d48b": {
+            "alt_names": {
+                "1a3f0fc6-0cf8-4b45-a8bb-bade3d9207a4": {
+                    "direction": "bidirectional",
+                    "name": "GPIO14"
+                }
+            },
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "SPI_CS0",
+            "swap_group": 0
+        },
+        "bf077e0e-c71c-4e61-bebb-58bfc663f1da": {
+            "alt_names": {
+                "1a3f0fc6-0cf8-4b45-a8bb-bade3d9207a4": {
+                    "direction": "bidirectional",
+                    "name": "GPIO16"
+                }
+            },
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "SPI_D",
+            "swap_group": 0
+        },
+        "c1586329-c584-4df8-9e2f-99062207cd73": {
+            "alt_names": {
+                "1a3f0fc6-0cf8-4b45-a8bb-bade3d9207a4": {
+                    "direction": "bidirectional",
+                    "name": "GPIO17"
+                }
+            },
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "SPI_Q",
+            "swap_group": 0
+        },
+        "d7f0b8ab-049e-4762-a2f3-2173b2387ae4": {
+            "alt_names": {
+                "1a3f0fc6-0cf8-4b45-a8bb-bade3d9207a4": {
+                    "direction": "bidirectional",
+                    "name": "GPIO12"
+                }
+            },
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "SPI_HD",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "ffea7ee6-6182-44e5-b1fa-030d821ab904",
+    "version": 1
+}

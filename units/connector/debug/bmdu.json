@@ -1,0 +1,121 @@
+{
+    "manufacturer": "",
+    "name": "BMDU",
+    "pins": {
+        "0469c36d-85ab-448e-bf53-587768083007": {
+            "direction": "power_output",
+            "names": [],
+            "primary_name": "GND",
+            "swap_group": 0
+        },
+        "15ed8b8b-e39a-4106-8956-9bcf7cb61e7e": {
+            "alt_names": {
+                "03929a7f-cd0b-4bf7-97f0-addf4adf47b6": {
+                    "direction": "bidirectional",
+                    "name": "PICO"
+                },
+                "348177f1-ef22-4b8a-bc55-e01049ea6e4c": {
+                    "direction": "passive",
+                    "name": "NC"
+                }
+            },
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "TDI",
+            "swap_group": 0
+        },
+        "87ec09c6-e1e2-43a8-a032-cab93db4211f": {
+            "alt_names": {
+                "26e0a907-7588-43ce-9afc-20dcb21d9117": {
+                    "direction": "bidirectional",
+                    "name": "SWDIO"
+                },
+                "e6e19ea4-51c9-44c9-b057-3ed4204a47ad": {
+                    "direction": "bidirectional",
+                    "name": "CS"
+                }
+            },
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "TMS",
+            "swap_group": 0
+        },
+        "9172d701-9e20-445b-a4d9-aac7d356d553": {
+            "alt_names": {
+                "2f7148d2-8662-41c2-8c95-306c52a1a764": {
+                    "direction": "bidirectional",
+                    "name": "POCI"
+                },
+                "54887a06-b28c-40ba-8147-7514909f7cbc": {
+                    "direction": "bidirectional",
+                    "name": "TRACESWO"
+                }
+            },
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "TDO",
+            "swap_group": 0
+        },
+        "b2bd5ebc-d25e-429a-b2b1-10c43e477624": {
+            "alt_names": {
+                "b609e430-4eb4-4b11-9b96-5cba1e580088": {
+                    "direction": "passive",
+                    "name": "KEY"
+                }
+            },
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "UTX",
+            "swap_group": 0
+        },
+        "b7204b2b-4e66-4ddd-abb4-08dfa16e4f8d": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "VREF",
+            "swap_group": 0
+        },
+        "df48987a-c715-4f73-aa6a-e97f0b49c4ce": {
+            "alt_names": {
+                "326cabaf-516e-48ac-b2dd-9a9f8055358e": {
+                    "direction": "bidirectional",
+                    "name": "SCLK"
+                },
+                "52c58df2-e163-48dc-9eb9-efea734c32d9": {
+                    "direction": "bidirectional",
+                    "name": "SWDCLK"
+                }
+            },
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "TCK",
+            "swap_group": 0
+        },
+        "ea00b4f9-b576-4bc9-9b95-7b5cebf7b856": {
+            "alt_names": {
+                "44bb6f74-4bca-464f-ab8f-d4663f0fa244": {
+                    "direction": "power_output",
+                    "name": "GND"
+                }
+            },
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "URX",
+            "swap_group": 0
+        },
+        "f70a5a74-580a-4c70-a46a-a04a3ebe340d": {
+            "alt_names": {
+                "b5f8d8d0-3cf1-46a4-a8b7-e9a90c6cc866": {
+                    "direction": "output",
+                    "name": "nRTS"
+                }
+            },
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "~RST",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "3675c3ea-ea96-4962-abf8-a0ef8ae1008a",
+    "version": 1
+}

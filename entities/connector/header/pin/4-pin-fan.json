@@ -1,0 +1,21 @@
+{
+    "gates": {
+        "789acd8a-e2fa-4c2f-a71c-3e91e2a23d7c": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "b7323cda-c57d-4894-a852-693700265a9c"
+        }
+    },
+    "manufacturer": "",
+    "name": "4-Pin Fan Socket",
+    "prefix": "P",
+    "tags": [
+        "connector",
+        "generic",
+        "header",
+        "socket"
+    ],
+    "type": "entity",
+    "uuid": "056d6686-7a48-4d80-96de-89679efb8d84"
+}

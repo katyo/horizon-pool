@@ -1,0 +1,105 @@
+{
+    "manufacturer": "",
+    "name": "SPI/SDIO NOR Flash",
+    "pins": {
+        "10a1716b-d702-4eb9-b2b5-a38ff162491a": {
+            "alt_names": {
+                "20ee4c2f-945c-4ff9-9f12-2d587097d5fa": {
+                    "direction": "power_input",
+                    "name": "GND"
+                }
+            },
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VSS",
+            "swap_group": 0
+        },
+        "28379bf0-94a3-4df8-8e26-db7d3e7ced3e": {
+            "alt_names": {
+                "0f500e21-c847-4d66-a613-18403f9a05ba": {
+                    "direction": "bidirectional",
+                    "name": "IO1"
+                }
+            },
+            "direction": "output",
+            "names": [],
+            "primary_name": "SO",
+            "swap_group": 0
+        },
+        "67cccff3-13c0-4cf5-abfb-d7a5c8a7e756": {
+            "alt_names": {
+                "f7355163-6ebc-4583-8f9d-bfed09c4100c": {
+                    "direction": "bidirectional",
+                    "name": "IO0"
+                }
+            },
+            "direction": "input",
+            "names": [],
+            "primary_name": "SI",
+            "swap_group": 0
+        },
+        "ab9e5346-eec7-44d2-ab0d-7a1b2d4ed095": {
+            "alt_names": {
+                "fa2b103a-4a3a-42c9-a421-8ca969b1b401": {
+                    "direction": "bidirectional",
+                    "name": "IO3"
+                }
+            },
+            "direction": "input",
+            "names": [],
+            "primary_name": "~HOLD",
+            "swap_group": 0
+        },
+        "c37c322b-f4f4-49d2-a92b-69109b4c92f4": {
+            "alt_names": {
+                "4745f4ac-fc54-43f1-90ac-91937978f895": {
+                    "direction": "power_input",
+                    "name": "VDD"
+                }
+            },
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VCC",
+            "swap_group": 0
+        },
+        "cd8da2fa-d8ae-4e11-9758-4e7d52c72cbb": {
+            "alt_names": {
+                "d6815045-3989-44b5-b593-cc347fbace27": {
+                    "direction": "bidirectional",
+                    "name": "IO2"
+                }
+            },
+            "direction": "input",
+            "names": [],
+            "primary_name": "~WP",
+            "swap_group": 0
+        },
+        "e153e52c-409b-4a91-8032-b920a1b787ae": {
+            "alt_names": {
+                "54180857-82e6-4d23-bc48-122351573228": {
+                    "direction": "input",
+                    "name": "~SS"
+                }
+            },
+            "direction": "input",
+            "names": [],
+            "primary_name": "~CS",
+            "swap_group": 0
+        },
+        "f932f6d8-043a-4e2c-9b86-a124e361c4b2": {
+            "alt_names": {
+                "9e38e075-5368-4126-960e-b2ea063405a0": {
+                    "direction": "input",
+                    "name": "CLK"
+                }
+            },
+            "direction": "input",
+            "names": [],
+            "primary_name": "SCLK",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "dcdb70ea-ea88-4060-a8de-1f684c82b4e5",
+    "version": 1
+}

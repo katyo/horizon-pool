@@ -1,0 +1,19 @@
+{
+    "gates": {
+        "0ffc3eeb-1709-4741-9c3e-a279d3319d2f": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "3675c3ea-ea96-4962-abf8-a0ef8ae1008a"
+        }
+    },
+    "manufacturer": "",
+    "name": "BMDU",
+    "prefix": "P",
+    "tags": [
+        "connector",
+        "debug"
+    ],
+    "type": "entity",
+    "uuid": "933d3ba0-f137-47c5-b8c0-51a3d769cc82"
+}

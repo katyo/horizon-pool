@@ -1,0 +1,20 @@
+{
+    "gates": {
+        "c4f95f92-a54f-476c-9e6b-401aace865a6": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "6637091c-d30c-49a0-8884-d3c795101e3e"
+        }
+    },
+    "manufacturer": "ON Semiconductor",
+    "name": "MC34063",
+    "prefix": "U",
+    "tags": [
+        "dcdc",
+        "ic",
+        "regulator"
+    ],
+    "type": "entity",
+    "uuid": "1905dc54-6b2f-49e4-8935-719d0338844a"
+}

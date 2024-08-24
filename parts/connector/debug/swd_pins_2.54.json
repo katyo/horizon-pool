@@ -1,0 +1,52 @@
+{
+    "MPN": [
+        false,
+        "SWD Pins 2.54"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "4-PIN SWD Header"
+    ],
+    "entity": "500dda4f-438f-466c-b17a-a4604ac7165d",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        ""
+    ],
+    "model": "84ec8229-d872-42f8-bfcc-96938ff02bd1",
+    "package": "3ea624bd-9594-4445-8d38-aab0142a6446",
+    "pad_map": {
+        "37ad2e38-76ac-4a0b-adf3-2500e30336a0": {
+            "gate": "5bf775c5-e43d-425d-9f0a-7ee1c943dc9f",
+            "pin": "55c97191-4394-45b3-bf3a-8b024441720d"
+        },
+        "7bc2147a-0234-41f6-ab65-444e57a43ce5": {
+            "gate": "5bf775c5-e43d-425d-9f0a-7ee1c943dc9f",
+            "pin": "7ea37030-8ea2-4adc-b50b-45680c561572"
+        },
+        "7de8ad61-d839-4bad-85e8-5b3d093d4d6c": {
+            "gate": "5bf775c5-e43d-425d-9f0a-7ee1c943dc9f",
+            "pin": "99a36c86-b287-44a0-b380-0a50ef476d5f"
+        },
+        "f4f2991b-d46c-492e-b2b6-beacc3120e00": {
+            "gate": "5bf775c5-e43d-425d-9f0a-7ee1c943dc9f",
+            "pin": "f145b239-7c41-4ef7-aa44-1f431ac11f6d"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "connector",
+        "debug"
+    ],
+    "type": "part",
+    "uuid": "0d3e4ee0-663d-48d1-8b88-228521f48b81",
+    "value": [
+        false,
+        ""
+    ]
+}

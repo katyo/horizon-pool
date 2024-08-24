@@ -1,0 +1,35 @@
+{
+    "MPN": [
+        false,
+        "Resistor 1206 330 Ω"
+    ],
+    "base": "69d9d487-801a-40ab-a821-5a7a6ee8c623",
+    "datasheet": [
+        true,
+        ""
+    ],
+    "description": [
+        false,
+        "Generic Resistor SM1206 330 Ω"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        true,
+        ""
+    ],
+    "model": "96c366ee-a963-41a0-9cc8-54c646979695",
+    "parametric": {
+        "pmax": "0.1",
+        "table": "resistors",
+        "tolerance": "1",
+        "value": "330"
+    },
+    "tags": [],
+    "type": "part",
+    "uuid": "204ef7a7-2c5b-43fa-af31-ec6a8eac085b",
+    "value": [
+        false,
+        "330 Ω"
+    ]
+}

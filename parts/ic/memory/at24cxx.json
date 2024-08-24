@@ -1,0 +1,75 @@
+{
+    "MPN": [
+        false,
+        "AT24Cxx"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "I2C EEPROM with 3 address lines and Write Protect"
+    ],
+    "entity": "6d2d8421-98f4-4245-b614-6ad6b0b13cfc",
+    "flags": {
+        "base_part": "set",
+        "exclude_bom": "clear",
+        "exclude_pnp": "clear"
+    },
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        ""
+    ],
+    "model": "b99785a3-c0da-4658-969d-6287cec3be05",
+    "package": "0932e22e-0cf7-46dc-b09c-4cc761a67608",
+    "pad_map": {
+        "17341892-a120-44e2-97ea-6e4f8e3d7da5": {
+            "gate": "61b14ef0-2b4d-4b08-b65c-330f1dff1e93",
+            "pin": "57efbc1c-5a3e-453f-aa96-ec9d2b366f3b"
+        },
+        "29f18ab8-6cea-44fc-9bf5-4fb888f5245b": {
+            "gate": "61b14ef0-2b4d-4b08-b65c-330f1dff1e93",
+            "pin": "88a59a9c-36d1-425b-a97b-282bfb26d29f"
+        },
+        "3d725e25-0d60-46cb-a21f-82462d3ce156": {
+            "gate": "61b14ef0-2b4d-4b08-b65c-330f1dff1e93",
+            "pin": "28684d3a-33e1-41c4-92a8-8ce6fed2a948"
+        },
+        "51d7c05f-acae-46d5-9c26-2ea9d17bf7a8": {
+            "gate": "61b14ef0-2b4d-4b08-b65c-330f1dff1e93",
+            "pin": "6c230be5-987e-4b87-b4e2-4085f809627a"
+        },
+        "68b17b6f-ab52-4c2b-9389-c36d3c06eeef": {
+            "gate": "61b14ef0-2b4d-4b08-b65c-330f1dff1e93",
+            "pin": "e7f6b7bb-620f-466f-aa85-7276ae4a628b"
+        },
+        "6f82c7c4-9578-4cb0-a92c-8b09534d5dc9": {
+            "gate": "61b14ef0-2b4d-4b08-b65c-330f1dff1e93",
+            "pin": "48046849-2109-4d41-a774-c8b3eaf70c2b"
+        },
+        "82d773fb-4473-4bd9-a879-a6ca2756055c": {
+            "gate": "61b14ef0-2b4d-4b08-b65c-330f1dff1e93",
+            "pin": "a6f94e2b-1183-49ce-818a-c47eced57c32"
+        },
+        "b9ad4acf-f78d-438d-8b7b-e83ee0f9cc19": {
+            "gate": "61b14ef0-2b4d-4b08-b65c-330f1dff1e93",
+            "pin": "f43f0760-136d-42eb-b29e-a904dff62fea"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "eeprom",
+        "i2c",
+        "ic"
+    ],
+    "type": "part",
+    "uuid": "e2e144aa-35fe-4a22-9a0d-f5750a5c6383",
+    "value": [
+        false,
+        ""
+    ],
+    "version": 1
+}

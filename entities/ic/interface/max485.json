@@ -1,0 +1,20 @@
+{
+    "gates": {
+        "86809aae-d4e5-4c65-b7b2-0c8ca62fcb76": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "a78849e8-c14f-4bda-a4b5-c72d58f37323"
+        }
+    },
+    "manufacturer": "Maxim",
+    "name": "MAX485",
+    "prefix": "U",
+    "tags": [
+        "ic",
+        "interface",
+        "rs485"
+    ],
+    "type": "entity",
+    "uuid": "cc509902-07c1-44b4-8a77-27c5f06700a3"
+}

@@ -1,0 +1,30 @@
+{
+    "MPN": [
+        false,
+        "BTB12"
+    ],
+    "base": "02df1525-7c2e-4635-91ba-41fdf7cfcec4",
+    "datasheet": [
+        false,
+        "https://www.st.com/resource/en/datasheet/bta12.pdf"
+    ],
+    "description": [
+        false,
+        "Non-Insulated 12A standard and Snubberless™ triacs"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        false,
+        "ST"
+    ],
+    "model": "a03a12c8-0b02-4ebd-a7c6-dd6c693b7dab",
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "76b25eb5-e1f5-4c8e-b2f6-e653f3cb1fb2",
+    "value": [
+        true,
+        "Triac TO-220"
+    ]
+}

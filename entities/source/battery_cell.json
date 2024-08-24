@@ -1,0 +1,16 @@
+{
+    "gates": {
+        "583f2f49-b991-4545-a711-bf3381db10ad": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "ba30fa4e-28c0-44cc-b318-25c50907f2ff"
+        }
+    },
+    "manufacturer": "",
+    "name": "Battery_Cell",
+    "prefix": "BT",
+    "tags": [],
+    "type": "entity",
+    "uuid": "f7f1b30e-466b-423d-b2d1-1632bcf15e8b"
+}

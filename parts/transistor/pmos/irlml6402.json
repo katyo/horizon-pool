@@ -1,0 +1,34 @@
+{
+    "MPN": [
+        false,
+        "IRLML6402"
+    ],
+    "base": "58ee05d0-acd8-4b37-8871-56d38d463a3c",
+    "datasheet": [
+        false,
+        "https://www.infineon.com/dgdl/irlml6402pbf.pdf?fileId=5546d462533600a401535668d5c2263c"
+    ],
+    "description": [
+        false,
+        "Ultra Low On-Resistance P-Channel HEXFET® Power MOSFET"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        false,
+        "International Rectifier"
+    ],
+    "model": "1ebac498-5423-42dc-90a6-7ad333585f6a",
+    "parametric": {},
+    "tags": [
+        "mosfet",
+        "p-channel",
+        "transistor"
+    ],
+    "type": "part",
+    "uuid": "8f27a15f-17e5-4d14-a590-83974d6f5f01",
+    "value": [
+        true,
+        "base sot-23 P-channel MOSFET"
+    ]
+}

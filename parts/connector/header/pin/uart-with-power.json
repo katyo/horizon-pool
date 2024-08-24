@@ -1,0 +1,49 @@
+{
+    "MPN": [
+        false,
+        "Powered UART Header"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "Generic UART Pin Header with Ground and Power pins"
+    ],
+    "entity": "91834444-bd94-4d4e-8095-875b7397155f",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        ""
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "c7321de1-ea94-49d8-937d-91721febaafc",
+    "pad_map": {
+        "37ad2e38-76ac-4a0b-adf3-2500e30336a0": {
+            "gate": "c8aaf47f-4148-49a0-9011-0cb654aaa336",
+            "pin": "75a43ace-3308-4bc6-a219-e70293a9edb9"
+        },
+        "7bc2147a-0234-41f6-ab65-444e57a43ce5": {
+            "gate": "c8aaf47f-4148-49a0-9011-0cb654aaa336",
+            "pin": "b97b0e04-49b2-428f-a639-7e1e0f147523"
+        },
+        "7de8ad61-d839-4bad-85e8-5b3d093d4d6c": {
+            "gate": "c8aaf47f-4148-49a0-9011-0cb654aaa336",
+            "pin": "df21dfde-8afe-4e4d-a1ac-f0d5a4303dbc"
+        },
+        "f4f2991b-d46c-492e-b2b6-beacc3120e00": {
+            "gate": "c8aaf47f-4148-49a0-9011-0cb654aaa336",
+            "pin": "42cb06da-6f02-4815-87c0-25ddf1b9013c"
+        }
+    },
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "62f73203-d9fa-4145-aff8-d4d116feb8fd",
+    "value": [
+        false,
+        ""
+    ]
+}

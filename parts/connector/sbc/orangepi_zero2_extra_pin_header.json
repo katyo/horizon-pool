@@ -1,0 +1,85 @@
+{
+    "MPN": [
+        false,
+        "OrangePi Zero2 Extra Pin Header"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "Main Pin Header for Allwinner H616 based Single Board Computer"
+    ],
+    "entity": "800929b2-2cf4-432b-a2c0-c3ebfe4c850e",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Xunlong OrangePi"
+    ],
+    "model": "84ec8229-d872-42f8-bfcc-96938ff02bd1",
+    "package": "5e1ebc3a-960c-40e4-a396-4cf5915d2672",
+    "pad_map": {
+        "37ad2e38-76ac-4a0b-adf3-2500e30336a0": {
+            "gate": "9b1260b1-a8da-4358-a7c6-b29414675656",
+            "pin": "493a6008-68d2-4bd3-ac7b-077e851f766e"
+        },
+        "3cde8013-3885-4310-90b0-85740b7a45b4": {
+            "gate": "9b1260b1-a8da-4358-a7c6-b29414675656",
+            "pin": "7973886a-b5fd-4e0b-ba52-82cb15fbbb94"
+        },
+        "50f60ff3-0e93-4dc7-8c38-68e52687007d": {
+            "gate": "9b1260b1-a8da-4358-a7c6-b29414675656",
+            "pin": "c2622451-c2a9-4198-a2ab-5c5f1e318cfe"
+        },
+        "5f03eef9-7af5-402d-a522-212bc6dc4840": {
+            "gate": "9b1260b1-a8da-4358-a7c6-b29414675656",
+            "pin": "fe323cdd-e10e-4991-8c39-708dcdf52e86"
+        },
+        "7bc2147a-0234-41f6-ab65-444e57a43ce5": {
+            "gate": "9b1260b1-a8da-4358-a7c6-b29414675656",
+            "pin": "8d205e57-3f67-489d-91b4-008d3c8e37ab"
+        },
+        "7de8ad61-d839-4bad-85e8-5b3d093d4d6c": {
+            "gate": "9b1260b1-a8da-4358-a7c6-b29414675656",
+            "pin": "7bddd7b3-6077-499c-b409-d37ae72951a4"
+        },
+        "a43c1c45-4e2c-4164-990b-5719d05d21b4": {
+            "gate": "9b1260b1-a8da-4358-a7c6-b29414675656",
+            "pin": "7b304c84-03fc-4595-a22d-166650789a75"
+        },
+        "b913e143-f4b1-4aa9-899e-b67ed4f6794f": {
+            "gate": "9b1260b1-a8da-4358-a7c6-b29414675656",
+            "pin": "2d87532a-73fe-460f-ac53-6392ee32a17e"
+        },
+        "c8b47a09-16bf-47be-838e-2f014990d806": {
+            "gate": "9b1260b1-a8da-4358-a7c6-b29414675656",
+            "pin": "3297fc68-173c-41cf-a46f-c0d50e30ca62"
+        },
+        "ccf92a7d-63f1-40bd-918f-da246deb854a": {
+            "gate": "9b1260b1-a8da-4358-a7c6-b29414675656",
+            "pin": "9b6001be-9436-42ad-bbc6-f06b6106fc0b"
+        },
+        "cda0a45e-3673-43ad-81ff-c6556e1b630a": {
+            "gate": "9b1260b1-a8da-4358-a7c6-b29414675656",
+            "pin": "6f5495e1-d711-4fc9-b51b-519bd5742114"
+        },
+        "f4f2991b-d46c-492e-b2b6-beacc3120e00": {
+            "gate": "9b1260b1-a8da-4358-a7c6-b29414675656",
+            "pin": "a4053bd5-9057-4d66-847e-90c4339e9257"
+        },
+        "f5ac41ed-7d82-44b2-8d6b-a60285ac3e7b": {
+            "gate": "9b1260b1-a8da-4358-a7c6-b29414675656",
+            "pin": "9c87198d-4e07-45ea-87ed-d17bd6b45581"
+        }
+    },
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "f5a1cbaf-43ec-44df-a30f-0ee6ae019108",
+    "value": [
+        false,
+        ""
+    ]
+}

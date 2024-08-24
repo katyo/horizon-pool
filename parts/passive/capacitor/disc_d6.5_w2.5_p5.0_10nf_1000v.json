@@ -1,0 +1,44 @@
+{
+    "MPN": [
+        false,
+        "Disc capacitor 10nF 1000V"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "Generic through hole disc Y-capacitor"
+    ],
+    "entity": "ca83a84f-6183-4088-84b6-5d79b2a119d4",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        ""
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "5b855304-aa17-408f-a8b0-5821273df495",
+    "pad_map": {
+        "298dda7f-9a2d-471e-9eaa-b7d024a48688": {
+            "gate": "9bfcf213-2a7e-444e-8312-ce57209fc9ec",
+            "pin": "29995253-b4b1-4c7c-a049-b6db2713ca7c"
+        },
+        "bd376a79-de06-4fd2-9ee2-d948f58f01d8": {
+            "gate": "9bfcf213-2a7e-444e-8312-ce57209fc9ec",
+            "pin": "852f1fe6-06dc-4661-8a14-61a9a6ebb26a"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "capacitor",
+        "passive"
+    ],
+    "type": "part",
+    "uuid": "a9fc28af-7a0f-4571-8418-5ce5596eb451",
+    "value": [
+        false,
+        ""
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "gates": {
+        "b012d27d-acda-46e9-95cb-50e0b234b857": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "10792b58-ee3c-4c1c-ab1f-8d49df37609e"
+        }
+    },
+    "manufacturer": "",
+    "name": "Optical Switch Housing",
+    "prefix": "S",
+    "tags": [
+        "button",
+        "key",
+        "push",
+        "switch"
+    ],
+    "type": "entity",
+    "uuid": "59699532-d624-4c36-9806-4018803579f7"
+}

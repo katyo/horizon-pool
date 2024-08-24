@@ -1,0 +1,16 @@
+{
+    "gates": {
+        "5f0c5639-ff7a-4c91-a444-a3eeae85a60a": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "8fc56f4d-dbc8-4da3-9725-b11d54f972db"
+        }
+    },
+    "manufacturer": "",
+    "name": "MAX232",
+    "prefix": "U",
+    "tags": [],
+    "type": "entity",
+    "uuid": "06a3b8e2-7a0f-45df-988f-c523523efdfa"
+}

@@ -1,0 +1,56 @@
+{
+    "MPN": [
+        false,
+        "Base SMD Inductor D7.5mm H5mm"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "Base SMD Inductor D7.5mm H5mm"
+    ],
+    "entity": "1d534e1d-704a-4d44-a6e6-c6106a2827ab",
+    "flags": {
+        "base_part": "set",
+        "exclude_bom": "clear",
+        "exclude_pnp": "clear"
+    },
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        ""
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "0f079977-3426-47fd-a558-424eab27f5c1",
+    "pad_map": {
+        "61cee173-5857-4c2b-846b-730e472342c9": {
+            "gate": "48af78e5-730e-44eb-977a-cf188e4fcb39",
+            "pin": "6a44037c-65e2-4876-9359-42890048841d"
+        },
+        "6b39776d-eb22-4f64-8991-88e771dbbb1b": {
+            "gate": "48af78e5-730e-44eb-977a-cf188e4fcb39",
+            "pin": "dda0ec99-5d70-4fbe-a8db-897542e7554e"
+        }
+    },
+    "parametric": {
+        "dcr": "0",
+        "idc": "0",
+        "table": "inductors",
+        "value": "0"
+    },
+    "tags": [
+        "inductor",
+        "passive",
+        "smd"
+    ],
+    "type": "part",
+    "uuid": "40b1e651-1f2a-4327-84cb-63b8ee410fa8",
+    "value": [
+        false,
+        ""
+    ],
+    "version": 1
+}

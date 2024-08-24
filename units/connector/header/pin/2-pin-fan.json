@@ -1,0 +1,47 @@
+{
+    "manufacturer": "",
+    "name": "2-Pin Fan Socket",
+    "pins": {
+        "2400e738-0178-47e0-8186-eeb96afb7fdd": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "GND",
+            "swap_group": 0
+        },
+        "cf0cf7f8-8be0-4807-bba5-cc0bc5120410": {
+            "alt_names": {
+                "11ce34c8-aa26-4375-8a05-e980b8051d36": {
+                    "direction": "power_input",
+                    "name": "VCC"
+                },
+                "5d4c613a-aa8c-4af6-a03a-9b7c44901ff8": {
+                    "direction": "power_input",
+                    "name": "5V"
+                },
+                "8788317c-f2c1-49dd-8268-ec69e77a769c": {
+                    "direction": "power_input",
+                    "name": "12V"
+                },
+                "bb1c1045-6ec3-44ca-b9f9-80fc60c7a467": {
+                    "direction": "power_input",
+                    "name": "CTRL"
+                },
+                "ce31730c-7902-4146-8321-312f206b63ba": {
+                    "direction": "power_input",
+                    "name": "PWM"
+                },
+                "cfd28c4a-b89d-464d-ad38-2dbeb8054a23": {
+                    "direction": "power_input",
+                    "name": "+5V"
+                }
+            },
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "+12V",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "57aaabdd-e3bf-44ff-ac11-7b954dbd48a3",
+    "version": 1
+}

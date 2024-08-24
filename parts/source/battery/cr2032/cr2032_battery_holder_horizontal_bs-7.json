@@ -1,0 +1,44 @@
+{
+    "MPN": [
+        false,
+        "CR2032 Battery Holder"
+    ],
+    "datasheet": [
+        false,
+        "https://www.memoryprotectiondevices.com/datasheets/BS-7-datasheet.pdf"
+    ],
+    "description": [
+        false,
+        "CR2032 Battery Holder with Easy Release Clip"
+    ],
+    "entity": "cc74cd32-a7da-494d-a91c-27b70f9450f4",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "MPD"
+    ],
+    "model": "09ae0dc7-610d-4f1f-9bfa-76a41cdb382c",
+    "orderable_MPNs": {
+        "1a7deffd-ee15-47bc-b6e8-f77d39eb4cf2": "BS-7"
+    },
+    "package": "0afd5e4e-c98e-40b2-9e58-bb273428fcba",
+    "pad_map": {
+        "2908a133-46d7-430e-b237-b86af870ccd3": {
+            "gate": "eeaa4f0e-5ec8-41e9-bd98-985a4a48234f",
+            "pin": "c7dd1271-5537-4db1-ac39-2664fdaf7af2"
+        },
+        "3f0af5fb-e75d-4147-b82f-c53754dded68": {
+            "gate": "eeaa4f0e-5ec8-41e9-bd98-985a4a48234f",
+            "pin": "8d400332-04db-4d9d-b3c2-1f398b577fcd"
+        }
+    },
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "438625cc-7d99-46eb-b647-5ad3e78e76d7",
+    "value": [
+        false,
+        ""
+    ]
+}

@@ -1,0 +1,126 @@
+{
+    "MPN": [
+        false,
+        "ESP-12E"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "IoT WiFi module"
+    ],
+    "entity": "f77559f5-bd61-4af4-b9b6-0df70bde4e23",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Ai-Thinker"
+    ],
+    "model": "50d5d680-2b17-48e5-92e5-7bbad06e7adb",
+    "package": "9d0452fe-1e5f-4900-b03d-fb3f93dcd1ea",
+    "pad_map": {
+        "0aac42f0-16f8-4dba-9d3b-1b7bb37ffff4": {
+            "gate": "dd515502-20db-45de-a1fd-85b8a3eb3a10",
+            "pin": "6670d63d-fb54-4fd9-ae1e-242727f9dab2"
+        },
+        "1597e208-7884-47c7-9851-8962bcbf6cc2": {
+            "gate": "dd515502-20db-45de-a1fd-85b8a3eb3a10",
+            "pin": "8ac0ebf9-8a32-4a6f-a87b-a50a77147a04"
+        },
+        "1802df8e-c886-4787-aed1-5e865f8999e9": {
+            "gate": "dd515502-20db-45de-a1fd-85b8a3eb3a10",
+            "pin": "b6077510-f616-472f-a777-e6cc8185b645"
+        },
+        "1acdb02a-a45b-4e3f-8c85-1c54c68edb5e": {
+            "gate": "dd515502-20db-45de-a1fd-85b8a3eb3a10",
+            "pin": "0b71d403-03c7-42c1-95a6-4bd700718970"
+        },
+        "1edfbe87-4d2f-4814-a8d4-69ce531acbc4": {
+            "gate": "dd515502-20db-45de-a1fd-85b8a3eb3a10",
+            "pin": "003721fe-a998-4319-912e-d55893474cf2"
+        },
+        "23af29f0-c908-48fa-97fd-46fd812bf183": {
+            "gate": "dd515502-20db-45de-a1fd-85b8a3eb3a10",
+            "pin": "1b9e5065-d1d1-4c24-867f-fd569b93f0db"
+        },
+        "37e0fc88-a2cb-4a21-a243-6888fd25405d": {
+            "gate": "dd515502-20db-45de-a1fd-85b8a3eb3a10",
+            "pin": "dcaf0b34-cba4-4ca7-90b5-b126b0b7a37b"
+        },
+        "437ec4e1-1a76-49c5-a3cb-de9a5570dd0d": {
+            "gate": "dd515502-20db-45de-a1fd-85b8a3eb3a10",
+            "pin": "31a6ee18-b86a-463d-a623-76f17d63e4eb"
+        },
+        "45d0dc37-b729-402a-936a-11325106964d": {
+            "gate": "dd515502-20db-45de-a1fd-85b8a3eb3a10",
+            "pin": "b2fc4c6a-daa4-44ec-9234-383c56923e6d"
+        },
+        "4a44d78e-40b0-482d-8f9c-8ef6dad24bd5": {
+            "gate": "f88ebfd6-9183-49c1-ade6-301c32405855",
+            "pin": "a7fd91e7-97ac-457b-a4d4-0757ed9a1cd3"
+        },
+        "4ed18328-40f3-49a3-b118-dc8dd36c2750": {
+            "gate": "f88ebfd6-9183-49c1-ade6-301c32405855",
+            "pin": "bc18ba78-10e1-4db3-918e-89533a50afe5"
+        },
+        "52122377-d742-4d1d-902a-55c9da6c28f1": {
+            "gate": "dd515502-20db-45de-a1fd-85b8a3eb3a10",
+            "pin": "16c41cf1-8373-493a-ac3d-81f4cfc698f7"
+        },
+        "61d5d625-9b38-483e-be2d-da5a755d0bb1": {
+            "gate": "f88ebfd6-9183-49c1-ade6-301c32405855",
+            "pin": "df9c038b-51c1-44b5-8086-81c6d1732451"
+        },
+        "69fd1563-e388-412b-acc3-90d5cdc621ea": {
+            "gate": "f88ebfd6-9183-49c1-ade6-301c32405855",
+            "pin": "e8997f50-8f9e-4fed-895e-84a198d84f16"
+        },
+        "6fac9a14-44b4-4be5-9c6b-5107530161f7": {
+            "gate": "f88ebfd6-9183-49c1-ade6-301c32405855",
+            "pin": "f154643c-31f4-436e-a46f-6cdadb801942"
+        },
+        "73fb6fad-7dc8-4115-9c51-758e3f7c4bd2": {
+            "gate": "dd515502-20db-45de-a1fd-85b8a3eb3a10",
+            "pin": "bc293628-2eaf-44eb-b039-62d787fb7464"
+        },
+        "782a6431-dbe1-40ae-a89d-adb836f3ef68": {
+            "gate": "dd515502-20db-45de-a1fd-85b8a3eb3a10",
+            "pin": "12976a63-b83f-4f15-9261-731702861cf2"
+        },
+        "8cc645fa-aa38-4ec7-be6f-154ea4e9e84f": {
+            "gate": "f88ebfd6-9183-49c1-ade6-301c32405855",
+            "pin": "43149bec-08b4-49b9-962f-37f5a3a1ce55"
+        },
+        "9ab33552-f77f-41ed-aac4-f487e9948fac": {
+            "gate": "dd515502-20db-45de-a1fd-85b8a3eb3a10",
+            "pin": "eeda5433-87f2-43cd-814b-14ca06da3b08"
+        },
+        "ad4aacc4-c3b3-4b21-a8ca-1fe52ef668fa": {
+            "gate": "dd515502-20db-45de-a1fd-85b8a3eb3a10",
+            "pin": "89a4113b-9b51-49d6-857f-a0f13aa632be"
+        },
+        "b86ef912-a212-43de-a03e-9f4ab2a79adc": {
+            "gate": "dd515502-20db-45de-a1fd-85b8a3eb3a10",
+            "pin": "42a6d210-97bb-4a76-ab02-52b29f6ec7ad"
+        },
+        "ffa0b768-762b-417a-bac5-dc0d8a9b1f82": {
+            "gate": "dd515502-20db-45de-a1fd-85b8a3eb3a10",
+            "pin": "cc75d03a-dcc7-4f20-b881-bf8014905769"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "iot",
+        "module",
+        "radio",
+        "wifi"
+    ],
+    "type": "part",
+    "uuid": "39ed691f-46fc-4f30-b1ce-1063c6dc3d75",
+    "value": [
+        false,
+        ""
+    ]
+}

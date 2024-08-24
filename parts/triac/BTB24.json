@@ -1,0 +1,30 @@
+{
+    "MPN": [
+        false,
+        "BTB24"
+    ],
+    "base": "02df1525-7c2e-4635-91ba-41fdf7cfcec4",
+    "datasheet": [
+        false,
+        "https://www.st.com/resource/en/datasheet/bta24.pdf"
+    ],
+    "description": [
+        false,
+        "Non-Insulated 25A standard and Snubberless™ triacs"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        false,
+        "ST"
+    ],
+    "model": "a03a12c8-0b02-4ebd-a7c6-dd6c693b7dab",
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "62feb4c7-ca75-4d70-94da-0d3d3d983a33",
+    "value": [
+        true,
+        "Triac TO-220"
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "gates": {
+        "cbb82a4c-6669-4ec6-9b70-aa4ccbbd0580": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "b5237f54-bef2-4965-8b84-ae8a5e8acf85"
+        }
+    },
+    "manufacturer": "",
+    "name": "I2C Sensor",
+    "prefix": "U",
+    "tags": [
+        "generic",
+        "i2c",
+        "ic",
+        "sensor"
+    ],
+    "type": "entity",
+    "uuid": "9ca80bb2-64b4-46c5-8e12-392e1957c2c6"
+}

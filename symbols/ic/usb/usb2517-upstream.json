@@ -1,0 +1,151 @@
+{
+    "arcs": {},
+    "can_expand": true,
+    "junctions": {
+        "418597a9-41fb-4450-a527-c596489015e1": {
+            "position": [
+                -6250000,
+                5000000
+            ]
+        },
+        "45354008-3188-470e-8336-7ebfbdc6d181": {
+            "position": [
+                -6250000,
+                -5000000
+            ]
+        },
+        "637e2e07-e1e1-41a5-9dee-44c0d2ae6512": {
+            "position": [
+                7500000,
+                5000000
+            ]
+        },
+        "713da87c-cb78-461b-b917-06d0d7e7c049": {
+            "position": [
+                7500000,
+                -5000000
+            ]
+        }
+    },
+    "lines": {
+        "260fe465-67db-4010-9ed4-9999e2cb385d": {
+            "from": "713da87c-cb78-461b-b917-06d0d7e7c049",
+            "layer": 0,
+            "to": "45354008-3188-470e-8336-7ebfbdc6d181",
+            "width": 0
+        },
+        "684fd9b7-d70d-4f0d-a9c7-6fa78b3e6ca9": {
+            "from": "637e2e07-e1e1-41a5-9dee-44c0d2ae6512",
+            "layer": 0,
+            "to": "713da87c-cb78-461b-b917-06d0d7e7c049",
+            "width": 0
+        },
+        "86a50d3f-5a93-4dfc-92dc-6fd780afa421": {
+            "from": "45354008-3188-470e-8336-7ebfbdc6d181",
+            "layer": 0,
+            "to": "418597a9-41fb-4450-a527-c596489015e1",
+            "width": 0
+        },
+        "fe903e00-d3a5-4eee-811b-4e4d711ce129": {
+            "from": "418597a9-41fb-4450-a527-c596489015e1",
+            "layer": 0,
+            "to": "637e2e07-e1e1-41a5-9dee-44c0d2ae6512",
+            "width": 0
+        }
+    },
+    "name": "USB2517 Upstream",
+    "pins": {
+        "0090f49d-13f7-4004-ae6a-908443bc6c30": {
+            "decoration": {
+                "clock": false,
+                "dot": false,
+                "driver": "default",
+                "schmitt": false
+            },
+            "length": 2500000,
+            "name_orientation": "in_line",
+            "name_visible": true,
+            "orientation": "left",
+            "pad_visible": true,
+            "position": [
+                -8750000,
+                -2500000
+            ]
+        },
+        "3c67f04d-a905-4877-a586-7eb54f98d5b6": {
+            "decoration": {
+                "clock": false,
+                "dot": false,
+                "driver": "default",
+                "schmitt": false
+            },
+            "length": 2500000,
+            "name_orientation": "in_line",
+            "name_visible": true,
+            "orientation": "left",
+            "pad_visible": true,
+            "position": [
+                -8750000,
+                0
+            ]
+        },
+        "a9082206-c7be-4e2d-a3cf-87a232575940": {
+            "decoration": {
+                "clock": false,
+                "dot": false,
+                "driver": "default",
+                "schmitt": false
+            },
+            "length": 2500000,
+            "name_orientation": "in_line",
+            "name_visible": true,
+            "orientation": "left",
+            "pad_visible": true,
+            "position": [
+                -8750000,
+                2500000
+            ]
+        }
+    },
+    "polygons": {},
+    "text_placements": {},
+    "texts": {
+        "bf809c40-dd08-415c-b179-80ea28335b9d": {
+            "font": "simplex",
+            "from_smash": false,
+            "layer": 0,
+            "origin": "center",
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    -3750000,
+                    -6250000
+                ]
+            },
+            "size": 1500000,
+            "text": "$VALUE",
+            "width": 0
+        },
+        "c059780b-7a24-464f-b5e7-44f36bb36f94": {
+            "font": "simplex",
+            "from_smash": false,
+            "layer": 0,
+            "origin": "center",
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    -5000000,
+                    6250000
+                ]
+            },
+            "size": 1500000,
+            "text": "$REFDES",
+            "width": 0
+        }
+    },
+    "type": "symbol",
+    "unit": "b2888bbe-99a2-4337-8ece-195f4c485828",
+    "uuid": "996d1360-d8d9-48e5-8734-047b2fe680d4"
+}

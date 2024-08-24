@@ -1,0 +1,21 @@
+{
+    "gates": {
+        "1c03bc6b-6cf8-4107-9388-ca3798442367": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "a264a731-2011-4e16-bd31-5870b68b26dc"
+        }
+    },
+    "manufacturer": "ESS",
+    "name": "ES9023",
+    "prefix": "U",
+    "tags": [
+        "audio",
+        "dac",
+        "ic",
+        "stereo"
+    ],
+    "type": "entity",
+    "uuid": "36f1b11c-2daa-4f4f-8091-171c23bac3ff"
+}

@@ -1,0 +1,46 @@
+{
+    "MPN": [
+        false,
+        "Molex_KK-254_AE-6410-02A"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "Molex Connector Vertical Single Row 2.54mm"
+    ],
+    "entity": "29f544a1-a789-4fe6-a1ef-29da5ba3d371",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        ""
+    ],
+    "model": "8269570c-e15b-45c8-8504-b7e955ab6ebe",
+    "package": "c19e45f3-6e41-4381-8dec-a9f078e18d47",
+    "pad_map": {
+        "aff19be2-c21e-415a-8803-ade140cd5033": {
+            "gate": "eb7f68b1-6fba-4a35-a470-2cecb23fe087",
+            "pin": "b3cef4f5-fe6c-45b5-b063-1618f997168f"
+        },
+        "c4ff80d6-c3a2-484d-892f-359e1422b25d": {
+            "gate": "eb7f68b1-6fba-4a35-a470-2cecb23fe087",
+            "pin": "588536f1-9e96-4500-bcbb-4ba48082b643"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "array",
+        "connector",
+        "header",
+        "vertical"
+    ],
+    "type": "part",
+    "uuid": "e2c780ae-0c53-45c9-aebd-d51f928740b8",
+    "value": [
+        false,
+        ""
+    ]
+}

@@ -1,0 +1,104 @@
+{
+    "manufacturer": "Maxim",
+    "name": "DS3231",
+    "pins": {
+        "05d706ff-21eb-4eed-afed-6b22e32f1d23": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "SCL",
+            "swap_group": 0
+        },
+        "06d6c1f1-6657-414a-b504-1ef8aa29b4e8": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "~RST",
+            "swap_group": 0
+        },
+        "116ba167-16f6-4bb8-8f2f-5185a4c02c42": {
+            "direction": "not_connected",
+            "names": [],
+            "primary_name": "NC8",
+            "swap_group": 0
+        },
+        "16175cf3-3b42-44d1-b89b-ac953ab30952": {
+            "direction": "not_connected",
+            "names": [],
+            "primary_name": "NC6",
+            "swap_group": 0
+        },
+        "49e6efc3-8e02-47ab-b1b1-01cf03abb47e": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "SQW/INT",
+            "swap_group": 0
+        },
+        "56622d49-f955-4092-bc9e-f8ad8dd91565": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VCC",
+            "swap_group": 0
+        },
+        "820cd7a0-9127-485e-951e-dc00393649fa": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "32KHZ",
+            "swap_group": 0
+        },
+        "9984c3fa-a58a-45b9-971f-e4146afc86c1": {
+            "direction": "not_connected",
+            "names": [],
+            "primary_name": "NC1",
+            "swap_group": 0
+        },
+        "9a2ed42c-e701-419e-8823-98ffae246088": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "GND",
+            "swap_group": 0
+        },
+        "b75b2379-d3cb-4cd0-a95e-be3eff45cca1": {
+            "direction": "not_connected",
+            "names": [],
+            "primary_name": "NC3",
+            "swap_group": 0
+        },
+        "ba2d6cca-f9e9-4ea2-b079-7cbdf42968fa": {
+            "direction": "not_connected",
+            "names": [],
+            "primary_name": "NC5",
+            "swap_group": 0
+        },
+        "c8b709c1-fd37-4e62-a586-4662008a6fcf": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "SDA",
+            "swap_group": 0
+        },
+        "d59e4404-13f9-4655-941e-621798ba5948": {
+            "direction": "not_connected",
+            "names": [],
+            "primary_name": "NC4",
+            "swap_group": 0
+        },
+        "e4985cee-e90e-4568-9c93-7caa9d3fd287": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VBAT",
+            "swap_group": 0
+        },
+        "f3139080-7b16-46f9-95c3-c56c72548d4d": {
+            "direction": "not_connected",
+            "names": [],
+            "primary_name": "NC2",
+            "swap_group": 0
+        },
+        "ff7a2595-7810-4301-b8ee-0966bc01618c": {
+            "direction": "not_connected",
+            "names": [],
+            "primary_name": "NC7",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "d87fafb2-762a-4105-994d-9c4ae4e4e528"
+}

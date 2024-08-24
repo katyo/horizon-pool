@@ -1,0 +1,26 @@
+{
+    "manufacturer": "Xunlong OrangePi",
+    "name": "OrangePi UART Pin Header",
+    "pins": {
+        "395b3b89-bd3c-4807-b6da-a0ce1ab9e2c4": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "RX",
+            "swap_group": 0
+        },
+        "a5d0d99f-fd77-4e55-8553-b760eed6d867": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "TX",
+            "swap_group": 0
+        },
+        "c9da37b4-b61a-474f-8c38-8c47b4351499": {
+            "direction": "power_output",
+            "names": [],
+            "primary_name": "GND",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "719a9d37-3ca7-41f7-815d-bb292df20870"
+}

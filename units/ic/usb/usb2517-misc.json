@@ -1,0 +1,61 @@
+{
+    "manufacturer": "Microchip",
+    "name": "USB2517 Misc",
+    "pins": {
+        "15b32567-6151-4583-9c8d-7bd51085b7a7": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "RESET_N",
+            "swap_group": 0
+        },
+        "362c5b30-5cdd-42be-b337-a95eb2221c0e": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "XTAL2",
+            "swap_group": 0
+        },
+        "4735181f-8c22-4db1-9c45-ba022ee7869c": {
+            "alt_names": {
+                "50140235-02dd-4556-81d9-be15c8fddeef": {
+                    "direction": "input",
+                    "name": "LOCAL_PWR"
+                },
+                "786e2618-f063-41a3-b15d-0eaacded8572": {
+                    "direction": "input",
+                    "name": "NON_REM0"
+                }
+            },
+            "direction": "output",
+            "names": [],
+            "primary_name": "SUSP_IND",
+            "swap_group": 0
+        },
+        "9f2d10be-fe42-446a-a45c-f4159e8056db": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "RBIAS",
+            "swap_group": 0
+        },
+        "e20de141-7b2e-4ccf-9b79-d993f51b6d9e": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "TEST",
+            "swap_group": 0
+        },
+        "fc83e646-a60e-478e-8af7-b33dfa367c72": {
+            "alt_names": {
+                "c8e10b2a-3096-4697-abac-e988d845d06c": {
+                    "direction": "input",
+                    "name": "CLKIN"
+                }
+            },
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "XTAL1",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "79b77505-f233-4725-83e1-2e7bff254dae",
+    "version": 1
+}

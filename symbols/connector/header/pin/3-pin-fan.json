@@ -1,0 +1,151 @@
+{
+    "arcs": {},
+    "can_expand": false,
+    "junctions": {
+        "2921bf27-413a-41e4-8112-1cf0cd103af1": {
+            "position": [
+                3750000,
+                3750000
+            ]
+        },
+        "89df3a8e-2cd1-438b-92d5-0165d7587f8c": {
+            "position": [
+                3750000,
+                -3750000
+            ]
+        },
+        "c62a9253-5dfa-4039-b0e1-0ee65cc3e6cd": {
+            "position": [
+                -3750000,
+                3750000
+            ]
+        },
+        "ee1d8cc4-12e9-4d1a-9075-ea265297af54": {
+            "position": [
+                -3750000,
+                -3750000
+            ]
+        }
+    },
+    "lines": {
+        "4649e220-4545-4bd7-b117-06d71e43e5f4": {
+            "from": "89df3a8e-2cd1-438b-92d5-0165d7587f8c",
+            "layer": 0,
+            "to": "ee1d8cc4-12e9-4d1a-9075-ea265297af54",
+            "width": 0
+        },
+        "5be33788-6a05-4936-a118-63926d19efb5": {
+            "from": "c62a9253-5dfa-4039-b0e1-0ee65cc3e6cd",
+            "layer": 0,
+            "to": "2921bf27-413a-41e4-8112-1cf0cd103af1",
+            "width": 0
+        },
+        "74d360b7-6681-4305-bcf7-acd4277725f5": {
+            "from": "2921bf27-413a-41e4-8112-1cf0cd103af1",
+            "layer": 0,
+            "to": "89df3a8e-2cd1-438b-92d5-0165d7587f8c",
+            "width": 0
+        },
+        "d1934913-08fa-42b9-b219-648c188dbc41": {
+            "from": "ee1d8cc4-12e9-4d1a-9075-ea265297af54",
+            "layer": 0,
+            "to": "c62a9253-5dfa-4039-b0e1-0ee65cc3e6cd",
+            "width": 0
+        }
+    },
+    "name": "3-Pin Fan Socket",
+    "pins": {
+        "16c6355d-bd50-4371-b922-2dffcdd7ea68": {
+            "decoration": {
+                "clock": false,
+                "dot": false,
+                "driver": "default",
+                "schmitt": false
+            },
+            "length": 2500000,
+            "name_orientation": "in_line",
+            "name_visible": true,
+            "orientation": "left",
+            "pad_visible": true,
+            "position": [
+                -6250000,
+                -2500000
+            ]
+        },
+        "2603c87e-be69-429c-8c90-1362d14d3dff": {
+            "decoration": {
+                "clock": false,
+                "dot": false,
+                "driver": "default",
+                "schmitt": false
+            },
+            "length": 2500000,
+            "name_orientation": "in_line",
+            "name_visible": true,
+            "orientation": "left",
+            "pad_visible": true,
+            "position": [
+                -6250000,
+                0
+            ]
+        },
+        "6e3b3343-4c63-47ec-b952-98851c5b342d": {
+            "decoration": {
+                "clock": false,
+                "dot": false,
+                "driver": "default",
+                "schmitt": false
+            },
+            "length": 2500000,
+            "name_orientation": "in_line",
+            "name_visible": true,
+            "orientation": "left",
+            "pad_visible": true,
+            "position": [
+                -6250000,
+                2500000
+            ]
+        }
+    },
+    "polygons": {},
+    "text_placements": {},
+    "texts": {
+        "710bf5c7-b031-4320-827d-7cd41705269d": {
+            "font": "simplex",
+            "from_smash": false,
+            "layer": 0,
+            "origin": "center",
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    -3750000,
+                    -5000000
+                ]
+            },
+            "size": 1500000,
+            "text": "$VALUE",
+            "width": 0
+        },
+        "73c0528b-d73b-491f-be9a-e65713632875": {
+            "font": "simplex",
+            "from_smash": false,
+            "layer": 0,
+            "origin": "center",
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    -3750000,
+                    5000000
+                ]
+            },
+            "size": 1500000,
+            "text": "$REFDES",
+            "width": 0
+        }
+    },
+    "type": "symbol",
+    "unit": "fe4bb8eb-8e82-44d2-adb7-ba082c65bbbb",
+    "uuid": "29d4b10e-bb71-424b-bdb9-3cf33c906d5f"
+}

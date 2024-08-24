@@ -1,0 +1,59 @@
+{
+    "manufacturer": "Microchip",
+    "name": "USB2517 Interface",
+    "pins": {
+        "765398e1-e751-43df-b0d5-a6e71d0f74fa": {
+            "alt_names": {
+                "1690fba2-3b51-4c19-a463-d8207cb6b089": {
+                    "direction": "bidirectional",
+                    "name": "SMBCLK"
+                },
+                "53c6d941-3fe9-4a20-a0de-648b8329fe1f": {
+                    "direction": "input",
+                    "name": "CFG_SEL0"
+                }
+            },
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "SCL",
+            "swap_group": 0
+        },
+        "7d0be19a-3308-450a-a511-dad93a40942a": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "CFG_SEL2",
+            "swap_group": 0
+        },
+        "98003b0c-9ac3-4080-9260-212be23824a8": {
+            "alt_names": {
+                "1690fba2-3b51-4c19-a463-d8207cb6b089": {
+                    "direction": "bidirectional",
+                    "name": "SMBDATA"
+                },
+                "53c6d941-3fe9-4a20-a0de-648b8329fe1f": {
+                    "direction": "input",
+                    "name": "NON_REM1"
+                }
+            },
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "SDA",
+            "swap_group": 0
+        },
+        "ce9e50d3-85df-4b77-bed9-e39a56b8ca3e": {
+            "alt_names": {
+                "53c6d941-3fe9-4a20-a0de-648b8329fe1f": {
+                    "direction": "input",
+                    "name": "CFG_SEL1"
+                }
+            },
+            "direction": "output",
+            "names": [],
+            "primary_name": "HS_IND",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "64c96065-03e5-4e7e-be1c-d072c6914f3c",
+    "version": 1
+}

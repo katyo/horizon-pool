@@ -1,0 +1,58 @@
+{
+    "MPN": [
+        false,
+        "SLA--SL-A"
+    ],
+    "datasheet": [
+        false,
+        "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_Ningbo-Songle-Relay-SLA-12VDC-SL-A_C55194.pdf"
+    ],
+    "description": [
+        false,
+        "30A SPST-NO relay"
+    ],
+    "entity": "720971b1-8962-4ffa-a9b5-75bda569f8e0",
+    "flags": {
+        "base_part": "set",
+        "exclude_bom": "clear",
+        "exclude_pnp": "clear"
+    },
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Songle Relay"
+    ],
+    "model": "75fd27f6-0740-4fe9-9ea8-3ecfb3633c83",
+    "package": "1773050c-19a6-4d25-95ea-70e211ad90f5",
+    "pad_map": {
+        "0dfc5fcb-dda7-43bd-b9a7-37ae38c3efa9": {
+            "gate": "4e740ea1-d73f-4508-b5c0-9747fa98235d",
+            "pin": "89d629ab-c2a7-4d80-95ca-77e426228c67"
+        },
+        "1eecf3a6-c311-444e-881c-051a0f3ffc9c": {
+            "gate": "4e740ea1-d73f-4508-b5c0-9747fa98235d",
+            "pin": "8dba8db9-8c86-4fa7-b79d-89404a3d9662"
+        },
+        "2141afb1-6852-4ade-b218-4c2deb750321": {
+            "gate": "4e740ea1-d73f-4508-b5c0-9747fa98235d",
+            "pin": "867b5c01-f941-4cf2-84a1-c19e7e221b92"
+        },
+        "c71daf22-67a4-4db4-80dc-5fd4c957c584": {
+            "gate": "4e740ea1-d73f-4508-b5c0-9747fa98235d",
+            "pin": "c3f4c29b-5443-45cd-8ca8-41545f6eef4b"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "relay",
+        "spst"
+    ],
+    "type": "part",
+    "uuid": "9e6b4822-61cc-4d73-ac04-e0fa756e1245",
+    "value": [
+        false,
+        ""
+    ],
+    "version": 1
+}

@@ -1,0 +1,21 @@
+{
+    "gates": {
+        "3508e489-10c1-43c5-a1a6-4e0e3a9e4dbb": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "fac7c547-c612-4c1f-b5f4-63f77f665a21"
+        }
+    },
+    "manufacturer": "Xunlong OrangePi",
+    "name": "OrangePi 3 LTS Pin Header",
+    "prefix": "P",
+    "tags": [
+        "breakout",
+        "header",
+        "pins",
+        "sbc"
+    ],
+    "type": "entity",
+    "uuid": "9ebe6cea-32b6-43f6-8845-e7670ff0cc17"
+}

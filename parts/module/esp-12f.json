@@ -1,0 +1,30 @@
+{
+    "MPN": [
+        false,
+        "ESP-12F"
+    ],
+    "base": "39ed691f-46fc-4f30-b1ce-1063c6dc3d75",
+    "datasheet": [
+        true,
+        ""
+    ],
+    "description": [
+        true,
+        "IoT WiFi module"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        true,
+        "Ai-Thinker"
+    ],
+    "model": "50d5d680-2b17-48e5-92e5-7bbad06e7adb",
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "03b8303e-8ee4-4d9a-a2f3-1da490b9ff29",
+    "value": [
+        true,
+        "ESP-12E"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "gates": {
+        "87ee6a3d-b8f8-4c58-aea4-3a98fc574c11": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "5b95bb4b-0945-4f42-a35d-021222e65f07"
+        }
+    },
+    "manufacturer": "",
+    "name": "SN74LVC2T45DCUR",
+    "prefix": "U",
+    "tags": [],
+    "type": "entity",
+    "uuid": "a75c7a31-fd23-4cbf-869f-0597dee09372"
+}

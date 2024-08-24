@@ -1,0 +1,54 @@
+{
+    "MPN": [
+        false,
+        "Molex_KK-254_AE-6410-04A"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "Molex Connector Vertical Single Row 2.54mm"
+    ],
+    "entity": "64ffe153-20d8-4902-9321-1f18027cb84d",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        ""
+    ],
+    "model": "c48de3f3-63f6-442a-b3d0-b3ad06436aaf",
+    "package": "7800497f-ca4b-4498-9cdd-10c943ac3318",
+    "pad_map": {
+        "33291b35-42ac-4210-9ec5-f34d4a04fde7": {
+            "gate": "a96a662e-2077-467f-9853-a01865f76ad6",
+            "pin": "423d0d6c-4330-417f-a6f0-267741d4c770"
+        },
+        "50a0e395-368f-4b6a-80dc-785ddb9b6585": {
+            "gate": "a96a662e-2077-467f-9853-a01865f76ad6",
+            "pin": "aab503ca-26da-43ff-a268-cf0db0698910"
+        },
+        "5bcd8da6-3707-49a0-a319-d707704d2829": {
+            "gate": "a96a662e-2077-467f-9853-a01865f76ad6",
+            "pin": "9c153b03-fb7b-4f99-a5ed-ca45d3ae512e"
+        },
+        "b1637b32-0508-4a87-92dd-b710e089b617": {
+            "gate": "a96a662e-2077-467f-9853-a01865f76ad6",
+            "pin": "4b3e1234-17b7-41dc-af26-90574ec82303"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "array",
+        "connector",
+        "header",
+        "vertical"
+    ],
+    "type": "part",
+    "uuid": "8416466b-4ca7-4c46-96d3-70d6d1b37215",
+    "value": [
+        false,
+        ""
+    ]
+}

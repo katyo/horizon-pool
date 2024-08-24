@@ -1,0 +1,19 @@
+{
+    "gates": {
+        "c8aaf47f-4148-49a0-9011-0cb654aaa336": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "bc1ff09d-da35-4693-b2f3-50175a4f47e0"
+        }
+    },
+    "manufacturer": "",
+    "name": "Powered UART Header",
+    "prefix": "P",
+    "tags": [
+        "connector",
+        "generic"
+    ],
+    "type": "entity",
+    "uuid": "91834444-bd94-4d4e-8095-875b7397155f"
+}

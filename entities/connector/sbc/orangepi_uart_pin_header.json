@@ -1,0 +1,21 @@
+{
+    "gates": {
+        "44a2892d-8d6b-4016-af7c-f76a8202a405": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "719a9d37-3ca7-41f7-815d-bb292df20870"
+        }
+    },
+    "manufacturer": "Xunlong OrangePi",
+    "name": "OrangePi UART Pin Header",
+    "prefix": "P",
+    "tags": [
+        "breakout",
+        "header",
+        "pins",
+        "sbc"
+    ],
+    "type": "entity",
+    "uuid": "31e3669a-fe84-4711-8e9d-b52a429799a4"
+}

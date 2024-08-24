@@ -1,0 +1,71 @@
+{
+    "MPN": [
+        false,
+        "Generic SPI/SDIO NOR Flash SOIC-8"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "Generic SOIC-8 SPI/SDIO NOR Flash chip"
+    ],
+    "entity": "324bba79-4877-48e5-a79c-6beaf724e7c6",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        ""
+    ],
+    "model": "b99785a3-c0da-4658-969d-6287cec3be05",
+    "package": "0932e22e-0cf7-46dc-b09c-4cc761a67608",
+    "pad_map": {
+        "17341892-a120-44e2-97ea-6e4f8e3d7da5": {
+            "gate": "5fdffda2-739b-41b1-993c-4634691449a3",
+            "pin": "28379bf0-94a3-4df8-8e26-db7d3e7ced3e"
+        },
+        "29f18ab8-6cea-44fc-9bf5-4fb888f5245b": {
+            "gate": "5fdffda2-739b-41b1-993c-4634691449a3",
+            "pin": "10a1716b-d702-4eb9-b2b5-a38ff162491a"
+        },
+        "3d725e25-0d60-46cb-a21f-82462d3ce156": {
+            "gate": "5fdffda2-739b-41b1-993c-4634691449a3",
+            "pin": "ab9e5346-eec7-44d2-ab0d-7a1b2d4ed095"
+        },
+        "51d7c05f-acae-46d5-9c26-2ea9d17bf7a8": {
+            "gate": "5fdffda2-739b-41b1-993c-4634691449a3",
+            "pin": "e153e52c-409b-4a91-8032-b920a1b787ae"
+        },
+        "68b17b6f-ab52-4c2b-9389-c36d3c06eeef": {
+            "gate": "5fdffda2-739b-41b1-993c-4634691449a3",
+            "pin": "cd8da2fa-d8ae-4e11-9758-4e7d52c72cbb"
+        },
+        "6f82c7c4-9578-4cb0-a92c-8b09534d5dc9": {
+            "gate": "5fdffda2-739b-41b1-993c-4634691449a3",
+            "pin": "67cccff3-13c0-4cf5-abfb-d7a5c8a7e756"
+        },
+        "82d773fb-4473-4bd9-a879-a6ca2756055c": {
+            "gate": "5fdffda2-739b-41b1-993c-4634691449a3",
+            "pin": "f932f6d8-043a-4e2c-9b86-a124e361c4b2"
+        },
+        "b9ad4acf-f78d-438d-8b7b-e83ee0f9cc19": {
+            "gate": "5fdffda2-739b-41b1-993c-4634691449a3",
+            "pin": "c37c322b-f4f4-49d2-a92b-69109b4c92f4"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "flash",
+        "gene",
+        "ic",
+        "nor",
+        "spi"
+    ],
+    "type": "part",
+    "uuid": "811f12e5-ed13-4754-be06-02b360226a4a",
+    "value": [
+        false,
+        ""
+    ]
+}

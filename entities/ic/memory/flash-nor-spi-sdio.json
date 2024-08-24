@@ -1,0 +1,21 @@
+{
+    "gates": {
+        "5fdffda2-739b-41b1-993c-4634691449a3": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "dcdb70ea-ea88-4060-a8de-1f684c82b4e5"
+        }
+    },
+    "manufacturer": "",
+    "name": "SPI/SDIO NOR Flash",
+    "prefix": "U",
+    "tags": [
+        "flash",
+        "generic",
+        "nor",
+        "spi"
+    ],
+    "type": "entity",
+    "uuid": "324bba79-4877-48e5-a79c-6beaf724e7c6"
+}

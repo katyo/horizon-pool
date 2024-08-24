@@ -1,0 +1,21 @@
+{
+    "gates": {
+        "51b54ec4-ff3e-486b-9824-1b0df1647263": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "57aaabdd-e3bf-44ff-ac11-7b954dbd48a3"
+        }
+    },
+    "manufacturer": "",
+    "name": "2-Pin Fan Socket",
+    "prefix": "P",
+    "tags": [
+        "connector",
+        "generic",
+        "header",
+        "socket"
+    ],
+    "type": "entity",
+    "uuid": "890bb1b8-ef37-410e-be47-76f67807acde"
+}

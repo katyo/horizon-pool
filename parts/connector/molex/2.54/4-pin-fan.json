@@ -1,0 +1,53 @@
+{
+    "MPN": [
+        false,
+        "4-Pin Fan Socket"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "Generic 4-Pin Fan Socket"
+    ],
+    "entity": "056d6686-7a48-4d80-96de-89679efb8d84",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        ""
+    ],
+    "model": "c48de3f3-63f6-442a-b3d0-b3ad06436aaf",
+    "package": "7800497f-ca4b-4498-9cdd-10c943ac3318",
+    "pad_map": {
+        "33291b35-42ac-4210-9ec5-f34d4a04fde7": {
+            "gate": "789acd8a-e2fa-4c2f-a71c-3e91e2a23d7c",
+            "pin": "a6f6a89b-db7d-4a35-9d22-6a690410a0f0"
+        },
+        "50a0e395-368f-4b6a-80dc-785ddb9b6585": {
+            "gate": "789acd8a-e2fa-4c2f-a71c-3e91e2a23d7c",
+            "pin": "088a56a4-8ab1-42a8-8cdd-8dd1757b6f2a"
+        },
+        "5bcd8da6-3707-49a0-a319-d707704d2829": {
+            "gate": "789acd8a-e2fa-4c2f-a71c-3e91e2a23d7c",
+            "pin": "69f12afb-ddcc-4fe7-bd6b-735e47251d8f"
+        },
+        "b1637b32-0508-4a87-92dd-b710e089b617": {
+            "gate": "789acd8a-e2fa-4c2f-a71c-3e91e2a23d7c",
+            "pin": "580dad55-0234-4a7b-946c-37f03e1918e4"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "connector",
+        "generic",
+        "header"
+    ],
+    "type": "part",
+    "uuid": "39bc385c-c2cf-4f8d-bfed-90435a38d529",
+    "value": [
+        false,
+        ""
+    ]
+}

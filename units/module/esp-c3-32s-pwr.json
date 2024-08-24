@@ -1,0 +1,32 @@
+{
+    "manufacturer": "Ai-Thinker",
+    "name": "ESP-C3-32S Pwr",
+    "pins": {
+        "72ebe51b-bee7-458f-8f08-9d9547bd329e": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "3V3",
+            "swap_group": 0
+        },
+        "83ce0597-7960-4899-82e8-47383e226672": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "GND3",
+            "swap_group": 0
+        },
+        "8d2b263a-885f-4f91-90a0-92df38db47cc": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "GND2",
+            "swap_group": 0
+        },
+        "bf0a2150-95be-44eb-a996-c90c4b13e8d7": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "GND1",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "63dfb6f6-dbe1-47ab-bb41-97c4656c5f72"
+}

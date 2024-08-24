@@ -1,0 +1,20 @@
+{
+    "gates": {
+        "5dfa0c38-e30e-48b1-9880-5b323781ef02": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "d87fafb2-762a-4105-994d-9c4ae4e4e528"
+        }
+    },
+    "manufacturer": "Maxim",
+    "name": "DS3231",
+    "prefix": "U",
+    "tags": [
+        "clock",
+        "i2c",
+        "rtc"
+    ],
+    "type": "entity",
+    "uuid": "3278cd3c-0d27-4c25-a91f-e3760801cf0d"
+}

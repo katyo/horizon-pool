@@ -1,0 +1,21 @@
+{
+    "gates": {
+        "9b1260b1-a8da-4358-a7c6-b29414675656": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "34351e9b-1ee1-4410-b8b7-cf95215fdfe3"
+        }
+    },
+    "manufacturer": "Xunlong OrangePi",
+    "name": "OrangePi Zero2 Extra Pin Header",
+    "prefix": "P",
+    "tags": [
+        "breakout",
+        "header",
+        "pins",
+        "sbc"
+    ],
+    "type": "entity",
+    "uuid": "800929b2-2cf4-432b-a2c0-c3ebfe4c850e"
+}

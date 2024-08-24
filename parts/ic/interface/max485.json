@@ -1,0 +1,68 @@
+{
+    "MPN": [
+        false,
+        "MAX485"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "±15kV ESD-Protected, Slew-Rate-Limited, Low-Power, RS-485/RS-422 Transceivers"
+    ],
+    "entity": "cc509902-07c1-44b4-8a77-27c5f06700a3",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Maxim"
+    ],
+    "model": "b99785a3-c0da-4658-969d-6287cec3be05",
+    "package": "0932e22e-0cf7-46dc-b09c-4cc761a67608",
+    "pad_map": {
+        "17341892-a120-44e2-97ea-6e4f8e3d7da5": {
+            "gate": "86809aae-d4e5-4c65-b7b2-0c8ca62fcb76",
+            "pin": "47bbfba3-a959-42a8-a5b2-35286e329c5b"
+        },
+        "29f18ab8-6cea-44fc-9bf5-4fb888f5245b": {
+            "gate": "86809aae-d4e5-4c65-b7b2-0c8ca62fcb76",
+            "pin": "0989298f-f762-4440-81a4-a1d4cc03b9de"
+        },
+        "3d725e25-0d60-46cb-a21f-82462d3ce156": {
+            "gate": "86809aae-d4e5-4c65-b7b2-0c8ca62fcb76",
+            "pin": "0089c7ca-a711-4725-9b38-da844430e0e4"
+        },
+        "51d7c05f-acae-46d5-9c26-2ea9d17bf7a8": {
+            "gate": "86809aae-d4e5-4c65-b7b2-0c8ca62fcb76",
+            "pin": "35419bb6-3ec8-4e7c-ab62-237ca876d4e4"
+        },
+        "68b17b6f-ab52-4c2b-9389-c36d3c06eeef": {
+            "gate": "86809aae-d4e5-4c65-b7b2-0c8ca62fcb76",
+            "pin": "29f43cbb-34cb-4185-a64c-2878d275024f"
+        },
+        "6f82c7c4-9578-4cb0-a92c-8b09534d5dc9": {
+            "gate": "86809aae-d4e5-4c65-b7b2-0c8ca62fcb76",
+            "pin": "2ade1e98-f7ba-439c-a17c-c185e05d8132"
+        },
+        "82d773fb-4473-4bd9-a879-a6ca2756055c": {
+            "gate": "86809aae-d4e5-4c65-b7b2-0c8ca62fcb76",
+            "pin": "22812eed-1661-4734-9656-e999b5642f91"
+        },
+        "b9ad4acf-f78d-438d-8b7b-e83ee0f9cc19": {
+            "gate": "86809aae-d4e5-4c65-b7b2-0c8ca62fcb76",
+            "pin": "523af14b-2c78-45ef-ad61-c9086b0cc690"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "ic",
+        "rs485"
+    ],
+    "type": "part",
+    "uuid": "e0e5d891-426e-457e-8338-da7c1287bf01",
+    "value": [
+        false,
+        ""
+    ]
+}

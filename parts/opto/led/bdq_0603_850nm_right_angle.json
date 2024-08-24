@@ -1,0 +1,30 @@
+{
+    "MPN": [
+        false,
+        "IR0603 850NM RA"
+    ],
+    "base": "f18b87d5-5838-4806-8cfc-0f5b6f3bc36e",
+    "datasheet": [
+        true,
+        ""
+    ],
+    "description": [
+        false,
+        "BDQ 0603 850NM LED Right Angle"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        false,
+        "BDQ"
+    ],
+    "model": "bb3da64d-20c6-408b-bff1-a83e492a3f7f",
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "56be4bd3-575d-4d37-9578-404baee13ab4",
+    "value": [
+        true,
+        "0603 LED Right Angle"
+    ]
+}

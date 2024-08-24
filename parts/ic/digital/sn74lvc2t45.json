@@ -1,0 +1,67 @@
+{
+    "MPN": [
+        false,
+        "SN74LVC2T45DCTR"
+    ],
+    "datasheet": [
+        false,
+        "https://www.ti.com/lit/gpn/sn74lvc2t45"
+    ],
+    "description": [
+        false,
+        "Dual-Bit Dual-Supply Bus Transceiver. With Configurable Voltage Translation"
+    ],
+    "entity": "a75c7a31-fd23-4cbf-869f-0597dee09372",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Texas Instruments"
+    ],
+    "model": "5b915fb0-9d95-46b2-a478-b4537266621a",
+    "package": "6ea46ac9-c47c-41f6-bf08-db7528d9bff1",
+    "pad_map": {
+        "192a7bda-41d0-4665-a63e-11ea47c79849": {
+            "gate": "87ee6a3d-b8f8-4c58-aea4-3a98fc574c11",
+            "pin": "5c3181f7-d7f4-4a07-9597-e83d376400c8"
+        },
+        "3a366210-2ffe-4cfc-ba94-d5d095527d82": {
+            "gate": "87ee6a3d-b8f8-4c58-aea4-3a98fc574c11",
+            "pin": "9c91079e-23f9-48ee-929d-b4220b892f06"
+        },
+        "a439f457-63c3-45e9-8ea3-275e2b7447b9": {
+            "gate": "87ee6a3d-b8f8-4c58-aea4-3a98fc574c11",
+            "pin": "0092aee3-a45c-41f8-8fea-d20458824f66"
+        },
+        "ae30060a-67ee-48fc-b8fb-5b34708fe47c": {
+            "gate": "87ee6a3d-b8f8-4c58-aea4-3a98fc574c11",
+            "pin": "bb4841f8-56ac-4708-9081-bd72e30cc4cf"
+        },
+        "b6248d11-a659-43e3-90a9-bd8a94cb5863": {
+            "gate": "87ee6a3d-b8f8-4c58-aea4-3a98fc574c11",
+            "pin": "399a0761-21a0-4bd9-8062-d70dec589a2c"
+        },
+        "d8e6256f-9893-42c1-bc25-9c6bfa684885": {
+            "gate": "87ee6a3d-b8f8-4c58-aea4-3a98fc574c11",
+            "pin": "cbd138a1-690b-41c5-b18a-b6056756cde6"
+        },
+        "e87bee29-7ada-423c-add2-913ed9dc9787": {
+            "gate": "87ee6a3d-b8f8-4c58-aea4-3a98fc574c11",
+            "pin": "0ce437df-ffd3-4c27-b336-cc78c9868df8"
+        },
+        "e9c6bd66-eea2-408d-bd97-ba9c078491db": {
+            "gate": "87ee6a3d-b8f8-4c58-aea4-3a98fc574c11",
+            "pin": "b048109c-3537-49c8-b651-01a49a7d142c"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "ic"
+    ],
+    "type": "part",
+    "uuid": "de59c9f3-0d02-4329-9ac9-981e79305864",
+    "value": [
+        false,
+        ""
+    ]
+}

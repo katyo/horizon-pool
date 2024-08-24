@@ -1,0 +1,137 @@
+{
+    "MPN": [
+        false,
+        "OrangePi Zero2 Pin Header"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "Main Pin Header for Allwinner H616 based Single Board Computer"
+    ],
+    "entity": "b744a00d-02c9-46c2-874b-35cb9b343058",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Xunlong OrangePi"
+    ],
+    "model": "84ec8229-d872-42f8-bfcc-96938ff02bd1",
+    "package": "9417b923-aa3e-48a8-a6f8-27666d1344f4",
+    "pad_map": {
+        "1dcce640-fd25-4619-a1fb-4985d9b583d0": {
+            "gate": "60033d57-185c-455e-a60d-b7c446bdadf9",
+            "pin": "0683afa1-3b69-47c4-a043-622fcdc9ef8d"
+        },
+        "2fb76c8b-ab1a-4d20-b2b4-d7955e53531f": {
+            "gate": "60033d57-185c-455e-a60d-b7c446bdadf9",
+            "pin": "fe323cdd-e10e-4991-8c39-708dcdf52e86"
+        },
+        "37ad2e38-76ac-4a0b-adf3-2500e30336a0": {
+            "gate": "60033d57-185c-455e-a60d-b7c446bdadf9",
+            "pin": "493a6008-68d2-4bd3-ac7b-077e851f766e"
+        },
+        "3cde8013-3885-4310-90b0-85740b7a45b4": {
+            "gate": "60033d57-185c-455e-a60d-b7c446bdadf9",
+            "pin": "600e93ea-e4ae-4a4a-994d-3ad02a9296a2"
+        },
+        "3ce77ca7-334b-4e4a-8c76-02180cfd899c": {
+            "gate": "60033d57-185c-455e-a60d-b7c446bdadf9",
+            "pin": "5ed57201-df94-4ae8-a724-60d35398776d"
+        },
+        "40856c2b-af0e-41ed-8964-09b369529271": {
+            "gate": "60033d57-185c-455e-a60d-b7c446bdadf9",
+            "pin": "6b0851a5-ed87-4f55-bb61-f4f32f5191d5"
+        },
+        "50f60ff3-0e93-4dc7-8c38-68e52687007d": {
+            "gate": "60033d57-185c-455e-a60d-b7c446bdadf9",
+            "pin": "34ed0f96-10af-451c-8b9a-b21ee86536e7"
+        },
+        "5be6caa5-3d99-4a5a-8d20-a1a322aaadd5": {
+            "gate": "60033d57-185c-455e-a60d-b7c446bdadf9",
+            "pin": "9b6001be-9436-42ad-bbc6-f06b6106fc0b"
+        },
+        "5f03eef9-7af5-402d-a522-212bc6dc4840": {
+            "gate": "60033d57-185c-455e-a60d-b7c446bdadf9",
+            "pin": "da8136e0-f319-4307-a50d-160a437f9643"
+        },
+        "6e68c793-6509-4147-8c3f-fa975298da9d": {
+            "gate": "60033d57-185c-455e-a60d-b7c446bdadf9",
+            "pin": "7bddd7b3-6077-499c-b409-d37ae72951a4"
+        },
+        "7bc2147a-0234-41f6-ab65-444e57a43ce5": {
+            "gate": "60033d57-185c-455e-a60d-b7c446bdadf9",
+            "pin": "8d205e57-3f67-489d-91b4-008d3c8e37ab"
+        },
+        "7de8ad61-d839-4bad-85e8-5b3d093d4d6c": {
+            "gate": "60033d57-185c-455e-a60d-b7c446bdadf9",
+            "pin": "a4053bd5-9057-4d66-847e-90c4339e9257"
+        },
+        "a43c1c45-4e2c-4164-990b-5719d05d21b4": {
+            "gate": "60033d57-185c-455e-a60d-b7c446bdadf9",
+            "pin": "0c9f53e0-2997-4f22-b7de-b2efca78966d"
+        },
+        "b144b636-ec05-47a5-91c2-da2ea855ca21": {
+            "gate": "60033d57-185c-455e-a60d-b7c446bdadf9",
+            "pin": "7973886a-b5fd-4e0b-ba52-82cb15fbbb94"
+        },
+        "b913e143-f4b1-4aa9-899e-b67ed4f6794f": {
+            "gate": "60033d57-185c-455e-a60d-b7c446bdadf9",
+            "pin": "9c87198d-4e07-45ea-87ed-d17bd6b45581"
+        },
+        "bfd2b103-e7d7-4341-a148-42eb023c4a6d": {
+            "gate": "60033d57-185c-455e-a60d-b7c446bdadf9",
+            "pin": "436d7f76-f710-4321-85f0-a77685cbacd0"
+        },
+        "c0e9f2b9-4983-4a30-baaf-c463b549b68f": {
+            "gate": "60033d57-185c-455e-a60d-b7c446bdadf9",
+            "pin": "9a21a0bc-34d5-4f4b-b269-748e54add2e1"
+        },
+        "c8b47a09-16bf-47be-838e-2f014990d806": {
+            "gate": "60033d57-185c-455e-a60d-b7c446bdadf9",
+            "pin": "c2622451-c2a9-4198-a2ab-5c5f1e318cfe"
+        },
+        "cae17a2c-f5a5-401b-856a-087b726ac4e6": {
+            "gate": "60033d57-185c-455e-a60d-b7c446bdadf9",
+            "pin": "2d87532a-73fe-460f-ac53-6392ee32a17e"
+        },
+        "ccf92a7d-63f1-40bd-918f-da246deb854a": {
+            "gate": "60033d57-185c-455e-a60d-b7c446bdadf9",
+            "pin": "55a31c79-ffca-4027-9805-bf9c2ce0d168"
+        },
+        "cda0a45e-3673-43ad-81ff-c6556e1b630a": {
+            "gate": "60033d57-185c-455e-a60d-b7c446bdadf9",
+            "pin": "6f5495e1-d711-4fc9-b51b-519bd5742114"
+        },
+        "e3273f85-b784-4c88-aeb9-562bba5822a3": {
+            "gate": "60033d57-185c-455e-a60d-b7c446bdadf9",
+            "pin": "de792fa2-f8a1-4976-9d6c-58099ed7b125"
+        },
+        "e3f0acff-bf31-4479-ac7b-e2d64d5f218b": {
+            "gate": "60033d57-185c-455e-a60d-b7c446bdadf9",
+            "pin": "51bdffb7-df76-4865-9a11-7f63758cf960"
+        },
+        "e479fb8f-f430-40f4-a1c6-0c4e6f1fd72d": {
+            "gate": "60033d57-185c-455e-a60d-b7c446bdadf9",
+            "pin": "3297fc68-173c-41cf-a46f-c0d50e30ca62"
+        },
+        "f4f2991b-d46c-492e-b2b6-beacc3120e00": {
+            "gate": "60033d57-185c-455e-a60d-b7c446bdadf9",
+            "pin": "c24e6e30-17ed-4e5e-8d95-a21ad70b09f3"
+        },
+        "f5ac41ed-7d82-44b2-8d6b-a60285ac3e7b": {
+            "gate": "60033d57-185c-455e-a60d-b7c446bdadf9",
+            "pin": "7b304c84-03fc-4595-a22d-166650789a75"
+        }
+    },
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "d1b0fff8-3fb6-4111-8a1b-abf35466bf8a",
+    "value": [
+        false,
+        ""
+    ]
+}

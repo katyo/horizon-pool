@@ -1,0 +1,21 @@
+{
+    "gates": {
+        "dd515502-20db-45de-a1fd-85b8a3eb3a10": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "2ac3d2f9-b925-4a68-8dde-e7708e415b07"
+        }
+    },
+    "manufacturer": "Ai-Thinker",
+    "name": "ESP-12",
+    "prefix": "U",
+    "tags": [
+        "iot",
+        "module",
+        "radio",
+        "wifi"
+    ],
+    "type": "entity",
+    "uuid": "c66dd15b-7bd1-4ba1-9be7-41d9ee1dbf9b"
+}

@@ -1,0 +1,147 @@
+{
+    "arcs": {},
+    "can_expand": true,
+    "junctions": {
+        "1f39727d-6846-491d-84fc-616ba1a97d8a": {
+            "position": [
+                2500000,
+                5000000
+            ]
+        },
+        "421eddba-d506-4ea0-b355-d8345347e180": {
+            "position": [
+                5000000,
+                -5000000
+            ]
+        },
+        "5ccdea51-99eb-4cca-b6e9-12e0ebaca923": {
+            "position": [
+                -5000000,
+                -5000000
+            ]
+        },
+        "64a63d43-2d46-4523-b958-35daf192ce69": {
+            "position": [
+                -5000000,
+                5000000
+            ]
+        },
+        "7d031dcf-6079-4ffc-8ee4-f7d222c45a74": {
+            "position": [
+                -2500000,
+                -5000000
+            ]
+        },
+        "d8d39549-e437-4df6-8bf9-3773f6ace468": {
+            "position": [
+                -2500000,
+                5000000
+            ]
+        },
+        "e28b8d01-6ac5-405c-b719-0a3247f461e7": {
+            "position": [
+                5000000,
+                5000000
+            ]
+        },
+        "efd6c55c-166b-42ba-83b8-6cd29c478135": {
+            "position": [
+                2500000,
+                -5000000
+            ]
+        }
+    },
+    "lines": {
+        "41c842b7-2a25-4f02-9ed4-38828d73e791": {
+            "from": "7d031dcf-6079-4ffc-8ee4-f7d222c45a74",
+            "layer": 0,
+            "to": "7d031dcf-6079-4ffc-8ee4-f7d222c45a74",
+            "width": 0
+        },
+        "51f262fa-0a2b-4ac5-9e60-e6a3ddbf9d9d": {
+            "from": "e28b8d01-6ac5-405c-b719-0a3247f461e7",
+            "layer": 0,
+            "to": "421eddba-d506-4ea0-b355-d8345347e180",
+            "width": 0
+        },
+        "75011300-e9c8-4103-b27b-8c8bb88e69e5": {
+            "from": "421eddba-d506-4ea0-b355-d8345347e180",
+            "layer": 0,
+            "to": "efd6c55c-166b-42ba-83b8-6cd29c478135",
+            "width": 0
+        },
+        "87697593-634b-4f63-a253-cddc6cfe44f0": {
+            "from": "efd6c55c-166b-42ba-83b8-6cd29c478135",
+            "layer": 0,
+            "to": "efd6c55c-166b-42ba-83b8-6cd29c478135",
+            "width": 0
+        },
+        "936697d3-9a76-41da-8ac1-0527caa276b5": {
+            "from": "1f39727d-6846-491d-84fc-616ba1a97d8a",
+            "layer": 0,
+            "to": "e28b8d01-6ac5-405c-b719-0a3247f461e7",
+            "width": 0
+        },
+        "99ef3da8-a8af-4705-9193-152f5dcfbd0b": {
+            "from": "64a63d43-2d46-4523-b958-35daf192ce69",
+            "layer": 0,
+            "to": "5ccdea51-99eb-4cca-b6e9-12e0ebaca923",
+            "width": 0
+        },
+        "a67cc27c-9b22-475b-a72d-3ae63ce0b0d2": {
+            "from": "5ccdea51-99eb-4cca-b6e9-12e0ebaca923",
+            "layer": 0,
+            "to": "7d031dcf-6079-4ffc-8ee4-f7d222c45a74",
+            "width": 0
+        },
+        "cf393ea9-005d-41fa-acfc-94f4377eb0b6": {
+            "from": "d8d39549-e437-4df6-8bf9-3773f6ace468",
+            "layer": 0,
+            "to": "64a63d43-2d46-4523-b958-35daf192ce69",
+            "width": 0
+        }
+    },
+    "name": "Optical Switch Housing",
+    "pins": {},
+    "polygons": {},
+    "text_placements": {},
+    "texts": {
+        "584a8820-5ef5-40c0-8c1b-fbc7a42d6998": {
+            "font": "simplex",
+            "from_smash": false,
+            "layer": 0,
+            "origin": "center",
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    -5000000,
+                    6250000
+                ]
+            },
+            "size": 1500000,
+            "text": "$REFDES",
+            "width": 0
+        },
+        "80f3bb85-089e-4918-b07b-70e19944f18e": {
+            "font": "simplex",
+            "from_smash": false,
+            "layer": 0,
+            "origin": "center",
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    -5000000,
+                    -6250000
+                ]
+            },
+            "size": 1500000,
+            "text": "$VALUE",
+            "width": 0
+        }
+    },
+    "type": "symbol",
+    "unit": "10792b58-ee3c-4c1c-ab1f-8d49df37609e",
+    "uuid": "4c674c1b-503b-423e-a871-cda17719a69b"
+}

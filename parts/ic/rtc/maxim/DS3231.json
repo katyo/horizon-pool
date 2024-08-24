@@ -1,0 +1,97 @@
+{
+    "MPN": [
+        false,
+        "DS3231"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "High-Presition Real Time Clock (RTC) I²C"
+    ],
+    "entity": "3278cd3c-0d27-4c25-a91f-e3760801cf0d",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Maxim"
+    ],
+    "model": "57b5e681-65ce-4b26-91c1-c2cbdd53eb94",
+    "package": "0628ff4b-64e1-440d-af41-c5c111e7d0cb",
+    "pad_map": {
+        "054e5e35-33b6-4d3f-a537-13d65a437245": {
+            "gate": "5dfa0c38-e30e-48b1-9880-5b323781ef02",
+            "pin": "ff7a2595-7810-4301-b8ee-0966bc01618c"
+        },
+        "15377a68-742e-4139-b99d-aef9b0dcdf1b": {
+            "gate": "5dfa0c38-e30e-48b1-9880-5b323781ef02",
+            "pin": "c8b709c1-fd37-4e62-a586-4662008a6fcf"
+        },
+        "2139a97d-6656-4c41-8a96-5ce09c394134": {
+            "gate": "5dfa0c38-e30e-48b1-9880-5b323781ef02",
+            "pin": "9a2ed42c-e701-419e-8823-98ffae246088"
+        },
+        "38170a04-83df-432b-87a8-b7774cf646d9": {
+            "gate": "5dfa0c38-e30e-48b1-9880-5b323781ef02",
+            "pin": "16175cf3-3b42-44d1-b89b-ac953ab30952"
+        },
+        "48b8bca9-c275-4635-8295-02f87ab377f1": {
+            "gate": "5dfa0c38-e30e-48b1-9880-5b323781ef02",
+            "pin": "49e6efc3-8e02-47ab-b1b1-01cf03abb47e"
+        },
+        "525be594-e7f7-408f-96da-359a3f27c8bb": {
+            "gate": "5dfa0c38-e30e-48b1-9880-5b323781ef02",
+            "pin": "116ba167-16f6-4bb8-8f2f-5185a4c02c42"
+        },
+        "5f82bffb-51b4-430d-bf35-f71d7b947227": {
+            "gate": "5dfa0c38-e30e-48b1-9880-5b323781ef02",
+            "pin": "ba2d6cca-f9e9-4ea2-b079-7cbdf42968fa"
+        },
+        "615be9c4-ae15-4fa9-b1c2-7a0022a936bb": {
+            "gate": "5dfa0c38-e30e-48b1-9880-5b323781ef02",
+            "pin": "820cd7a0-9127-485e-951e-dc00393649fa"
+        },
+        "91ce1122-fe89-4986-b813-808284041bd5": {
+            "gate": "5dfa0c38-e30e-48b1-9880-5b323781ef02",
+            "pin": "d59e4404-13f9-4655-941e-621798ba5948"
+        },
+        "96df77b4-960e-4392-ba5a-727ffd53fbc8": {
+            "gate": "5dfa0c38-e30e-48b1-9880-5b323781ef02",
+            "pin": "f3139080-7b16-46f9-95c3-c56c72548d4d"
+        },
+        "a260c305-6ccf-4738-b4be-0720dea7ed12": {
+            "gate": "5dfa0c38-e30e-48b1-9880-5b323781ef02",
+            "pin": "b75b2379-d3cb-4cd0-a95e-be3eff45cca1"
+        },
+        "c1e2b1ae-087d-4d79-b5e7-d0cdd06d4d76": {
+            "gate": "5dfa0c38-e30e-48b1-9880-5b323781ef02",
+            "pin": "9984c3fa-a58a-45b9-971f-e4146afc86c1"
+        },
+        "e177a964-0c5d-40c4-9d6e-bfeeb705a5ca": {
+            "gate": "5dfa0c38-e30e-48b1-9880-5b323781ef02",
+            "pin": "56622d49-f955-4092-bc9e-f8ad8dd91565"
+        },
+        "ebcd67bd-f5d4-4bc1-8ccd-71b691ac5975": {
+            "gate": "5dfa0c38-e30e-48b1-9880-5b323781ef02",
+            "pin": "05d706ff-21eb-4eed-afed-6b22e32f1d23"
+        },
+        "f0e2b3ae-e696-439f-bca9-1e77299db1c2": {
+            "gate": "5dfa0c38-e30e-48b1-9880-5b323781ef02",
+            "pin": "e4985cee-e90e-4568-9c93-7caa9d3fd287"
+        },
+        "fbc8dfa6-3677-4b81-8100-3280ddc9c6cf": {
+            "gate": "5dfa0c38-e30e-48b1-9880-5b323781ef02",
+            "pin": "06d6c1f1-6657-414a-b504-1ef8aa29b4e8"
+        }
+    },
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "b628b722-9d6a-4fef-89e9-9e030e10b307",
+    "value": [
+        false,
+        ""
+    ]
+}

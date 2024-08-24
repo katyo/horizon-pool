@@ -1,0 +1,61 @@
+{
+    "MPN": [
+        false,
+        "USB-A connector with shield"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "USB-A socket"
+    ],
+    "entity": "202b2d1c-e6cb-4832-aa8b-39d1aeff6fe7",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        ""
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "8b70470d-a2fc-4e0b-8824-fea12e4b0c72",
+    "pad_map": {
+        "19813dee-4a25-4dbd-90e5-30c701a2dfa8": {
+            "gate": "82d603cb-4aab-44a1-90f9-d27bedd7133e",
+            "pin": "393bbed9-8924-4934-ac24-2cf32d8af8c8"
+        },
+        "592d9545-64a2-4281-ae96-f87beeab716e": {
+            "gate": "82d603cb-4aab-44a1-90f9-d27bedd7133e",
+            "pin": "6a805b9e-cda4-4c01-ad45-ad8d96d7de48"
+        },
+        "7c502a03-3d0d-44a1-934a-6a079ea12d11": {
+            "gate": "82d603cb-4aab-44a1-90f9-d27bedd7133e",
+            "pin": "6a805b9e-cda4-4c01-ad45-ad8d96d7de48"
+        },
+        "8dcd98a2-40fb-4773-b5f4-73aa81bb05e4": {
+            "gate": "82d603cb-4aab-44a1-90f9-d27bedd7133e",
+            "pin": "a5726f76-0de5-4924-91f1-76564cac556c"
+        },
+        "e87c6fa8-0ef9-4555-90e8-19fb2fc9b489": {
+            "gate": "82d603cb-4aab-44a1-90f9-d27bedd7133e",
+            "pin": "2e422f41-bfbc-46ad-abbe-167843a99170"
+        },
+        "fe375a3f-0ab7-4cfb-b4e1-fbb72c3b88bb": {
+            "gate": "82d603cb-4aab-44a1-90f9-d27bedd7133e",
+            "pin": "b6e7a3ce-cb8b-4694-a9c2-7991691592a2"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "connector",
+        "usb",
+        "usb-a"
+    ],
+    "type": "part",
+    "uuid": "194f6eb8-e759-4234-b808-4bcf40b92543",
+    "value": [
+        false,
+        ""
+    ]
+}

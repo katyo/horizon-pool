@@ -1,0 +1,20 @@
+{
+    "gates": {
+        "a32e8673-187f-414f-ae33-2921953207c1": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "6a29277d-77de-4d14-a411-16c1a197fc6f"
+        }
+    },
+    "manufacturer": "",
+    "name": "Opto-Transistor Coupler NPN",
+    "prefix": "U",
+    "tags": [
+        "npn",
+        "opto",
+        "transistor"
+    ],
+    "type": "entity",
+    "uuid": "6da71aa7-1d4f-4823-ba2f-c43f2d8092a5"
+}

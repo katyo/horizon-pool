@@ -1,0 +1,53 @@
+{
+    "MPN": [
+        false,
+        "AM2320"
+    ],
+    "datasheet": [
+        false,
+        "https://cdn-learn.adafruit.com/downloads/pdf/adafruit-am2320-temperature-humidity-i2c-sensor.pdf"
+    ],
+    "description": [
+        false,
+        "I2C Temperature and Relative Humidity sensor"
+    ],
+    "entity": "9ca80bb2-64b4-46c5-8e12-392e1957c2c6",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Aosong"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "0a213765-353b-4840-8f0c-c3dae11358d1",
+    "pad_map": {
+        "2dd06792-7762-4452-be3b-8f64b88bdbae": {
+            "gate": "cbb82a4c-6669-4ec6-9b70-aa4ccbbd0580",
+            "pin": "20cd279e-f7fc-44fb-b904-83ce0b8f725d"
+        },
+        "3b9182b8-e4a6-41c4-98b6-ad73ab34d173": {
+            "gate": "cbb82a4c-6669-4ec6-9b70-aa4ccbbd0580",
+            "pin": "51624cff-c14b-441d-8e63-972524ea3789"
+        },
+        "e27e098d-7fe3-4a31-894d-956dd5091a11": {
+            "gate": "cbb82a4c-6669-4ec6-9b70-aa4ccbbd0580",
+            "pin": "7dfafbce-cebb-4990-943a-9ab7154e59e1"
+        },
+        "e57401c2-175c-4ce8-bd97-dac27272dee6": {
+            "gate": "cbb82a4c-6669-4ec6-9b70-aa4ccbbd0580",
+            "pin": "e8a630d2-aec0-445c-808d-bf953d55c2b6"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "i2c",
+        "ic",
+        "sensor"
+    ],
+    "type": "part",
+    "uuid": "2236fefb-7536-48e5-8553-499c1d2867f5",
+    "value": [
+        false,
+        ""
+    ]
+}

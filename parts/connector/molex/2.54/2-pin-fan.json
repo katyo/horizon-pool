@@ -1,0 +1,41 @@
+{
+    "MPN": [
+        false,
+        "2-Pin Fan Socket"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "Generic 2-Pin Fan Socket"
+    ],
+    "entity": "890bb1b8-ef37-410e-be47-76f67807acde",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        ""
+    ],
+    "model": "8269570c-e15b-45c8-8504-b7e955ab6ebe",
+    "package": "c19e45f3-6e41-4381-8dec-a9f078e18d47",
+    "pad_map": {
+        "aff19be2-c21e-415a-8803-ade140cd5033": {
+            "gate": "51b54ec4-ff3e-486b-9824-1b0df1647263",
+            "pin": "2400e738-0178-47e0-8186-eeb96afb7fdd"
+        },
+        "c4ff80d6-c3a2-484d-892f-359e1422b25d": {
+            "gate": "51b54ec4-ff3e-486b-9824-1b0df1647263",
+            "pin": "cf0cf7f8-8be0-4807-bba5-cc0bc5120410"
+        }
+    },
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "a19fefaf-5c8a-4948-a8a0-660d5d370969",
+    "value": [
+        false,
+        ""
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "MPN": [
+        false,
+        "SLA-12VDC-SL-A"
+    ],
+    "base": "9e6b4822-61cc-4d73-ac04-e0fa756e1245",
+    "datasheet": [
+        true,
+        "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_Ningbo-Songle-Relay-SLA-12VDC-SL-A_C55194.pdf"
+    ],
+    "description": [
+        true,
+        "30A SPST-NO relay"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        true,
+        "Songle Relay"
+    ],
+    "model": "75fd27f6-0740-4fe9-9ea8-3ecfb3633c83",
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "977b27b1-26f2-4e45-97cd-3e9311361237",
+    "value": [
+        true,
+        "SLA--SL-A"
+    ]
+}

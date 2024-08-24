@@ -1,0 +1,49 @@
+{
+    "MPN": [
+        false,
+        "4-Pogo Pads with 2-Magnets 16x6mm"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "PCB 4-Pogo Pads with 2-Magnets 16x6mm"
+    ],
+    "entity": "64ffe153-20d8-4902-9321-1f18027cb84d",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        ""
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "a7003d08-7003-43d9-862c-1b5b88d669e9",
+    "pad_map": {
+        "1821b70e-64d9-4ff5-84bc-bf09b0eee785": {
+            "gate": "a96a662e-2077-467f-9853-a01865f76ad6",
+            "pin": "4b3e1234-17b7-41dc-af26-90574ec82303"
+        },
+        "b2a63864-4a64-4543-b4d5-aef86de9cf92": {
+            "gate": "a96a662e-2077-467f-9853-a01865f76ad6",
+            "pin": "423d0d6c-4330-417f-a6f0-267741d4c770"
+        },
+        "c96f8028-69b3-4d1e-b97d-242543750372": {
+            "gate": "a96a662e-2077-467f-9853-a01865f76ad6",
+            "pin": "9c153b03-fb7b-4f99-a5ed-ca45d3ae512e"
+        },
+        "fc296c55-a2fe-4495-853d-d69875e01216": {
+            "gate": "a96a662e-2077-467f-9853-a01865f76ad6",
+            "pin": "aab503ca-26da-43ff-a268-cf0db0698910"
+        }
+    },
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "b454fd49-f4ac-4359-945d-c14fd08806d8",
+    "value": [
+        false,
+        ""
+    ]
+}

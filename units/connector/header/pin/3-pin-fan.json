@@ -1,0 +1,59 @@
+{
+    "manufacturer": "",
+    "name": "3-Pin Fan Socket",
+    "pins": {
+        "16c6355d-bd50-4371-b922-2dffcdd7ea68": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "GND",
+            "swap_group": 0
+        },
+        "2603c87e-be69-429c-8c90-1362d14d3dff": {
+            "alt_names": {
+                "0221adb2-b367-4b99-9307-1e21752e8388": {
+                    "direction": "power_input",
+                    "name": "12V"
+                },
+                "57b1a58b-53e8-429e-8b13-582655d3c85f": {
+                    "direction": "power_input",
+                    "name": "+5V"
+                },
+                "65eebac8-beda-4185-b768-bfb04a5f3a30": {
+                    "direction": "power_input",
+                    "name": "VCC"
+                },
+                "7464faf2-f7c1-4040-9a98-3ae0ea931233": {
+                    "direction": "power_input",
+                    "name": "PWM"
+                },
+                "a244493a-90b9-4710-940a-eaffef2f582d": {
+                    "direction": "power_input",
+                    "name": "5V"
+                },
+                "d094f3c5-c9c8-4fb7-aa3a-ae6c245ca83d": {
+                    "direction": "power_input",
+                    "name": "CTRL"
+                }
+            },
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "+12V",
+            "swap_group": 0
+        },
+        "6e3b3343-4c63-47ec-b952-98851c5b342d": {
+            "alt_names": {
+                "0221adb2-b367-4b99-9307-1e21752e8388": {
+                    "direction": "output",
+                    "name": "TACH"
+                }
+            },
+            "direction": "output",
+            "names": [],
+            "primary_name": "SENS",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "fe4bb8eb-8e82-44d2-adb7-ba082c65bbbb",
+    "version": 1
+}

@@ -1,0 +1,30 @@
+{
+    "MPN": [
+        false,
+        "SRD-12VDC-SL-C"
+    ],
+    "base": "f4834436-ab7f-403c-839f-242c848a05d5",
+    "datasheet": [
+        true,
+        "https://www.lcsc.com/datasheet/lcsc_datasheet_2304140030_Ningbo-Songle-Relay-SRD-12VDC-SL-C_C30431.pdf"
+    ],
+    "description": [
+        true,
+        "10A SPDT relay"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        true,
+        "Songle Relay"
+    ],
+    "model": "f907adb2-a278-4c9b-8b75-bef32997a92d",
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "ab2f3029-320e-4719-a79e-7be33f3f0b40",
+    "value": [
+        true,
+        "SRD--SL-C"
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "MPN": [
+        false,
+        "100u 1A SMD Inductor D7.5mm H5mm"
+    ],
+    "base": "40b1e651-1f2a-4327-84cb-63b8ee410fa8",
+    "datasheet": [
+        true,
+        ""
+    ],
+    "description": [
+        false,
+        "100u 1A SMD Inductor D7.5mm H5mm"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        true,
+        ""
+    ],
+    "model": "0f2ababc-b923-48a0-8259-0a62b46eff59",
+    "parametric": {
+        "dcr": "0",
+        "idc": "1",
+        "table": "inductors",
+        "value": "0.0001"
+    },
+    "tags": [],
+    "type": "part",
+    "uuid": "baf53b48-49de-4421-a074-9e4ea08b464a",
+    "value": [
+        true,
+        "Base SMD Inductor D7.5mm H5mm"
+    ]
+}

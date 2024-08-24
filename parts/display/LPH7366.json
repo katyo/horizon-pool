@@ -1,0 +1,72 @@
+{
+    "MPN": [
+        false,
+        "LPH7366"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "PCD8544-based monochrome LCD display 48x84 pixels"
+    ],
+    "entity": "03ac5e37-5106-4b44-b8dc-c1b7ec437870",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        ""
+    ],
+    "model": "517e6fec-7820-4815-bc17-6c0be977dffa",
+    "package": "74f80380-a1e0-4372-b181-625e543053a7",
+    "pad_map": {
+        "23dc03e4-4685-42ec-a64b-fbe2d8565204": {
+            "gate": "0c534b96-2d6c-494e-ad1a-2c691e7e6832",
+            "pin": "bba9c204-034a-4be4-8615-a5639271e35a"
+        },
+        "2d4c833b-65ee-42e6-82b9-c3b756358c12": {
+            "gate": "0c534b96-2d6c-494e-ad1a-2c691e7e6832",
+            "pin": "bbd30f45-c834-45e5-babb-ce660779fe71"
+        },
+        "4296a6a5-444c-4944-b52b-dbe88954511d": {
+            "gate": "0c534b96-2d6c-494e-ad1a-2c691e7e6832",
+            "pin": "080fa0aa-2b06-4a52-a2b5-0ce82da5cc68"
+        },
+        "4a57c1d9-fb3c-4daf-92a4-4d9400cc14dd": {
+            "gate": "0c534b96-2d6c-494e-ad1a-2c691e7e6832",
+            "pin": "7979a2f6-5bcd-41cb-9359-d1afc1647f3f"
+        },
+        "87ce4908-c69c-4285-be4e-26587171cf0d": {
+            "gate": "0c534b96-2d6c-494e-ad1a-2c691e7e6832",
+            "pin": "0985afbc-33a7-4c0c-b322-c5c7e4195987"
+        },
+        "a79f6438-4812-4823-8ff7-1b7f56b673f7": {
+            "gate": "0c534b96-2d6c-494e-ad1a-2c691e7e6832",
+            "pin": "a0d215f5-840a-4d71-9523-b60daead4536"
+        },
+        "c0dad6b7-9467-4890-834c-29c16c8afbaa": {
+            "gate": "0c534b96-2d6c-494e-ad1a-2c691e7e6832",
+            "pin": "57b5e9c5-08e2-4ca9-b7c9-206d6bc7292c"
+        },
+        "c490e6e9-44a3-45d9-a91e-8108728ffd84": {
+            "gate": "0c534b96-2d6c-494e-ad1a-2c691e7e6832",
+            "pin": "e67f96e1-4807-431a-80ea-69c9689dee4e"
+        },
+        "fdb321c0-d18d-442e-8a64-aad653f3e2a3": {
+            "gate": "0c534b96-2d6c-494e-ad1a-2c691e7e6832",
+            "pin": "04073411-758a-46e7-9bc1-a70d09a97499"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "display",
+        "lcd"
+    ],
+    "type": "part",
+    "uuid": "80e3dace-28b6-4278-86df-a3fe490c1780",
+    "value": [
+        false,
+        ""
+    ]
+}

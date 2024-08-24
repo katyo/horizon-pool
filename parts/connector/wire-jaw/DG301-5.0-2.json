@@ -1,0 +1,41 @@
+{
+    "MPN": [
+        false,
+        "DG301-5.0-2"
+    ],
+    "datasheet": [
+        false,
+        "https://www.tme.com/Document/72ad9f371bb0c16572574ac47903b3a1/DG301-5.0.pdf"
+    ],
+    "description": [
+        false,
+        "two port wire jaw connector"
+    ],
+    "entity": "29f544a1-a789-4fe6-a1ef-29da5ba3d371",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        ""
+    ],
+    "model": "1dcc0c70-0f64-4692-8193-24d563a9dd1d",
+    "package": "09f05b50-27f8-4d8e-b435-b37ecc618aaf",
+    "pad_map": {
+        "b9d582af-c20f-4d4a-b345-6d2cfb1177d6": {
+            "gate": "eb7f68b1-6fba-4a35-a470-2cecb23fe087",
+            "pin": "588536f1-9e96-4500-bcbb-4ba48082b643"
+        },
+        "e5c3c462-8e39-4991-9520-f5fd593a5aa9": {
+            "gate": "eb7f68b1-6fba-4a35-a470-2cecb23fe087",
+            "pin": "b3cef4f5-fe6c-45b5-b063-1618f997168f"
+        }
+    },
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "bffd7f01-12d8-4dbe-a75f-dae2a4ef44d2",
+    "value": [
+        false,
+        ""
+    ]
+}

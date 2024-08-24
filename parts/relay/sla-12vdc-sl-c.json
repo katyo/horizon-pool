@@ -1,0 +1,32 @@
+{
+    "MPN": [
+        false,
+        "SLA-12VDC-SL-C"
+    ],
+    "base": "a7909588-4794-4dc8-aefc-05e23c713a5d",
+    "datasheet": [
+        true,
+        "http://images.100y.com.tw/pdf_file/29-SLA-12VDC-SL-C.pdf"
+    ],
+    "description": [
+        true,
+        "30A SPDT relay"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        true,
+        "Songle Relay"
+    ],
+    "model": "75fd27f6-0740-4fe9-9ea8-3ecfb3633c83",
+    "parametric": {},
+    "tags": [
+        "12v"
+    ],
+    "type": "part",
+    "uuid": "8b315677-7113-4add-a148-30fa8311970f",
+    "value": [
+        true,
+        "SLA--SL-C"
+    ]
+}

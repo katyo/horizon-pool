@@ -1,0 +1,56 @@
+{
+    "manufacturer": "",
+    "name": "SN74LVC2T45DCUR",
+    "pins": {
+        "0092aee3-a45c-41f8-8fea-d20458824f66": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "GND",
+            "swap_group": 0
+        },
+        "0ce437df-ffd3-4c27-b336-cc78c9868df8": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "DIR",
+            "swap_group": 0
+        },
+        "399a0761-21a0-4bd9-8062-d70dec589a2c": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "A2",
+            "swap_group": 0
+        },
+        "5c3181f7-d7f4-4a07-9597-e83d376400c8": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VCCB",
+            "swap_group": 0
+        },
+        "9c91079e-23f9-48ee-929d-b4220b892f06": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "B1",
+            "swap_group": 0
+        },
+        "b048109c-3537-49c8-b651-01a49a7d142c": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "B2",
+            "swap_group": 0
+        },
+        "bb4841f8-56ac-4708-9081-bd72e30cc4cf": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VCCA",
+            "swap_group": 0
+        },
+        "cbd138a1-690b-41c5-b18a-b6056756cde6": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "A1",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "5b95bb4b-0945-4f42-a35d-021222e65f07"
+}

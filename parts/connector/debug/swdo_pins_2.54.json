@@ -1,0 +1,56 @@
+{
+    "MPN": [
+        false,
+        "SWDO Pins 2.54"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "5-PIN SWDO Header"
+    ],
+    "entity": "94eeff41-2b91-486d-b459-e46cae93645e",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        ""
+    ],
+    "model": "84ec8229-d872-42f8-bfcc-96938ff02bd1",
+    "package": "4c8c3bc5-ef5b-4829-8e84-5c20ef7e195a",
+    "pad_map": {
+        "37ad2e38-76ac-4a0b-adf3-2500e30336a0": {
+            "gate": "5bf775c5-e43d-425d-9f0a-7ee1c943dc9f",
+            "pin": "f145b239-7c41-4ef7-aa44-1f431ac11f6d"
+        },
+        "7bc2147a-0234-41f6-ab65-444e57a43ce5": {
+            "gate": "5bf775c5-e43d-425d-9f0a-7ee1c943dc9f",
+            "pin": "55c97191-4394-45b3-bf3a-8b024441720d"
+        },
+        "7de8ad61-d839-4bad-85e8-5b3d093d4d6c": {
+            "gate": "5bf775c5-e43d-425d-9f0a-7ee1c943dc9f",
+            "pin": "7ea37030-8ea2-4adc-b50b-45680c561572"
+        },
+        "a43c1c45-4e2c-4164-990b-5719d05d21b4": {
+            "gate": "5bf775c5-e43d-425d-9f0a-7ee1c943dc9f",
+            "pin": "ebda3a8e-aae4-4825-aca5-aa5b94b4c9c8"
+        },
+        "f4f2991b-d46c-492e-b2b6-beacc3120e00": {
+            "gate": "5bf775c5-e43d-425d-9f0a-7ee1c943dc9f",
+            "pin": "99a36c86-b287-44a0-b380-0a50ef476d5f"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "connector",
+        "debug"
+    ],
+    "type": "part",
+    "uuid": "eb501d34-8e5e-42b7-9ca9-62d366c5a91f",
+    "value": [
+        false,
+        ""
+    ]
+}

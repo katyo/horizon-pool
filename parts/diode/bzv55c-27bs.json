@@ -1,0 +1,30 @@
+{
+    "MPN": [
+        false,
+        "BZV55C-27BS"
+    ],
+    "base": "a2c8e62d-4ff1-422e-b5fc-e6e1f8b9d35e",
+    "datasheet": [
+        true,
+        "https://www.rectron.com/data_sheets/bzv55c-bs.pdf"
+    ],
+    "description": [
+        true,
+        "Zener Diode"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        true,
+        "Rectron"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "df621c75-29c7-4e96-be15-f04a364223ff",
+    "value": [
+        true,
+        "BZV55C"
+    ]
+}

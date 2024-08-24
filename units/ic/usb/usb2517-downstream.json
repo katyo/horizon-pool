@@ -1,0 +1,77 @@
+{
+    "manufacturer": "Microchip",
+    "name": "USB2517 Downstream",
+    "pins": {
+        "57fa4a90-bb8b-411c-852e-d0e4ee1913fc": {
+            "alt_names": {
+                "079c5f8b-0d78-41d3-aadf-7eb9db5a4434": {
+                    "direction": "input",
+                    "name": "PRT_DIS_M"
+                }
+            },
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "USBDN_DM",
+            "swap_group": 0
+        },
+        "60d03836-21a2-4ffa-b176-3f692814ed9c": {
+            "alt_names": {
+                "079c5f8b-0d78-41d3-aadf-7eb9db5a4434": {
+                    "direction": "input",
+                    "name": "PRT_DIS_P"
+                }
+            },
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "USBDN_DP",
+            "swap_group": 0
+        },
+        "6c08f615-b6cd-4f58-95c0-23740bb5f442": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "OCS_N",
+            "swap_group": 0
+        },
+        "cf03e755-8862-4a2e-8efa-5bac16c39a8d": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "PRTPWR",
+            "swap_group": 0
+        },
+        "e45655f7-13d0-452c-8aa2-772b47ac2d0f": {
+            "alt_names": {
+                "abc44983-1d54-4651-b3e5-450c8ce41e04": {
+                    "direction": "input",
+                    "name": "PRT_SWP"
+                }
+            },
+            "direction": "output",
+            "names": [],
+            "primary_name": "LED_A_N",
+            "swap_group": 0
+        },
+        "fa12e9ab-c10e-40e6-af96-2ef3ca4f6f8d": {
+            "alt_names": {
+                "171eaa4b-cf3c-4eef-85f5-361f0187dbc6": {
+                    "direction": "input",
+                    "name": "DS3_GANG"
+                },
+                "d976a785-0080-4009-8c50-da1fd78adb73": {
+                    "direction": "input",
+                    "name": "DS2_BOOST1"
+                },
+                "e1bc5503-4e27-448a-a9de-18855813ae1f": {
+                    "direction": "input",
+                    "name": "DS1_BOOST0"
+                }
+            },
+            "direction": "output",
+            "names": [],
+            "primary_name": "LED_B_N",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "1c3da5c9-2128-4797-b4da-4d3155c99db4",
+    "version": 1
+}

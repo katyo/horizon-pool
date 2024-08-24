@@ -1,0 +1,18 @@
+{
+    "gates": {
+        "3fb7650f-55c9-417f-aaad-89e2a71bf543": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "bcebb394-ca94-4147-b5c2-7cf2057a8ebf"
+        }
+    },
+    "manufacturer": "Shenzhen Limito Technology Inc.",
+    "name": "LH096NT-IF09",
+    "prefix": "X",
+    "tags": [
+        "module"
+    ],
+    "type": "entity",
+    "uuid": "19c1b1b7-1013-4c69-aa3d-b33d114a9647"
+}

@@ -1,0 +1,20 @@
+{
+    "gates": {
+        "a32e8673-187f-414f-ae33-2921953207c1": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "cb3b7b1c-0f50-45fd-9ba7-17313c31b696"
+        }
+    },
+    "manufacturer": "",
+    "name": "Photo-Transistor NPN",
+    "prefix": "Q",
+    "tags": [
+        "npn",
+        "opto",
+        "transistor"
+    ],
+    "type": "entity",
+    "uuid": "852ef78f-f8dd-47a4-9d4b-ec0088440ad6"
+}

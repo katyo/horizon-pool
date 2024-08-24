@@ -1,0 +1,168 @@
+{
+    "arcs": {},
+    "can_expand": false,
+    "junctions": {
+        "28d00d41-1b40-4278-820c-2ddcb4836c70": {
+            "position": [
+                -3750000,
+                -6250000
+            ]
+        },
+        "3ce495c6-2248-48f3-ad87-a7e5b8ae7fb0": {
+            "position": [
+                3750000,
+                -6250000
+            ]
+        },
+        "b33b98e9-4de5-469b-b03c-86112822091c": {
+            "position": [
+                -3750000,
+                6250000
+            ]
+        },
+        "f4d925af-b252-48d2-be92-41ef963b152f": {
+            "position": [
+                3750000,
+                6250000
+            ]
+        }
+    },
+    "lines": {
+        "6c55f814-e934-4a3c-8c0e-f0b1c9007d88": {
+            "from": "3ce495c6-2248-48f3-ad87-a7e5b8ae7fb0",
+            "layer": 0,
+            "to": "28d00d41-1b40-4278-820c-2ddcb4836c70",
+            "width": 0
+        },
+        "7d25c18c-bc14-4858-a348-b3920be7fff5": {
+            "from": "f4d925af-b252-48d2-be92-41ef963b152f",
+            "layer": 0,
+            "to": "3ce495c6-2248-48f3-ad87-a7e5b8ae7fb0",
+            "width": 0
+        },
+        "879d7395-5731-4bd0-a02c-85639376bd74": {
+            "from": "b33b98e9-4de5-469b-b03c-86112822091c",
+            "layer": 0,
+            "to": "f4d925af-b252-48d2-be92-41ef963b152f",
+            "width": 0
+        },
+        "8b440627-93c6-4ef0-874e-084f5e246f8f": {
+            "from": "28d00d41-1b40-4278-820c-2ddcb4836c70",
+            "layer": 0,
+            "to": "b33b98e9-4de5-469b-b03c-86112822091c",
+            "width": 0
+        }
+    },
+    "name": "Powered UART Header ",
+    "pins": {
+        "42cb06da-6f02-4815-87c0-25ddf1b9013c": {
+            "decoration": {
+                "clock": false,
+                "dot": false,
+                "driver": "default",
+                "schmitt": false
+            },
+            "length": 2500000,
+            "name_orientation": "in_line",
+            "name_visible": true,
+            "orientation": "left",
+            "pad_visible": true,
+            "position": [
+                -6250000,
+                1250000
+            ]
+        },
+        "75a43ace-3308-4bc6-a219-e70293a9edb9": {
+            "decoration": {
+                "clock": false,
+                "dot": false,
+                "driver": "default",
+                "schmitt": false
+            },
+            "length": 2500000,
+            "name_orientation": "in_line",
+            "name_visible": true,
+            "orientation": "left",
+            "pad_visible": true,
+            "position": [
+                -6250000,
+                3750000
+            ]
+        },
+        "b97b0e04-49b2-428f-a639-7e1e0f147523": {
+            "decoration": {
+                "clock": false,
+                "dot": false,
+                "driver": "default",
+                "schmitt": false
+            },
+            "length": 2500000,
+            "name_orientation": "in_line",
+            "name_visible": true,
+            "orientation": "left",
+            "pad_visible": true,
+            "position": [
+                -6250000,
+                -3750000
+            ]
+        },
+        "df21dfde-8afe-4e4d-a1ac-f0d5a4303dbc": {
+            "decoration": {
+                "clock": false,
+                "dot": false,
+                "driver": "default",
+                "schmitt": false
+            },
+            "length": 2500000,
+            "name_orientation": "in_line",
+            "name_visible": true,
+            "orientation": "left",
+            "pad_visible": true,
+            "position": [
+                -6250000,
+                -1250000
+            ]
+        }
+    },
+    "polygons": {},
+    "text_placements": {},
+    "texts": {
+        "c0d74cf3-293e-4f54-a045-e4043b6df60e": {
+            "font": "simplex",
+            "from_smash": false,
+            "layer": 0,
+            "origin": "center",
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    -5000000,
+                    7500000
+                ]
+            },
+            "size": 1500000,
+            "text": "$REFDES",
+            "width": 0
+        },
+        "fbd4bebf-01e7-4e7c-a0ff-a59b00f28789": {
+            "font": "simplex",
+            "from_smash": false,
+            "layer": 0,
+            "origin": "center",
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    -5000000,
+                    -7500000
+                ]
+            },
+            "size": 1500000,
+            "text": "$VALUE",
+            "width": 0
+        }
+    },
+    "type": "symbol",
+    "unit": "bc1ff09d-da35-4693-b2f3-50175a4f47e0",
+    "uuid": "74542fd4-e41a-4ef6-b8d0-dfd456c8f717"
+}

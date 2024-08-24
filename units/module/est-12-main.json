@@ -1,0 +1,277 @@
+{
+    "manufacturer": "Ai-Thinker",
+    "name": "ESP-12 Main",
+    "pins": {
+        "003721fe-a998-4319-912e-d55893474cf2": {
+            "alt_names": {
+                "22fe85c8-3629-411e-956a-72f0a5e1d270": {
+                    "direction": "input",
+                    "name": "ADC"
+                }
+            },
+            "direction": "input",
+            "names": [],
+            "primary_name": "TOUT",
+            "swap_group": 0
+        },
+        "0b71d403-03c7-42c1-95a6-4bd700718970": {
+            "alt_names": {
+                "b1b2056e-88f3-4593-ad0a-71c2ba9b7a5d": {
+                    "direction": "input",
+                    "name": "IR_RX"
+                }
+            },
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "GPIO5",
+            "swap_group": 0
+        },
+        "12976a63-b83f-4f15-9261-731702861cf2": {
+            "alt_names": {
+                "9ba087fe-f293-4e6c-be60-160e4da8b267": {
+                    "direction": "output",
+                    "name": "PWM3"
+                }
+            },
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "GPIO4",
+            "swap_group": 0
+        },
+        "16c41cf1-8373-493a-ac3d-81f4cfc698f7": {
+            "alt_names": {
+                "2053b41b-60d5-42e8-ab4d-df356f07ad04": {
+                    "direction": "bidirectional",
+                    "name": "GPIO1"
+                },
+                "9ac40fb9-c6b2-4907-970d-3a783b1e117d": {
+                    "direction": "bidirectional",
+                    "name": "SPI_CS1"
+                }
+            },
+            "direction": "output",
+            "names": [],
+            "primary_name": "U0_TXD",
+            "swap_group": 0
+        },
+        "1b9e5065-d1d1-4c24-867f-fd569b93f0db": {
+            "alt_names": {
+                "80b7537f-e304-40ff-8b0d-621e55a77b60": {
+                    "direction": "bidirectional",
+                    "name": "HSPI_ID"
+                },
+                "8c99c9ce-de64-47ab-ad69-82849a580d9b": {
+                    "direction": "input",
+                    "name": "I2SI_BCK"
+                },
+                "b18d781b-817b-4a20-87dc-a6e318077b8d": {
+                    "direction": "bidirectional",
+                    "name": "GPIO13"
+                },
+                "bf71ab97-c5b2-4bc7-8acb-d03a9a2b346d": {
+                    "direction": "bidirectional",
+                    "name": "HSPI_MOSI"
+                },
+                "e2f428a2-2aa8-451a-baa1-47a6c346f9a3": {
+                    "direction": "input",
+                    "name": "UART0_CTS"
+                }
+            },
+            "direction": "output",
+            "names": [],
+            "primary_name": "MTCK",
+            "swap_group": 0
+        },
+        "31a6ee18-b86a-463d-a623-76f17d63e4eb": {
+            "alt_names": {
+                "5c23e258-7456-4990-a5cd-b78fde67759f": {
+                    "direction": "bidirectional",
+                    "name": "I2C_SDA"
+                },
+                "603c80f4-90fc-426a-993b-d383fe5d0e41": {
+                    "direction": "output",
+                    "name": "UART1_TXD"
+                },
+                "6b9b5be6-976d-4eb2-9732-31a2f9427dc2": {
+                    "direction": "output",
+                    "name": "I2SO_WS"
+                }
+            },
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "GPIO2",
+            "swap_group": 0
+        },
+        "42a6d210-97bb-4a76-ab02-52b29f6ec7ad": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "GND",
+            "swap_group": 0
+        },
+        "6670d63d-fb54-4fd9-ae1e-242727f9dab2": {
+            "alt_names": {
+                "b86cebed-ef03-47f4-adb2-a66791193764": {
+                    "direction": "bidirectional",
+                    "name": "GPIO5"
+                },
+                "eec74133-d8ad-4be7-a052-e0314a9068f1": {
+                    "direction": "output",
+                    "name": "I2SO_DATA"
+                }
+            },
+            "direction": "input",
+            "names": [],
+            "primary_name": "U0_RXD",
+            "swap_group": 0
+        },
+        "89a4113b-9b51-49d6-857f-a0f13aa632be": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VCC",
+            "swap_group": 0
+        },
+        "8ac0ebf9-8a32-4a6f-a87b-a50a77147a04": {
+            "alt_names": {
+                "2366339b-7a59-447f-ab1e-0d4d3670b217": {
+                    "direction": "bidirectional",
+                    "name": "GPIO14"
+                },
+                "5313ff5f-5403-4246-bf0f-7ff6f5d4caab": {
+                    "direction": "bidirectional",
+                    "name": "I2C_SCL"
+                },
+                "72ff0b38-18d4-4cfa-887e-a9b70a6c243b": {
+                    "direction": "output",
+                    "name": "IR_TX"
+                },
+                "7e357785-20b0-462e-8dd5-6bd722740e5c": {
+                    "direction": "bidirectional",
+                    "name": "HSPI_CLK"
+                },
+                "baca1a65-0d7e-491e-9238-e49f6591fc29": {
+                    "direction": "input",
+                    "name": "I2SI_WS"
+                },
+                "e6412bdb-af38-4ff8-b937-c6cb7b6fc665": {
+                    "direction": "input",
+                    "name": "PWM2"
+                }
+            },
+            "direction": "output",
+            "names": [],
+            "primary_name": "MTMS",
+            "swap_group": 0
+        },
+        "b2fc4c6a-daa4-44ec-9234-383c56923e6d": {
+            "alt_names": {
+                "315ae105-6250-4887-8b99-e08360b1bd1d": {
+                    "direction": "bidirectional",
+                    "name": "SPI_CS2"
+                }
+            },
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "GPIO0",
+            "swap_group": 0
+        },
+        "b6077510-f616-472f-a777-e6cc8185b645": {
+            "alt_names": {
+                "c5a4503b-a149-4c7e-a762-9c37e59be949": {
+                    "direction": "bidirectional",
+                    "name": "GPIO16"
+                },
+                "d9a957ec-0bd8-4c95-8fdc-0198ca0e5fa7": {
+                    "direction": "input",
+                    "name": "WAKE"
+                }
+            },
+            "direction": "output",
+            "names": [],
+            "primary_name": "XPD_DCDC",
+            "swap_group": 0
+        },
+        "bc293628-2eaf-44eb-b039-62d787fb7464": {
+            "alt_names": {
+                "192a372a-6ddc-45e4-888b-dc72487d80bb": {
+                    "direction": "input",
+                    "name": "~RST"
+                }
+            },
+            "direction": "input",
+            "names": [],
+            "primary_name": "~EXT_RSTB",
+            "swap_group": 0
+        },
+        "cc75d03a-dcc7-4f20-b881-bf8014905769": {
+            "alt_names": {
+                "6b5bf11e-26a1-4d96-af3e-23ac4a7a5046": {
+                    "direction": "input",
+                    "name": "~CHIP_PD"
+                }
+            },
+            "direction": "input",
+            "names": [],
+            "primary_name": "CHIP_EN",
+            "swap_group": 0
+        },
+        "dcaf0b34-cba4-4ca7-90b5-b126b0b7a37b": {
+            "alt_names": {
+                "09138177-bb72-44f7-b5d8-6b6efb5284d4": {
+                    "direction": "bidirectional",
+                    "name": "GPIO15"
+                },
+                "1b0124db-2b1e-458b-9f2d-27f85451c5cf": {
+                    "direction": "bidirectional",
+                    "name": "HSPI_CS"
+                },
+                "45e7a943-a313-4f0a-9779-4d031d672457": {
+                    "direction": "output",
+                    "name": "UART0_RTS"
+                },
+                "568c4807-60f0-4f61-9f34-8e603102e990": {
+                    "direction": "output",
+                    "name": "PWM1"
+                },
+                "ded910e6-02f0-480b-b740-45f0c8b934bd": {
+                    "direction": "output",
+                    "name": "I2SO_BCK"
+                }
+            },
+            "direction": "output",
+            "names": [],
+            "primary_name": "MTDO",
+            "swap_group": 0
+        },
+        "eeda5433-87f2-43cd-814b-14ca06da3b08": {
+            "alt_names": {
+                "45f0f505-886e-4a07-90e1-976d8a16284e": {
+                    "direction": "bidirectional",
+                    "name": "GPIO12"
+                },
+                "82f707b5-4a38-48b5-92e6-ff37d425e14d": {
+                    "direction": "bidirectional",
+                    "name": "HSPI_MISO"
+                },
+                "c0f3a219-2a32-4336-be3a-b4c7b8ca3ee3": {
+                    "direction": "output",
+                    "name": "PWM0"
+                },
+                "de8bf70f-85cd-47ed-b953-3ac093ffcb6c": {
+                    "direction": "bidirectional",
+                    "name": "HSPI_IQ"
+                },
+                "ebcd05b5-752e-426c-81bb-53bb72b461cf": {
+                    "direction": "input",
+                    "name": "I2SI_DATA"
+                }
+            },
+            "direction": "input",
+            "names": [],
+            "primary_name": "MTDI",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "2ac3d2f9-b925-4a68-8dde-e7708e415b07",
+    "version": 1
+}

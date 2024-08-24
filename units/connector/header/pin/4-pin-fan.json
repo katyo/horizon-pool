@@ -1,0 +1,63 @@
+{
+    "manufacturer": "",
+    "name": "4-Pin Fan Socket",
+    "pins": {
+        "088a56a4-8ab1-42a8-8cdd-8dd1757b6f2a": {
+            "alt_names": {
+                "bc745ad4-9a86-48f5-ac4f-4f7d163b2af1": {
+                    "direction": "input",
+                    "name": "PWM"
+                }
+            },
+            "direction": "input",
+            "names": [],
+            "primary_name": "CTRL",
+            "swap_group": 0
+        },
+        "580dad55-0234-4a7b-946c-37f03e1918e4": {
+            "alt_names": {
+                "bc745ad4-9a86-48f5-ac4f-4f7d163b2af1": {
+                    "direction": "output",
+                    "name": "TACH"
+                }
+            },
+            "direction": "output",
+            "names": [],
+            "primary_name": "SENS",
+            "swap_group": 0
+        },
+        "69f12afb-ddcc-4fe7-bd6b-735e47251d8f": {
+            "alt_names": {
+                "2f5d155e-0ef0-446d-8840-722f03c765dc": {
+                    "direction": "power_input",
+                    "name": "+5V"
+                },
+                "7d214245-bb60-4936-8630-1108e20f7d04": {
+                    "direction": "power_input",
+                    "name": "VCC"
+                },
+                "b3de9047-6718-4f29-b61f-618f5c90bb2b": {
+                    "direction": "power_input",
+                    "name": "12V"
+                },
+                "fae50cb1-69dc-4599-bb25-42a22452db77": {
+                    "direction": "power_input",
+                    "name": "5V"
+                }
+            },
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "+12V",
+            "swap_group": 0
+        },
+        "a6f6a89b-db7d-4a35-9d22-6a690410a0f0": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "GND",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "b7323cda-c57d-4894-a852-693700265a9c",
+    "version": 1
+}

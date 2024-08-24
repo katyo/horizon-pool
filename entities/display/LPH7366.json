@@ -1,0 +1,19 @@
+{
+    "gates": {
+        "0c534b96-2d6c-494e-ad1a-2c691e7e6832": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "a22f12c8-c85c-4b74-94c9-9edc05f93051"
+        }
+    },
+    "manufacturer": "",
+    "name": "LPH7366",
+    "prefix": "U",
+    "tags": [
+        "display",
+        "lcd"
+    ],
+    "type": "entity",
+    "uuid": "03ac5e37-5106-4b44-b8dc-c1b7ec437870"
+}

@@ -1,0 +1,32 @@
+{
+    "MPN": [
+        false,
+        "Low-Profile Optical Switch"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "Keychron Hot-Swapable Low-Profile Optical Switch"
+    ],
+    "entity": "59699532-d624-4c36-9806-4018803579f7",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        ""
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "656756b7-e495-4b91-8219-e3bcb0b0cdc5",
+    "pad_map": {},
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "34e82743-3e16-4000-8b82-58bbeb1ab18e",
+    "value": [
+        false,
+        ""
+    ]
+}

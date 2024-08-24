@@ -1,0 +1,56 @@
+{
+    "MPN": [
+        false,
+        "SWDO Pogo Pads 1.6 with Slot"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "5-PIN SWDO Pogo Pads"
+    ],
+    "entity": "94eeff41-2b91-486d-b459-e46cae93645e",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        ""
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "29167d5e-036c-4d5b-a705-fb3bccb2fc74",
+    "pad_map": {
+        "14756acf-b1e7-4960-be00-dc94b5a8a3b6": {
+            "gate": "5bf775c5-e43d-425d-9f0a-7ee1c943dc9f",
+            "pin": "55c97191-4394-45b3-bf3a-8b024441720d"
+        },
+        "496c4bfc-fd08-4f06-8be0-e7d9d20c01b6": {
+            "gate": "5bf775c5-e43d-425d-9f0a-7ee1c943dc9f",
+            "pin": "99a36c86-b287-44a0-b380-0a50ef476d5f"
+        },
+        "74b52192-b725-481c-b2d0-e419795cf95b": {
+            "gate": "5bf775c5-e43d-425d-9f0a-7ee1c943dc9f",
+            "pin": "f145b239-7c41-4ef7-aa44-1f431ac11f6d"
+        },
+        "8805289b-b15c-4615-9992-efa7b6e0e791": {
+            "gate": "5bf775c5-e43d-425d-9f0a-7ee1c943dc9f",
+            "pin": "ebda3a8e-aae4-4825-aca5-aa5b94b4c9c8"
+        },
+        "9cbcf3f9-4e7d-4c5b-beaa-4f862cc770a5": {
+            "gate": "5bf775c5-e43d-425d-9f0a-7ee1c943dc9f",
+            "pin": "7ea37030-8ea2-4adc-b50b-45680c561572"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "connector",
+        "header"
+    ],
+    "type": "part",
+    "uuid": "8e6e7886-60d6-4000-a89e-72d8bca5f727",
+    "value": [
+        false,
+        ""
+    ]
+}

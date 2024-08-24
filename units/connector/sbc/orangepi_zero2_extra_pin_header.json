@@ -1,0 +1,86 @@
+{
+    "manufacturer": "Xunlong OrangePi",
+    "name": "OrangePi Zero2 Extra Pin Header",
+    "pins": {
+        "2d87532a-73fe-460f-ac53-6392ee32a17e": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "TV-OUT",
+            "swap_group": 0
+        },
+        "3297fc68-173c-41cf-a46f-c0d50e30ca62": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "IR-RX",
+            "swap_group": 0
+        },
+        "493a6008-68d2-4bd3-ac7b-077e851f766e": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "USB2-DP",
+            "swap_group": 0
+        },
+        "6f5495e1-d711-4fc9-b51b-519bd5742114": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PI16",
+            "swap_group": 0
+        },
+        "7973886a-b5fd-4e0b-ba52-82cb15fbbb94": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "AOUT-L",
+            "swap_group": 0
+        },
+        "7b304c84-03fc-4595-a22d-166650789a75": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "USB3-DM",
+            "swap_group": 0
+        },
+        "7bddd7b3-6077-499c-b409-d37ae72951a4": {
+            "direction": "power_output",
+            "names": [],
+            "primary_name": "GND",
+            "swap_group": 0
+        },
+        "8d205e57-3f67-489d-91b4-008d3c8e37ab": {
+            "direction": "power_output",
+            "names": [],
+            "primary_name": "5V",
+            "swap_group": 0
+        },
+        "9b6001be-9436-42ad-bbc6-f06b6106fc0b": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "AOUT-R",
+            "swap_group": 0
+        },
+        "9c87198d-4e07-45ea-87ed-d17bd6b45581": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "USB3-DP",
+            "swap_group": 0
+        },
+        "a4053bd5-9057-4d66-847e-90c4339e9257": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "USB2-DM",
+            "swap_group": 0
+        },
+        "c2622451-c2a9-4198-a2ab-5c5f1e318cfe": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PC1",
+            "swap_group": 0
+        },
+        "fe323cdd-e10e-4991-8c39-708dcdf52e86": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PI6",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "34351e9b-1ee1-4410-b8b7-cf95215fdfe3"
+}

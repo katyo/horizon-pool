@@ -1,0 +1,20 @@
+{
+    "manufacturer": "",
+    "name": "Battery",
+    "pins": {
+        "612a6202-c332-47bd-9b56-082ba293a92d": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "-",
+            "swap_group": 0
+        },
+        "f7093245-a9d3-4e75-87a4-fec6e1806f76": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "+",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "04ec78f7-82fe-4deb-a815-09efec068c69"
+}

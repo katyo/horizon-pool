@@ -1,0 +1,76 @@
+{
+    "MPN": [
+        false,
+        "Resistor Pack 4x0603"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "Resistor Pack 4x0603"
+    ],
+    "entity": "51a4a0eb-d339-4b64-99d8-1477a4694eb0",
+    "flags": {
+        "base_part": "set",
+        "exclude_bom": "clear",
+        "exclude_pnp": "clear"
+    },
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        ""
+    ],
+    "model": "d4cbfc19-591a-414c-92f8-9e8bb3fa0103",
+    "package": "905f50d8-6d7f-412f-a103-e7500542565f",
+    "pad_map": {
+        "0c66d97e-a404-4f39-aae3-78127319e671": {
+            "gate": "82355876-4668-4f65-a71d-cf34c3f4d88e",
+            "pin": "dda0ec99-5d70-4fbe-a8db-897542e7554e"
+        },
+        "22eb55e4-5574-4a43-b499-560977d2d536": {
+            "gate": "933f7a4d-b112-49ef-b3c5-008dc881b021",
+            "pin": "dda0ec99-5d70-4fbe-a8db-897542e7554e"
+        },
+        "63a25edd-5af6-4d05-a07c-cbe8fe0a1538": {
+            "gate": "933f7a4d-b112-49ef-b3c5-008dc881b021",
+            "pin": "6a44037c-65e2-4876-9359-42890048841d"
+        },
+        "6d0615b6-4caf-4c9a-9831-8020e06409c2": {
+            "gate": "88e61f09-7165-4cc1-8d77-684862cf9bc5",
+            "pin": "6a44037c-65e2-4876-9359-42890048841d"
+        },
+        "76edb591-262f-4062-befc-f6e28f5dc6d7": {
+            "gate": "88e61f09-7165-4cc1-8d77-684862cf9bc5",
+            "pin": "dda0ec99-5d70-4fbe-a8db-897542e7554e"
+        },
+        "9cadf7f0-edc7-4819-b1b8-c7364033ef7c": {
+            "gate": "82355876-4668-4f65-a71d-cf34c3f4d88e",
+            "pin": "6a44037c-65e2-4876-9359-42890048841d"
+        },
+        "d28d9bd4-0d8b-4307-9ef4-1946d52e2c8d": {
+            "gate": "cd0c840d-f366-47db-b94f-631a66491d2c",
+            "pin": "6a44037c-65e2-4876-9359-42890048841d"
+        },
+        "e7d78975-aa21-4cfb-8296-38bc12fcc019": {
+            "gate": "cd0c840d-f366-47db-b94f-631a66491d2c",
+            "pin": "dda0ec99-5d70-4fbe-a8db-897542e7554e"
+        }
+    },
+    "parametric": {
+        "pmax": "0",
+        "table": "resistors",
+        "tolerance": "0",
+        "value": "0"
+    },
+    "tags": [],
+    "type": "part",
+    "uuid": "8867aab1-4a61-45c9-b843-9861e855e9aa",
+    "value": [
+        false,
+        "0 Ω"
+    ],
+    "version": 1
+}

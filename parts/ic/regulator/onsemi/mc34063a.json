@@ -1,0 +1,71 @@
+{
+    "MPN": [
+        false,
+        "MC34063A"
+    ],
+    "datasheet": [
+        false,
+        "https://www.onsemi.com/pdf/datasheet/mc34063a-d.pdf"
+    ],
+    "description": [
+        false,
+        "1.5A Inverting Regulator - Buck, Boost, Switching"
+    ],
+    "entity": "1905dc54-6b2f-49e4-8935-719d0338844a",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "ON Semiconductor"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "0932e22e-0cf7-46dc-b09c-4cc761a67608",
+    "pad_map": {
+        "17341892-a120-44e2-97ea-6e4f8e3d7da5": {
+            "gate": "c4f95f92-a54f-476c-9e6b-401aace865a6",
+            "pin": "826c29b7-18d6-489a-9418-b73f6835b961"
+        },
+        "29f18ab8-6cea-44fc-9bf5-4fb888f5245b": {
+            "gate": "c4f95f92-a54f-476c-9e6b-401aace865a6",
+            "pin": "c7e6a48d-67e1-464f-81a0-8d62660c6fe4"
+        },
+        "3d725e25-0d60-46cb-a21f-82462d3ce156": {
+            "gate": "c4f95f92-a54f-476c-9e6b-401aace865a6",
+            "pin": "2a5ed5a6-d126-4dee-8841-502c344e2748"
+        },
+        "51d7c05f-acae-46d5-9c26-2ea9d17bf7a8": {
+            "gate": "c4f95f92-a54f-476c-9e6b-401aace865a6",
+            "pin": "5e919bc6-f942-4c53-9f50-72bd7173c308"
+        },
+        "68b17b6f-ab52-4c2b-9389-c36d3c06eeef": {
+            "gate": "c4f95f92-a54f-476c-9e6b-401aace865a6",
+            "pin": "cca87f9d-7fae-4254-b730-84deda22c252"
+        },
+        "6f82c7c4-9578-4cb0-a92c-8b09534d5dc9": {
+            "gate": "c4f95f92-a54f-476c-9e6b-401aace865a6",
+            "pin": "6f2758aa-86f7-4253-b390-86cc5ca67268"
+        },
+        "82d773fb-4473-4bd9-a879-a6ca2756055c": {
+            "gate": "c4f95f92-a54f-476c-9e6b-401aace865a6",
+            "pin": "24f9d8da-fefc-4702-8de6-266a66bcbe37"
+        },
+        "b9ad4acf-f78d-438d-8b7b-e83ee0f9cc19": {
+            "gate": "c4f95f92-a54f-476c-9e6b-401aace865a6",
+            "pin": "8b755d7c-02ea-43ff-8743-e650c3acc329"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "boost",
+        "buck",
+        "dcdc",
+        "ic",
+        "regulator"
+    ],
+    "type": "part",
+    "uuid": "a9613c15-0f4c-46ec-ab4a-49b954ae8ac0",
+    "value": [
+        false,
+        ""
+    ]
+}

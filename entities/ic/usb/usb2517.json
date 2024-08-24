@@ -1,0 +1,79 @@
+{
+    "gates": {
+        "0a70ca08-eeed-4d84-a8c0-be2bb0ac4dff": {
+            "name": "USB Downstream 6",
+            "suffix": "F",
+            "swap_group": 1,
+            "unit": "1c3da5c9-2128-4797-b4da-4d3155c99db4"
+        },
+        "1ff0fc30-f6a3-4beb-9baf-8d0265e0c31e": {
+            "name": "Misc",
+            "suffix": "M",
+            "swap_group": 0,
+            "unit": "79b77505-f233-4725-83e1-2e7bff254dae"
+        },
+        "4327e4d6-f3b7-4122-97eb-8d09fae8669e": {
+            "name": "Interface",
+            "suffix": "I",
+            "swap_group": 0,
+            "unit": "64c96065-03e5-4e7e-be1c-d072c6914f3c"
+        },
+        "57c9e217-95ab-428c-a6f2-5a1e0b9d8593": {
+            "name": "USB Downstream 1",
+            "suffix": "A",
+            "swap_group": 1,
+            "unit": "1c3da5c9-2128-4797-b4da-4d3155c99db4"
+        },
+        "5f006196-0ed7-4547-b974-2ef5f267fde6": {
+            "name": "USB Downstream 5",
+            "suffix": "E",
+            "swap_group": 1,
+            "unit": "1c3da5c9-2128-4797-b4da-4d3155c99db4"
+        },
+        "8aef5b75-097e-453b-bf5d-49ceee45b2c9": {
+            "name": "USB Downstream 7",
+            "suffix": "G",
+            "swap_group": 1,
+            "unit": "1c3da5c9-2128-4797-b4da-4d3155c99db4"
+        },
+        "99dcc73a-91f2-4cd4-8c00-961c11ea4642": {
+            "name": "USB Downstream 3",
+            "suffix": "C",
+            "swap_group": 1,
+            "unit": "1c3da5c9-2128-4797-b4da-4d3155c99db4"
+        },
+        "b0613ae5-0294-4fe6-bcd6-3c5890932e01": {
+            "name": "USB Downstream 2",
+            "suffix": "B",
+            "swap_group": 1,
+            "unit": "1c3da5c9-2128-4797-b4da-4d3155c99db4"
+        },
+        "bc2d0efc-3a2e-4076-8213-9f729f1da874": {
+            "name": "USB Downstream 4",
+            "suffix": "D",
+            "swap_group": 1,
+            "unit": "1c3da5c9-2128-4797-b4da-4d3155c99db4"
+        },
+        "d6beaf93-9cab-4b36-9481-d8a3f7aa7822": {
+            "name": "Power",
+            "suffix": "P",
+            "swap_group": 0,
+            "unit": "23b2786b-1beb-4487-a9a5-3a64e2a3ee39"
+        },
+        "e41956fd-a23b-4312-aa79-05047663d23d": {
+            "name": "USB Upstream",
+            "suffix": "U",
+            "swap_group": 0,
+            "unit": "b2888bbe-99a2-4337-8ece-195f4c485828"
+        }
+    },
+    "manufacturer": "Microchip",
+    "name": "USB2517",
+    "prefix": "U",
+    "tags": [
+        "hub",
+        "usb"
+    ],
+    "type": "entity",
+    "uuid": "630c7290-8a8b-426b-b71c-c5c60eb750ed"
+}

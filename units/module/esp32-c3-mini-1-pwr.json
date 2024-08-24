@@ -1,0 +1,146 @@
+{
+    "manufacturer": "Espressif",
+    "name": "ESP32-C3-MINI-1 Pwr",
+    "pins": {
+        "01fb68fc-f483-41bf-8a42-65fc217bf3d5": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "GND22",
+            "swap_group": 0
+        },
+        "056fc6c2-c2bb-48ab-9b44-89ba2be155d4": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "GND5",
+            "swap_group": 0
+        },
+        "275ec1f7-93f8-41e8-a7b8-613fbc6ceab3": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "GND12",
+            "swap_group": 0
+        },
+        "284137ad-369f-4c56-b1ca-9426c1d22a7c": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "GND6",
+            "swap_group": 0
+        },
+        "2f7f6073-4a24-4e0e-bbe4-db2086bc9655": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "GND15",
+            "swap_group": 0
+        },
+        "3dc08e22-ac44-45ed-8652-b26d6489db62": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "GND10",
+            "swap_group": 0
+        },
+        "3ef8c21d-2fbd-4456-a445-458358e0a89d": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "GND20",
+            "swap_group": 0
+        },
+        "4147c7c4-25ab-4e9f-b2d8-37cb5abb1cca": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "GND4",
+            "swap_group": 0
+        },
+        "4909e19f-957c-4da2-bfde-4cac7e5792be": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "GND7",
+            "swap_group": 0
+        },
+        "5f6e2443-d166-46e7-95b2-03bb9f5321c4": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "GND19",
+            "swap_group": 0
+        },
+        "65534f1d-e528-4aa5-a11b-ab92f50e4525": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "GND18",
+            "swap_group": 0
+        },
+        "72ebe51b-bee7-458f-8f08-9d9547bd329e": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "3V3",
+            "swap_group": 0
+        },
+        "83ce0597-7960-4899-82e8-47383e226672": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "GND3",
+            "swap_group": 0
+        },
+        "88bb40e1-b3a3-4e60-876d-cd61b7a707e2": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "GND9",
+            "swap_group": 0
+        },
+        "8d2b263a-885f-4f91-90a0-92df38db47cc": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "GND2",
+            "swap_group": 0
+        },
+        "8db4fa4a-d0e8-45ae-a0e9-08f32f43a6d1": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "GND17",
+            "swap_group": 0
+        },
+        "9a308475-32fa-4e3c-830b-8e24bd014cd6": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "GND13",
+            "swap_group": 0
+        },
+        "bf0a2150-95be-44eb-a996-c90c4b13e8d7": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "GND1",
+            "swap_group": 0
+        },
+        "d0864a04-1489-46fc-bf14-d82a08b1d3f9": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "GND14",
+            "swap_group": 0
+        },
+        "dec4f1ea-3506-483f-aa9d-d83bf43a66e9": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "GND16",
+            "swap_group": 0
+        },
+        "df967c8e-cf84-4561-b88d-4269e1afcd41": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "GND11",
+            "swap_group": 0
+        },
+        "ee102939-9b9e-4a93-92fe-9954c379392a": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "GND8",
+            "swap_group": 0
+        },
+        "ee22e885-b61d-40ac-8e9c-b441b56c87d3": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "GND21",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "a1b3cf47-35ae-46fc-af87-535cbf276c7f"
+}

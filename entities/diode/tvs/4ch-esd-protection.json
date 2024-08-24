@@ -1,0 +1,19 @@
+{
+    "gates": {
+        "9739436a-28aa-4c52-ab94-a38b0a5a0856": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "0b62c130-a936-402c-9213-f6fdf6f05ff6"
+        }
+    },
+    "manufacturer": "",
+    "name": "4CH ESD Protection",
+    "prefix": "D",
+    "tags": [
+        "diode",
+        "esd"
+    ],
+    "type": "entity",
+    "uuid": "3729b6e1-d3f4-43d7-86cf-312f332f4a30"
+}

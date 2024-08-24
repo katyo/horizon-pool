@@ -1,0 +1,30 @@
+{
+    "MPN": [
+        false,
+        "PT0603 940NM NPN RA"
+    ],
+    "base": "e28e844c-df91-4de2-b670-f0e68a434d24",
+    "datasheet": [
+        true,
+        ""
+    ],
+    "description": [
+        false,
+        "BDQ 0603 940NM Infra-Red Photo-Transistor Receiver NPN Right Angle"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        false,
+        "BDQ"
+    ],
+    "model": "bb3da64d-20c6-408b-bff1-a83e492a3f7f",
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "422ec95f-0a69-483c-93d3-63079ded640b",
+    "value": [
+        true,
+        "0603 Photo-Transistor Receiver NPN"
+    ]
+}

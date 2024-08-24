@@ -1,0 +1,45 @@
+{
+    "MPN": [
+        false,
+        "0603 Photo-Transistor NPN Right Angle"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "Generic 0603 Photo-Transistor NPN Right Angle"
+    ],
+    "entity": "852ef78f-f8dd-47a4-9d4b-ec0088440ad6",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        ""
+    ],
+    "model": "bb3da64d-20c6-408b-bff1-a83e492a3f7f",
+    "package": "7c761d55-5273-430f-8adc-e7edb0cacc2f",
+    "pad_map": {
+        "1a32a4c6-0adc-4947-ab27-c14c3380ecc6": {
+            "gate": "a32e8673-187f-414f-ae33-2921953207c1",
+            "pin": "a1754538-4d10-4c86-a7a0-7c17d15ba7e8"
+        },
+        "dec661f3-a37e-4510-b296-a64510e72bd3": {
+            "gate": "a32e8673-187f-414f-ae33-2921953207c1",
+            "pin": "ab389406-1038-4eca-b2eb-9052ac95bae2"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "npn",
+        "photo",
+        "transistor"
+    ],
+    "type": "part",
+    "uuid": "e28e844c-df91-4de2-b670-f0e68a434d24",
+    "value": [
+        false,
+        ""
+    ]
+}

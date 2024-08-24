@@ -1,0 +1,31 @@
+{
+    "gates": {
+        "249516a1-0bd1-4c66-933f-8b4247a9f9e1": {
+            "name": "Mux2",
+            "suffix": "B",
+            "swap_group": 0,
+            "unit": "4533ef52-8d97-401d-9775-411f5ead90eb"
+        },
+        "38064580-2e82-4d27-8748-a264427e7522": {
+            "name": "Com",
+            "suffix": "P",
+            "swap_group": 0,
+            "unit": "5f221b8a-2060-4ae9-834a-a0cbcbe48346"
+        },
+        "e151fcfe-77d0-4804-b55b-f96e8a2c5639": {
+            "name": "Mux1",
+            "suffix": "A",
+            "swap_group": 0,
+            "unit": "4533ef52-8d97-401d-9775-411f5ead90eb"
+        }
+    },
+    "manufacturer": "ON Semiconductor",
+    "name": "MC74HCT4052A",
+    "prefix": "U",
+    "tags": [
+        "analog",
+        "mux"
+    ],
+    "type": "entity",
+    "uuid": "6d85a4a3-ed0d-4365-b1ac-c9ce19ecafe7"
+}

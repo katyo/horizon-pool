@@ -1,0 +1,55 @@
+{
+    "MPN": [
+        false,
+        "LTV-356T"
+    ],
+    "datasheet": [
+        false,
+        "https://optoelectronics.liteon.com/upload/download/DS70-2001-010/LTV-356T%20series%20201610.pdf"
+    ],
+    "description": [
+        false,
+        "General purpose photocoupler"
+    ],
+    "entity": "6da71aa7-1d4f-4823-ba2f-c43f2d8092a5",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Lite-On"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "c36e70c0-ba3f-4a2b-bfc1-2789f97aff0c",
+    "pad_map": {
+        "0ca736e7-078d-4a28-a21c-f6c3ffe4093f": {
+            "gate": "a32e8673-187f-414f-ae33-2921953207c1",
+            "pin": "a1754538-4d10-4c86-a7a0-7c17d15ba7e8"
+        },
+        "46025a85-edeb-41e0-a62f-0c8abe47963d": {
+            "gate": "a32e8673-187f-414f-ae33-2921953207c1",
+            "pin": "5172e1fe-e3f0-43e0-9863-465c59f46ab7"
+        },
+        "94da5106-cbdb-4328-8557-3dae87cea10d": {
+            "gate": "a32e8673-187f-414f-ae33-2921953207c1",
+            "pin": "49aea420-016d-4ba2-9451-5996acefec56"
+        },
+        "c1e6d7ed-4004-4b88-be36-9347f60fa684": {
+            "gate": "a32e8673-187f-414f-ae33-2921953207c1",
+            "pin": "ab389406-1038-4eca-b2eb-9052ac95bae2"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "led",
+        "npn",
+        "optocoupler",
+        "optoisolator",
+        "transistor"
+    ],
+    "type": "part",
+    "uuid": "b6847f9a-3253-4551-9bdd-cda1fbf02c91",
+    "value": [
+        false,
+        ""
+    ]
+}

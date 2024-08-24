@@ -1,0 +1,62 @@
+{
+    "MPN": [
+        false,
+        "SRD--SL-C"
+    ],
+    "datasheet": [
+        false,
+        "https://www.lcsc.com/datasheet/lcsc_datasheet_2304140030_Ningbo-Songle-Relay-SRD-12VDC-SL-C_C30431.pdf"
+    ],
+    "description": [
+        false,
+        "10A SPDT relay"
+    ],
+    "entity": "dfae677e-b4f8-42f2-9646-642dfcc51194",
+    "flags": {
+        "base_part": "set",
+        "exclude_bom": "clear",
+        "exclude_pnp": "clear"
+    },
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Songle Relay"
+    ],
+    "model": "f907adb2-a278-4c9b-8b75-bef32997a92d",
+    "package": "13f8a03d-cc38-4264-a3c3-52f186845015",
+    "pad_map": {
+        "0dfc5fcb-dda7-43bd-b9a7-37ae38c3efa9": {
+            "gate": "c96cbc2d-5ec7-4a9e-8c3b-2d39d2e0ee1b",
+            "pin": "89d629ab-c2a7-4d80-95ca-77e426228c67"
+        },
+        "1eecf3a6-c311-444e-881c-051a0f3ffc9c": {
+            "gate": "c96cbc2d-5ec7-4a9e-8c3b-2d39d2e0ee1b",
+            "pin": "e6cf1e3f-8b25-49a6-aff9-2efff4751051"
+        },
+        "c71daf22-67a4-4db4-80dc-5fd4c957c584": {
+            "gate": "c96cbc2d-5ec7-4a9e-8c3b-2d39d2e0ee1b",
+            "pin": "c3f4c29b-5443-45cd-8ca8-41545f6eef4b"
+        },
+        "cb77b7dd-2c82-41e2-bc63-a694ed17ffbf": {
+            "gate": "c96cbc2d-5ec7-4a9e-8c3b-2d39d2e0ee1b",
+            "pin": "867b5c01-f941-4cf2-84a1-c19e7e221b92"
+        },
+        "fa7780d0-bedb-4c05-a8e9-d40462842a54": {
+            "gate": "c96cbc2d-5ec7-4a9e-8c3b-2d39d2e0ee1b",
+            "pin": "8dba8db9-8c86-4fa7-b79d-89404a3d9662"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "relay",
+        "spdt"
+    ],
+    "type": "part",
+    "uuid": "f4834436-ab7f-403c-839f-242c848a05d5",
+    "value": [
+        false,
+        ""
+    ],
+    "version": 1
+}

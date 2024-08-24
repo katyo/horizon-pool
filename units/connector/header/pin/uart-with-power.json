@@ -1,0 +1,45 @@
+{
+    "manufacturer": "",
+    "name": "Powered UART Header ",
+    "pins": {
+        "42cb06da-6f02-4815-87c0-25ddf1b9013c": {
+            "alt_names": {
+                "09fd9e5f-c8dc-4e3e-8aab-27c9ac1aada7": {
+                    "direction": "input",
+                    "name": "RX"
+                }
+            },
+            "direction": "output",
+            "names": [],
+            "primary_name": "TX",
+            "swap_group": 0
+        },
+        "75a43ace-3308-4bc6-a219-e70293a9edb9": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VCC",
+            "swap_group": 0
+        },
+        "b97b0e04-49b2-428f-a639-7e1e0f147523": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "GND",
+            "swap_group": 0
+        },
+        "df21dfde-8afe-4e4d-a1ac-f0d5a4303dbc": {
+            "alt_names": {
+                "4c74d10c-a441-4ff0-b0bf-8b8b72e5068a": {
+                    "direction": "output",
+                    "name": "TX"
+                }
+            },
+            "direction": "input",
+            "names": [],
+            "primary_name": "RX",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "bc1ff09d-da35-4693-b2f3-50175a4f47e0",
+    "version": 1
+}

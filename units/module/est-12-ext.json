@@ -1,0 +1,125 @@
+{
+    "manufacturer": "Ai-Thinker",
+    "name": "ESP-12 Ext",
+    "pins": {
+        "43149bec-08b4-49b9-962f-37f5a3a1ce55": {
+            "alt_names": {
+                "14e38fe3-cc41-41bd-b477-fe95a9d9a8a4": {
+                    "direction": "bidirectional",
+                    "name": "GPIO6"
+                },
+                "5c36bddb-16f3-4272-9ab8-6a4967782574": {
+                    "direction": "bidirectional",
+                    "name": "SPI_CLK"
+                }
+            },
+            "direction": "output",
+            "names": [],
+            "primary_name": "SDIO_CLK",
+            "swap_group": 0
+        },
+        "a7fd91e7-97ac-457b-a4d4-0757ed9a1cd3": {
+            "alt_names": {
+                "3cf76cc3-c819-4b5d-ad0e-f3ae92d839bf": {
+                    "direction": "bidirectional",
+                    "name": "GPIO9"
+                },
+                "b543d9ee-c20f-44d9-a0f5-d249b676ff63": {
+                    "direction": "bidirectional",
+                    "name": "HSPI_HD"
+                },
+                "dd8e3877-046a-44e9-b99d-cd72afdc7295": {
+                    "direction": "bidirectional",
+                    "name": "SPI_HD"
+                }
+            },
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "SDIO_D2",
+            "swap_group": 0
+        },
+        "bc18ba78-10e1-4db3-918e-89533a50afe5": {
+            "alt_names": {
+                "49b452e5-a29e-4173-9c72-d1d22c2a4eb9": {
+                    "direction": "bidirectional",
+                    "name": "GPIO10"
+                },
+                "8909cc95-00c6-46fa-9985-0571d63cd5c8": {
+                    "direction": "bidirectional",
+                    "name": "SPI_WP"
+                },
+                "9150363b-0307-4e39-bc90-8deee387af76": {
+                    "direction": "bidirectional",
+                    "name": "HSPI_WP"
+                }
+            },
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "SDIO_D3",
+            "swap_group": 0
+        },
+        "df9c038b-51c1-44b5-8086-81c6d1732451": {
+            "alt_names": {
+                "02094032-f2bc-48e4-a415-57ad601c41e7": {
+                    "direction": "input",
+                    "name": "SPI_D"
+                },
+                "1c3f9276-abbc-405e-8fb6-b35bd29ed2cf": {
+                    "direction": "bidirectional",
+                    "name": "GPIO8"
+                },
+                "5c9473c5-9025-4ed7-b257-98694be59e14": {
+                    "direction": "input",
+                    "name": "UART1_RXD"
+                },
+                "84addfcb-3827-4ccc-8a72-fa66f09dc1a8": {
+                    "direction": "bidirectional",
+                    "name": "SPI_MOSI"
+                }
+            },
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "SDIO_D1",
+            "swap_group": 0
+        },
+        "e8997f50-8f9e-4fed-895e-84a198d84f16": {
+            "alt_names": {
+                "46a40f17-048a-4685-bb15-7d1d5066559f": {
+                    "direction": "bidirectional",
+                    "name": "GPIO10"
+                },
+                "ff97e864-aad8-45eb-9b6f-4902decd4872": {
+                    "direction": "bidirectional",
+                    "name": "SPI_CS0"
+                }
+            },
+            "direction": "output",
+            "names": [],
+            "primary_name": "SDIO_CMD",
+            "swap_group": 0
+        },
+        "f154643c-31f4-436e-a46f-6cdadb801942": {
+            "alt_names": {
+                "0c3116b5-56d3-45f1-aa54-bac87ba2915a": {
+                    "direction": "bidirectional",
+                    "name": "GPIO7"
+                },
+                "9e17839a-997b-4e4f-9846-f225e270a147": {
+                    "direction": "bidirectional",
+                    "name": "SPI_MISO"
+                },
+                "ec72887e-5cfc-4b33-9d3b-34212d8e833d": {
+                    "direction": "bidirectional",
+                    "name": "SPI_Q"
+                }
+            },
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "SDIO_D0",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "a5002b5e-635b-4593-b352-598706320ac0",
+    "version": 1
+}

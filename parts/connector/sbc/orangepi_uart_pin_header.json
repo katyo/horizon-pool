@@ -1,0 +1,45 @@
+{
+    "MPN": [
+        false,
+        "OrangePi UART Pin Header"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "Generic UART Pin Header for OrangePi Single Board Computers"
+    ],
+    "entity": "31e3669a-fe84-4711-8e9d-b52a429799a4",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Xunlong OrangePi"
+    ],
+    "model": "84ec8229-d872-42f8-bfcc-96938ff02bd1",
+    "package": "9103c334-3f16-47e9-ab2b-a9700763c47f",
+    "pad_map": {
+        "7bc2147a-0234-41f6-ab65-444e57a43ce5": {
+            "gate": "44a2892d-8d6b-4016-af7c-f76a8202a405",
+            "pin": "c9da37b4-b61a-474f-8c38-8c47b4351499"
+        },
+        "7de8ad61-d839-4bad-85e8-5b3d093d4d6c": {
+            "gate": "44a2892d-8d6b-4016-af7c-f76a8202a405",
+            "pin": "395b3b89-bd3c-4807-b6da-a0ce1ab9e2c4"
+        },
+        "f4f2991b-d46c-492e-b2b6-beacc3120e00": {
+            "gate": "44a2892d-8d6b-4016-af7c-f76a8202a405",
+            "pin": "a5d0d99f-fd77-4e55-8553-b760eed6d867"
+        }
+    },
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "0d001a20-ab94-4846-8477-d48f4485b62e",
+    "value": [
+        false,
+        ""
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "gates": {
+        "5bf775c5-e43d-425d-9f0a-7ee1c943dc9f": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "34ff8d76-7be7-4d7d-a505-b41556b2dbe8"
+        }
+    },
+    "manufacturer": "",
+    "name": "SWD Pins",
+    "prefix": "P",
+    "tags": [
+        "connector",
+        "debug"
+    ],
+    "type": "entity",
+    "uuid": "500dda4f-438f-466c-b17a-a4604ac7165d"
+}

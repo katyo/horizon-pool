@@ -1,0 +1,37 @@
+{
+    "gates": {
+        "82355876-4668-4f65-a71d-cf34c3f4d88e": {
+            "name": "R4",
+            "suffix": "D",
+            "swap_group": 0,
+            "unit": "9b22b899-e8eb-4ce8-b62d-79b7b2db035e"
+        },
+        "88e61f09-7165-4cc1-8d77-684862cf9bc5": {
+            "name": "R3",
+            "suffix": "C",
+            "swap_group": 0,
+            "unit": "9b22b899-e8eb-4ce8-b62d-79b7b2db035e"
+        },
+        "933f7a4d-b112-49ef-b3c5-008dc881b021": {
+            "name": "R2",
+            "suffix": "B",
+            "swap_group": 0,
+            "unit": "9b22b899-e8eb-4ce8-b62d-79b7b2db035e"
+        },
+        "cd0c840d-f366-47db-b94f-631a66491d2c": {
+            "name": "R1",
+            "suffix": "A",
+            "swap_group": 0,
+            "unit": "9b22b899-e8eb-4ce8-b62d-79b7b2db035e"
+        }
+    },
+    "manufacturer": "",
+    "name": "Resistor Pack 4x",
+    "prefix": "R",
+    "tags": [
+        "generic",
+        "resistor"
+    ],
+    "type": "entity",
+    "uuid": "51a4a0eb-d339-4b64-99d8-1477a4694eb0"
+}

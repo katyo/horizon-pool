@@ -1,0 +1,56 @@
+{
+    "MPN": [
+        false,
+        "AP2171W"
+    ],
+    "datasheet": [
+        false,
+        "https://www.diodes.com/assets/Datasheets/AP2161_71.pdf"
+    ],
+    "description": [
+        false,
+        "1A SINGLE CHANNEL CURRENT-LIMITED POWER SWITCH"
+    ],
+    "entity": "4c7fc4a1-1ead-47d8-90cd-30df485c618b",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Diodes Incorporated"
+    ],
+    "model": "eb54e7ca-dcad-4e09-bd45-d2e32cddaa2a",
+    "package": "70c65846-2ee7-4d11-9d38-fe0fa84dc963",
+    "pad_map": {
+        "531c3759-a1b6-40c6-9474-5554dc94bcec": {
+            "gate": "2d3bd29d-19d4-4956-9e05-541aeefd808d",
+            "pin": "20f0495c-5e6e-4975-b440-1399ca09d3c3"
+        },
+        "9fe9b6c3-f887-4523-976a-6aa050235658": {
+            "gate": "2d3bd29d-19d4-4956-9e05-541aeefd808d",
+            "pin": "2f2e33ae-ea54-4fc9-b2c0-e6be3e1d02e0"
+        },
+        "bb9bbbd8-9aa2-49aa-98fd-b508ded56028": {
+            "gate": "2d3bd29d-19d4-4956-9e05-541aeefd808d",
+            "pin": "559d5e91-2169-486b-9ece-8db9867957dd"
+        },
+        "be802fd1-5220-4258-a11f-c1529e6187e0": {
+            "gate": "2d3bd29d-19d4-4956-9e05-541aeefd808d",
+            "pin": "304699c2-7433-4b03-ad2c-c8df631dd06f"
+        },
+        "f827f54d-8a25-45ce-a5c6-aa1cdc05418a": {
+            "gate": "2d3bd29d-19d4-4956-9e05-541aeefd808d",
+            "pin": "da80fab5-8f43-465c-a68a-6bbff131df8e"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "is",
+        "usb"
+    ],
+    "type": "part",
+    "uuid": "01c0d018-af53-4371-802f-0157c331f2f8",
+    "value": [
+        false,
+        ""
+    ]
+}

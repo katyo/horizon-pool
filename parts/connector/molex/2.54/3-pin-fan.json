@@ -1,0 +1,45 @@
+{
+    "MPN": [
+        false,
+        "3-Pin Fan Socket"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "Generic 3-Pin Fan Socket"
+    ],
+    "entity": "f8e65e2b-07cc-4740-8384-fb8b76f271ec",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        ""
+    ],
+    "model": "9c3f74b0-6a5b-4d29-945c-29923c64fb0a",
+    "package": "78c8d7f7-77bb-4e3d-8664-bf4a75b833d2",
+    "pad_map": {
+        "0bcf0f7f-bdb7-42c4-bf29-2702682bf3f9": {
+            "gate": "d3b99648-b256-4f14-ad58-8f518b184ba6",
+            "pin": "6e3b3343-4c63-47ec-b952-98851c5b342d"
+        },
+        "1485326c-63ab-49f4-91d3-550779f93118": {
+            "gate": "d3b99648-b256-4f14-ad58-8f518b184ba6",
+            "pin": "16c6355d-bd50-4371-b922-2dffcdd7ea68"
+        },
+        "64e55b7d-1c8e-4230-943c-068f20330b68": {
+            "gate": "d3b99648-b256-4f14-ad58-8f518b184ba6",
+            "pin": "2603c87e-be69-429c-8c90-1362d14d3dff"
+        }
+    },
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "a48a7518-3fe9-4308-9abd-6c1b90facd4b",
+    "value": [
+        false,
+        ""
+    ]
+}

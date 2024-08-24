@@ -1,0 +1,44 @@
+{
+    "manufacturer": "",
+    "name": "Analog Mux 4 Ctl with ~En",
+    "pins": {
+        "23f0ee11-58e1-421f-a190-90f75ab482fa": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VCC",
+            "swap_group": 0
+        },
+        "679692bc-59ad-440c-b0be-2e01ebc0462c": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "GND",
+            "swap_group": 0
+        },
+        "8003b6d9-b20b-4ef0-b46b-47cd1d90086d": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "~EN",
+            "swap_group": 0
+        },
+        "c7bd1870-14f2-4988-9226-11121186c0a0": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "C0",
+            "swap_group": 0
+        },
+        "ce96e40a-0c1f-4ef8-86ca-94f0c2670634": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "C1",
+            "swap_group": 0
+        },
+        "d42fde31-8a4a-46e5-b248-ccc6aa44560d": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VEE",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "5f221b8a-2060-4ae9-834a-a0cbcbe48346"
+}

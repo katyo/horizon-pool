@@ -1,0 +1,32 @@
+{
+    "manufacturer": "",
+    "name": "I2C Sensor",
+    "pins": {
+        "20cd279e-f7fc-44fb-b904-83ce0b8f725d": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VCC",
+            "swap_group": 0
+        },
+        "51624cff-c14b-441d-8e63-972524ea3789": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "GND",
+            "swap_group": 0
+        },
+        "7dfafbce-cebb-4990-943a-9ab7154e59e1": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "SDA",
+            "swap_group": 0
+        },
+        "e8a630d2-aec0-445c-808d-bf953d55c2b6": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "SCL",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "b5237f54-bef2-4965-8b84-ae8a5e8acf85"
+}

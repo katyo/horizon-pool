@@ -1,0 +1,56 @@
+{
+    "manufacturer": "ON Semiconductor",
+    "name": "MC34063",
+    "pins": {
+        "24f9d8da-fefc-4702-8de6-266a66bcbe37": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VCC",
+            "swap_group": 0
+        },
+        "2a5ed5a6-d126-4dee-8841-502c344e2748": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "Ipk",
+            "swap_group": 0
+        },
+        "5e919bc6-f942-4c53-9f50-72bd7173c308": {
+            "direction": "open_collector",
+            "names": [],
+            "primary_name": "Sc",
+            "swap_group": 0
+        },
+        "6f2758aa-86f7-4253-b390-86cc5ca67268": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "Ci",
+            "swap_group": 0
+        },
+        "826c29b7-18d6-489a-9418-b73f6835b961": {
+            "direction": "open_collector",
+            "names": [],
+            "primary_name": "Se",
+            "swap_group": 0
+        },
+        "8b755d7c-02ea-43ff-8743-e650c3acc329": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "Dc",
+            "swap_group": 0
+        },
+        "c7e6a48d-67e1-464f-81a0-8d62660c6fe4": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "GND",
+            "swap_group": 0
+        },
+        "cca87f9d-7fae-4254-b730-84deda22c252": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "Tc",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "6637091c-d30c-49a0-8884-d3c795101e3e"
+}

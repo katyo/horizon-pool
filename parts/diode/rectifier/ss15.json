@@ -1,0 +1,30 @@
+{
+    "MPN": [
+        false,
+        "SS15"
+    ],
+    "base": "0fe73c47-d9ad-45eb-989c-c5d76c12be94",
+    "datasheet": [
+        true,
+        "https://www.onsemi.com/pdf/datasheet/ss19-d.pdf"
+    ],
+    "description": [
+        false,
+        "50V 1A High efficiency, low power loss, general propose schottky rectifiers"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        true,
+        "ON Semiconductor"
+    ],
+    "model": "9191c081-b934-4c52-be70-c15d3f276956",
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "7d151073-27ae-4564-ba77-046d78932cb0",
+    "value": [
+        true,
+        "SS1x"
+    ]
+}

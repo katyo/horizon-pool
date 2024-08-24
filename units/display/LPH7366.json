@@ -1,0 +1,62 @@
+{
+    "manufacturer": "",
+    "name": "LPH7366",
+    "pins": {
+        "04073411-758a-46e7-9bc1-a70d09a97499": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "~RES",
+            "swap_group": 0
+        },
+        "080fa0aa-2b06-4a52-a2b5-0ce82da5cc68": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "SCLK",
+            "swap_group": 0
+        },
+        "0985afbc-33a7-4c0c-b322-c5c7e4195987": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "OSC",
+            "swap_group": 0
+        },
+        "57b5e9c5-08e2-4ca9-b7c9-206d6bc7292c": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "GND",
+            "swap_group": 0
+        },
+        "7979a2f6-5bcd-41cb-9359-d1afc1647f3f": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "~SCE",
+            "swap_group": 0
+        },
+        "a0d215f5-840a-4d71-9523-b60daead4536": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VDD",
+            "swap_group": 0
+        },
+        "bba9c204-034a-4be4-8615-a5639271e35a": {
+            "direction": "power_output",
+            "names": [],
+            "primary_name": "VLCD",
+            "swap_group": 0
+        },
+        "bbd30f45-c834-45e5-babb-ce660779fe71": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "D/~C",
+            "swap_group": 0
+        },
+        "e67f96e1-4807-431a-80ea-69c9689dee4e": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "SDIN",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "a22f12c8-c85c-4b74-94c9-9edc05f93051"
+}

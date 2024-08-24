@@ -1,0 +1,33 @@
+{
+    "MPN": [
+        false,
+        "Si2304BDS"
+    ],
+    "base": "3f45f225-3c51-4c48-81ac-cf5f563532f5",
+    "datasheet": [
+        false,
+        "https://www.vishay.com/docs/72503/si2304bds.pdf"
+    ],
+    "description": [
+        false,
+        "N-Channel 30 V (D-S) MOSFET"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        false,
+        "Vishay"
+    ],
+    "model": "4827c055-903e-4c48-a27b-167101c52549",
+    "override_prefix": "inherit",
+    "parametric": {},
+    "prefix": "",
+    "tags": [],
+    "type": "part",
+    "uuid": "1eb4573d-5ded-4027-a77c-41b0b68991b4",
+    "value": [
+        false,
+        ""
+    ],
+    "version": 2
+}

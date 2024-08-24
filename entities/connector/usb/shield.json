@@ -1,0 +1,19 @@
+{
+    "gates": {
+        "82d603cb-4aab-44a1-90f9-d27bedd7133e": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "df5e10b0-294a-4ca3-abed-e566794b7a69"
+        }
+    },
+    "manufacturer": "",
+    "name": "USB connector with shield",
+    "prefix": "P",
+    "tags": [
+        "connector",
+        "usb"
+    ],
+    "type": "entity",
+    "uuid": "202b2d1c-e6cb-4832-aa8b-39d1aeff6fe7"
+}

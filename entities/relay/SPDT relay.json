@@ -1,0 +1,18 @@
+{
+    "gates": {
+        "c96cbc2d-5ec7-4a9e-8c3b-2d39d2e0ee1b": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "869cf0f2-e6c0-4f9d-bd94-644c83492656"
+        }
+    },
+    "manufacturer": "",
+    "name": "SPDT relay (fixed)",
+    "prefix": "K",
+    "tags": [
+        "relay"
+    ],
+    "type": "entity",
+    "uuid": "dfae677e-b4f8-42f2-9646-642dfcc51194"
+}

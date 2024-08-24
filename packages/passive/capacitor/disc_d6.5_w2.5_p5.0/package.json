@@ -1,0 +1,318 @@
+{
+    "arcs": {},
+    "default_model": "772c956b-bf90-4a5e-876d-24addec82128",
+    "dimensions": {},
+    "grid_settings": {
+        "current": {
+            "mode": "square",
+            "name": "",
+            "origin": [
+                0,
+                0
+            ],
+            "spacing_rect": [
+                1000000,
+                1000000
+            ],
+            "spacing_square": 100000
+        },
+        "grids": {}
+    },
+    "junctions": {
+        "0419c175-a2bd-4e2d-8be0-b102fa863592": {
+            "position": [
+                3370000,
+                1370000
+            ]
+        },
+        "29ba4b9e-b564-4903-ab66-be9ce7dbfc77": {
+            "position": [
+                3370000,
+                -1370000
+            ]
+        },
+        "356932cd-b650-45fa-8cde-1e01dd3bb675": {
+            "position": [
+                3370000,
+                500000
+            ]
+        },
+        "4effa16a-a6d6-4e56-b3c4-f73b11d6c94e": {
+            "position": [
+                -3370000,
+                -1370000
+            ]
+        },
+        "6a96523c-e018-45c1-9ccd-23247d79c633": {
+            "position": [
+                3370000,
+                1370000
+            ]
+        },
+        "9088f78d-8afc-49b9-a3a9-39cbc02bbcef": {
+            "position": [
+                -3370000,
+                1370000
+            ]
+        },
+        "97cde93b-0afb-4247-bf70-68cc6af499e0": {
+            "position": [
+                -3370000,
+                500000
+            ]
+        },
+        "9ae07215-08d2-4976-b1f7-3a291e0c8157": {
+            "position": [
+                -3370000,
+                -1370000
+            ]
+        },
+        "a8bf5f72-0343-40ea-bc61-ca3f6c28a284": {
+            "position": [
+                -3370000,
+                -500000
+            ]
+        },
+        "eebd96c9-e43a-4bad-8813-38141c48d9ce": {
+            "position": [
+                3370000,
+                -1370000
+            ]
+        },
+        "f9b602ed-f70e-4dd2-978d-a23a1c692ec4": {
+            "position": [
+                3370000,
+                -500000
+            ]
+        }
+    },
+    "keepouts": {},
+    "lines": {
+        "039950d5-0799-4854-a389-553480f8e631": {
+            "from": "9088f78d-8afc-49b9-a3a9-39cbc02bbcef",
+            "layer": 20,
+            "to": "97cde93b-0afb-4247-bf70-68cc6af499e0",
+            "width": 150000
+        },
+        "9a5b1a72-f33f-4773-a23f-fb99ebab4c0e": {
+            "from": "9088f78d-8afc-49b9-a3a9-39cbc02bbcef",
+            "layer": 20,
+            "to": "0419c175-a2bd-4e2d-8be0-b102fa863592",
+            "width": 150000
+        },
+        "c07742e9-5790-480c-be0a-74b519286fc9": {
+            "from": "4effa16a-a6d6-4e56-b3c4-f73b11d6c94e",
+            "layer": 20,
+            "to": "29ba4b9e-b564-4903-ab66-be9ce7dbfc77",
+            "width": 150000
+        },
+        "c418309b-7f09-4eaa-8eec-2117c49f2b87": {
+            "from": "f9b602ed-f70e-4dd2-978d-a23a1c692ec4",
+            "layer": 20,
+            "to": "eebd96c9-e43a-4bad-8813-38141c48d9ce",
+            "width": 150000
+        },
+        "df35eac8-9e85-48b6-9dd6-61487f117796": {
+            "from": "6a96523c-e018-45c1-9ccd-23247d79c633",
+            "layer": 20,
+            "to": "356932cd-b650-45fa-8cde-1e01dd3bb675",
+            "width": 150000
+        },
+        "ebf6a308-9399-4015-b2c0-846e55912df0": {
+            "from": "a8bf5f72-0343-40ea-bc61-ca3f6c28a284",
+            "layer": 20,
+            "to": "9ae07215-08d2-4976-b1f7-3a291e0c8157",
+            "width": 150000
+        }
+    },
+    "manufacturer": "",
+    "models": {
+        "772c956b-bf90-4a5e-876d-24addec82128": {
+            "filename": "3d_models/passive/capacitor/disc_d6.5_w2.5_p5.0.step",
+            "pitch": 0,
+            "roll": 0,
+            "x": -2500000,
+            "y": 0,
+            "yaw": 0,
+            "z": 0
+        }
+    },
+    "name": "Disc Ceramic Capacitor  D6.5mm W2.5mm P5.00mm",
+    "pads": {
+        "298dda7f-9a2d-471e-9eaa-b7d024a48688": {
+            "name": "2",
+            "padstack": "296cf69b-9d53-45e4-aaab-4aedf4087d3a",
+            "parameter_set": {
+                "hole_diameter": 800000,
+                "pad_diameter": 1600000
+            },
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    2500000,
+                    0
+                ]
+            }
+        },
+        "bd376a79-de06-4fd2-9ee2-d948f58f01d8": {
+            "name": "1",
+            "padstack": "296cf69b-9d53-45e4-aaab-4aedf4087d3a",
+            "parameter_set": {
+                "hole_diameter": 800000,
+                "pad_diameter": 1600000
+            },
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    -2500000,
+                    0
+                ]
+            }
+        }
+    },
+    "parameter_program": "7.000mm 2.500mm\nget-parameter [ courtyard_expansion ]\n2 * +xy\nset-polygon [ courtyard rectangle 2.500mm 0.000mm ]",
+    "parameter_set": {
+        "courtyard_expansion": 250000
+    },
+    "polygons": {
+        "81f8e6fc-d5b2-4c09-869f-ea2fc8a2f29f": {
+            "layer": 40,
+            "parameter_class": "",
+            "vertices": [
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        3250000,
+                        1250000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        -3250000,
+                        1250000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        -3250000,
+                        -1250000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        3250000,
+                        -1250000
+                    ],
+                    "type": "line"
+                }
+            ]
+        },
+        "ffbb7e7d-c6d3-43a9-b463-ce4634d0d78a": {
+            "layer": 50,
+            "parameter_class": "",
+            "vertices": [
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        -3250000,
+                        1250000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        -3250000,
+                        -1250000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        3250000,
+                        -1250000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        3250000,
+                        1250000
+                    ],
+                    "type": "line"
+                }
+            ]
+        }
+    },
+    "rules": {
+        "clearance_package": {
+            "clearance_silkscreen_cu": 200000,
+            "clearance_silkscreen_pkg": 200000,
+            "enabled": true,
+            "order": -1
+        },
+        "package_checks": {
+            "enabled": true,
+            "order": -1
+        }
+    },
+    "tags": [
+        "2.5mm",
+        "5.00mm",
+        "6.50mm",
+        "c",
+        "capacitor",
+        "diameter",
+        "disc",
+        "pin",
+        "pitch",
+        "radial",
+        "series",
+        "width"
+    ],
+    "texts": {},
+    "type": "package",
+    "uuid": "5b855304-aa17-408f-a8b0-5821273df495"
+}

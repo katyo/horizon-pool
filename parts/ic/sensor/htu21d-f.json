@@ -1,0 +1,53 @@
+{
+    "MPN": [
+        false,
+        "HTU21D(F)"
+    ],
+    "datasheet": [
+        false,
+        "https://cdn-shop.adafruit.com/datasheets/1899_HTU21D.pdf"
+    ],
+    "description": [
+        false,
+        "I2C Temperature and Relative Humidity sensor"
+    ],
+    "entity": "9ca80bb2-64b4-46c5-8e12-392e1957c2c6",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Measurement Specialties"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "c897c6a4-fcf4-41d5-842d-39b913837d11",
+    "pad_map": {
+        "3775589c-8500-4425-82e2-8a612a42e7b8": {
+            "gate": "cbb82a4c-6669-4ec6-9b70-aa4ccbbd0580",
+            "pin": "e8a630d2-aec0-445c-808d-bf953d55c2b6"
+        },
+        "3820e599-095f-4f58-b7fa-4a9882f6ceab": {
+            "gate": "cbb82a4c-6669-4ec6-9b70-aa4ccbbd0580",
+            "pin": "51624cff-c14b-441d-8e63-972524ea3789"
+        },
+        "45f1b8f3-c8fc-4163-a9d1-79fbc18e5c82": {
+            "gate": "cbb82a4c-6669-4ec6-9b70-aa4ccbbd0580",
+            "pin": "7dfafbce-cebb-4990-943a-9ab7154e59e1"
+        },
+        "6712f756-8c30-4d68-b7e8-7abae898c1ca": {
+            "gate": "cbb82a4c-6669-4ec6-9b70-aa4ccbbd0580",
+            "pin": "20cd279e-f7fc-44fb-b904-83ce0b8f725d"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "i2c",
+        "ic",
+        "sensor"
+    ],
+    "type": "part",
+    "uuid": "bd894fd9-d2d2-471b-a9f2-18a425a7a157",
+    "value": [
+        false,
+        ""
+    ]
+}

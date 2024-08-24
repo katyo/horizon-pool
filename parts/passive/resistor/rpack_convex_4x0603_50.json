@@ -1,0 +1,35 @@
+{
+    "MPN": [
+        false,
+        "Resistor Pack 4x0603 50 Ω"
+    ],
+    "base": "8867aab1-4a61-45c9-b843-9861e855e9aa",
+    "datasheet": [
+        true,
+        ""
+    ],
+    "description": [
+        true,
+        "Resistor Pack 4x0603"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        true,
+        ""
+    ],
+    "model": "d4cbfc19-591a-414c-92f8-9e8bb3fa0103",
+    "parametric": {
+        "pmax": "0.1",
+        "table": "resistors",
+        "tolerance": "1",
+        "value": "50"
+    },
+    "tags": [],
+    "type": "part",
+    "uuid": "9eb29970-47b8-4d99-ae84-eaecef11515d",
+    "value": [
+        false,
+        "50 Ω"
+    ]
+}

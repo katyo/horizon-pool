@@ -1,0 +1,35 @@
+{
+    "MPN": [
+        false,
+        "LH096NT-IF09"
+    ],
+    "datasheet": [
+        false,
+        "https://www.panelook.cn/upload/product/170922/202103273681.pdf"
+    ],
+    "description": [
+        false,
+        "TFT Display Module Placement"
+    ],
+    "entity": "19c1b1b7-1013-4c69-aa3d-b33d114a9647",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Shenzhen Limito Technology Inc."
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "343e0d56-be39-4325-9745-bb3c8b25384d",
+    "pad_map": {},
+    "parametric": {},
+    "tags": [
+        "display",
+        "module"
+    ],
+    "type": "part",
+    "uuid": "0136d448-63f9-4fcf-8163-ce3292e07f35",
+    "value": [
+        false,
+        ""
+    ]
+}

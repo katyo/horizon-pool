@@ -1,0 +1,30 @@
+{
+    "MPN": [
+        false,
+        "US1M"
+    ],
+    "base": "37613b91-a806-442f-aa49-63e01e4be827",
+    "datasheet": [
+        true,
+        "https://www.vishay.com/docs/88768/us1_test_dcicons.pdf"
+    ],
+    "description": [
+        false,
+        "1000V 1A Surface-Mount Ultrafast Rectifier"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        true,
+        "Vishay"
+    ],
+    "model": "9191c081-b934-4c52-be70-c15d3f276956",
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "69eb2a69-16e1-4d42-a5e9-754ec96bb1f1",
+    "value": [
+        true,
+        "US1x"
+    ]
+}

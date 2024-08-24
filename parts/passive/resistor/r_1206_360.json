@@ -1,0 +1,35 @@
+{
+    "MPN": [
+        false,
+        "Resistor 1206 360 Ω"
+    ],
+    "base": "69d9d487-801a-40ab-a821-5a7a6ee8c623",
+    "datasheet": [
+        true,
+        ""
+    ],
+    "description": [
+        false,
+        "Generic Resistor SM1206 360 Ω"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        true,
+        ""
+    ],
+    "model": "96c366ee-a963-41a0-9cc8-54c646979695",
+    "parametric": {
+        "pmax": "0.1",
+        "table": "resistors",
+        "tolerance": "1",
+        "value": "360"
+    },
+    "tags": [],
+    "type": "part",
+    "uuid": "cdc40f12-1766-4919-a1f2-e15e76874df3",
+    "value": [
+        false,
+        "360 Ω"
+    ]
+}

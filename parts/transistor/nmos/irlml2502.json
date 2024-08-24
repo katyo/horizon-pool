@@ -1,0 +1,34 @@
+{
+    "MPN": [
+        false,
+        "IRLML2502"
+    ],
+    "base": "3f45f225-3c51-4c48-81ac-cf5f563532f5",
+    "datasheet": [
+        false,
+        "https://www.infineon.com/dgdl/irlml2502pbf.pdf?fileId=5546d462533600a401535668048e2606"
+    ],
+    "description": [
+        false,
+        "Ultra Low On-Resistance N-Channel HEXFET® Power MOSFET"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        false,
+        "International Rectifier"
+    ],
+    "model": "1ebac498-5423-42dc-90a6-7ad333585f6a",
+    "parametric": {},
+    "tags": [
+        "mosfet",
+        "n-channel",
+        "transistor"
+    ],
+    "type": "part",
+    "uuid": "9f81e10f-d9ca-4288-a4fe-e16fdff911e4",
+    "value": [
+        true,
+        "base sot-23 N-channel MOSFET"
+    ]
+}

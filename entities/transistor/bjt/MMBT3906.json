@@ -1,0 +1,20 @@
+{
+    "gates": {
+        "0a17b37d-c4f8-4deb-b7b7-77dd599693aa": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "6c55771b-5904-4896-ae83-9d1b12a69ef6"
+        }
+    },
+    "manufacturer": "ON Semiconductor",
+    "name": "MMBT3906",
+    "prefix": "Q",
+    "tags": [
+        "bipolar",
+        "pnp",
+        "transistor"
+    ],
+    "type": "entity",
+    "uuid": "b68038d6-b50c-4755-a58c-a41b4bae5cb6"
+}

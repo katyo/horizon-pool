@@ -1,0 +1,77 @@
+{
+    "MPN": [
+        false,
+        "FH34SRJ-8S-0.5SH"
+    ],
+    "datasheet": [
+        false,
+        "https://www.hirose.com/ru/product/document?clcode=CL0580-1231-8-50&productname=FH34SRJ-8S-0.5SH(50)&series=FH34SRJ&documenttype=2DDrawing&documentid=0001483059"
+    ],
+    "description": [
+        false,
+        "8 Pin FFC Connector Horizontal ZIF Back"
+    ],
+    "entity": "218b8c98-a576-4e2c-bb43-b7b0dcfcedf8",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Hirose"
+    ],
+    "model": "e50560e3-8ac3-4955-8724-60dbca8ed275",
+    "package": "35923dc6-fe53-49c9-90cb-303100433728",
+    "pad_map": {
+        "0a18e64a-7c1b-434f-a8d1-2bb36a0b0291": {
+            "gate": "672e1f10-0401-43ad-b266-e7b705e49202",
+            "pin": "6087a965-c809-456f-977b-db94fdc9d527"
+        },
+        "28de4c0d-1271-499a-bc88-c0a00acf1187": {
+            "gate": "672e1f10-0401-43ad-b266-e7b705e49202",
+            "pin": "9edba34d-c7d1-479b-96c3-0c1f1cec5dcf"
+        },
+        "575d1051-5f14-4b7f-adcd-60cf25ce1f47": {
+            "gate": "672e1f10-0401-43ad-b266-e7b705e49202",
+            "pin": "cadba1a3-1c63-4137-a971-6e2baed3f636"
+        },
+        "5e08073d-d6b6-482a-b7cf-6683e1f790bc": {
+            "gate": "672e1f10-0401-43ad-b266-e7b705e49202",
+            "pin": "ec41bfae-7e85-4b98-9019-3bcb832399d9"
+        },
+        "68374ed1-a4a0-4762-9a97-4cf86eb2ee4f": {
+            "gate": "672e1f10-0401-43ad-b266-e7b705e49202",
+            "pin": "a73991e8-aac8-4ee5-9fcd-63a3ba351fb6"
+        },
+        "714fc82f-551b-40ad-a1cd-151deff09c3a": {
+            "gate": "672e1f10-0401-43ad-b266-e7b705e49202",
+            "pin": "b4e5d951-1240-41cb-b62b-e441cdfef97f"
+        },
+        "adfc9199-aeca-4b0c-8c67-8042ce57c40e": {
+            "gate": "672e1f10-0401-43ad-b266-e7b705e49202",
+            "pin": "3187f32d-cf35-464a-aa68-9730eebaf2b1"
+        },
+        "b9c93902-c3d1-47a6-b87e-c01fa839cd1c": {
+            "gate": "672e1f10-0401-43ad-b266-e7b705e49202",
+            "pin": "02b8636a-6aef-4c55-bee9-1ffa209e87ce"
+        },
+        "c1ed6589-8992-4156-b2a1-b0fd5e082a85": {
+            "gate": "672e1f10-0401-43ad-b266-e7b705e49202",
+            "pin": "6087a965-c809-456f-977b-db94fdc9d527"
+        },
+        "e701ca4c-1b3e-4778-a882-498210ed5eb6": {
+            "gate": "672e1f10-0401-43ad-b266-e7b705e49202",
+            "pin": "d398172f-c518-4766-aa47-85d9978e8f57"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "connector",
+        "ffc",
+        "fpc"
+    ],
+    "type": "part",
+    "uuid": "920b5c4c-f72e-4484-a3b6-835f0a2b213d",
+    "value": [
+        false,
+        ""
+    ]
+}

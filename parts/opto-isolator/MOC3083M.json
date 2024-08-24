@@ -1,0 +1,30 @@
+{
+    "MPN": [
+        false,
+        "MOC3083M"
+    ],
+    "base": "2c2f4d22-7884-471a-94d6-ae879fb3dfef",
+    "datasheet": [
+        true,
+        "https://www.onsemi.com/pdf/datasheet/moc3083m-d.pdf"
+    ],
+    "description": [
+        true,
+        "Zero-Cross Triac Driver Optocoupler"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        true,
+        "ON Semiconductor"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "189ffddf-e2a9-46a9-afe7-3839f2532f2f",
+    "value": [
+        true,
+        "MOC308xM"
+    ]
+}

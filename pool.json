@@ -1,9 +1,14 @@
 {
+    "default_frame": "b1aa523e-9b17-4487-940b-b0fa3f70e13a",
     "default_via": "3c4a52fe-3ae0-4c3e-a108-824b53d6d6da",
     "name": "Horizon pool by Illiumium.Org",
     "pools_included": [
-        "6d752bc3-29b3-45df-8cf2-1e3aacefbcc6"
+        "6d752bc3-29b3-45df-8cf2-1e3aacefbcc6",
+        "e2b915a4-7a2e-4fb8-b402-62ec983df413",
+        "aad769f8-8856-43fc-8dcd-28616e4eccd6",
+        "4e745dc3-9973-4177-97f9-9a5a03062771"
     ],
     "type": "pool",
-    "uuid": "2a651be1-bfbf-4d83-8b01-c2d7b42fdb60"
+    "uuid": "2a651be1-bfbf-4d83-8b01-c2d7b42fdb60",
+    "version": 1
 }

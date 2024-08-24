@@ -1,0 +1,40 @@
+{
+    "gates": {
+        "23f5d23c-4c47-481f-8d40-d35a15fc4606": {
+            "name": "Ext",
+            "suffix": "B",
+            "swap_group": 0,
+            "unit": "ffea7ee6-6182-44e5-b1fa-030d821ab904"
+        },
+        "6a5ac091-4226-4c00-82e9-9dc8e9046b56": {
+            "name": "NC",
+            "suffix": "D",
+            "swap_group": 0,
+            "unit": "170ea439-8386-4dcf-9bb5-d7c6a2cbd6c1"
+        },
+        "7c54e849-dc5d-4093-8616-7dc96230d4b3": {
+            "name": "Main",
+            "suffix": "A",
+            "swap_group": 0,
+            "unit": "02333954-6ea0-44f4-9815-82c7cceda9a6"
+        },
+        "859ee464-1f95-4082-b9f8-ca7b96605e14": {
+            "name": "Pwr",
+            "suffix": "C",
+            "swap_group": 0,
+            "unit": "63dfb6f6-dbe1-47ab-bb41-97c4656c5f72"
+        }
+    },
+    "manufacturer": "Ai-Thinker",
+    "name": "ESP-C3-32S",
+    "prefix": "U",
+    "tags": [
+        "bluetooth",
+        "iot",
+        "module",
+        "radio",
+        "wifi"
+    ],
+    "type": "entity",
+    "uuid": "46a53f13-3c42-486a-b63d-9321b8283864"
+}

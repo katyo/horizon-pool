@@ -1,0 +1,97 @@
+{
+    "MPN": [
+        false,
+        "MAX232"
+    ],
+    "datasheet": [
+        false,
+        "http://www.ti.com/lit/ds/symlink/max232.pdf"
+    ],
+    "description": [
+        false,
+        "Dual RS232 driver/receiver, 5V supply, 120kb/s, 0C-70C"
+    ],
+    "entity": "06a3b8e2-7a0f-45df-988f-c523523efdfa",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        ""
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "ae1c4d81-1bcd-4e4b-9ec7-8f5c988c6918",
+    "pad_map": {
+        "30f8122d-7d8e-42d3-81ba-2810010f68af": {
+            "gate": "5f0c5639-ff7a-4c91-a444-a3eeae85a60a",
+            "pin": "29ac1973-eb55-40ae-8504-21d165943395"
+        },
+        "39bd833d-f173-4a2f-b2ac-075a1cf55c5f": {
+            "gate": "5f0c5639-ff7a-4c91-a444-a3eeae85a60a",
+            "pin": "84d14f92-8f3f-4c88-a4c4-3e0069d90b3a"
+        },
+        "475d8484-b588-4b09-bcea-ca424b9f68c2": {
+            "gate": "5f0c5639-ff7a-4c91-a444-a3eeae85a60a",
+            "pin": "1dd507d8-5544-4f63-a72f-a640f376fc5f"
+        },
+        "60fde3c2-1439-4ad5-b47c-adebebd8572d": {
+            "gate": "5f0c5639-ff7a-4c91-a444-a3eeae85a60a",
+            "pin": "02691d0a-2c1b-4082-b577-9753f8199a95"
+        },
+        "6a5dce07-8ca2-43e5-9c90-11e4de6e4743": {
+            "gate": "5f0c5639-ff7a-4c91-a444-a3eeae85a60a",
+            "pin": "efbd5819-1ec4-4f6e-83a2-1624d252fb09"
+        },
+        "738b6a48-76db-495d-9cd4-56c60405baee": {
+            "gate": "5f0c5639-ff7a-4c91-a444-a3eeae85a60a",
+            "pin": "f0ffd6cc-46b9-4198-9940-a478f8cbca62"
+        },
+        "83be96de-42cc-46c2-9623-1886a7f9ea21": {
+            "gate": "5f0c5639-ff7a-4c91-a444-a3eeae85a60a",
+            "pin": "68414410-58c5-41dd-bade-2ad91d64b753"
+        },
+        "9146767b-b74f-46d3-9d8c-db867a360310": {
+            "gate": "5f0c5639-ff7a-4c91-a444-a3eeae85a60a",
+            "pin": "9b2cb028-37fe-4fe1-98ba-ba2292e5177a"
+        },
+        "938efe2d-061b-4e76-9cf8-4c26ded569c6": {
+            "gate": "5f0c5639-ff7a-4c91-a444-a3eeae85a60a",
+            "pin": "db10899e-0ee8-405b-823c-66b2d3d6b90a"
+        },
+        "96f905fc-becf-49f8-a191-7da8f6c8bfc6": {
+            "gate": "5f0c5639-ff7a-4c91-a444-a3eeae85a60a",
+            "pin": "0a213187-7776-4cda-9c58-d23d5747f6c1"
+        },
+        "970b5075-962e-4dba-9983-081c36d8cdf3": {
+            "gate": "5f0c5639-ff7a-4c91-a444-a3eeae85a60a",
+            "pin": "34ba4cbd-77ec-4c0a-9751-49d3e693bf43"
+        },
+        "9789ffe4-5d75-4593-bd63-6740298d2b44": {
+            "gate": "5f0c5639-ff7a-4c91-a444-a3eeae85a60a",
+            "pin": "9801c298-7331-4dd5-9556-56d344aca940"
+        },
+        "98042a02-862f-4a70-9d74-9dcb0fd66b95": {
+            "gate": "5f0c5639-ff7a-4c91-a444-a3eeae85a60a",
+            "pin": "fd9d3e81-cdbe-4fa5-9825-f678e259ee85"
+        },
+        "ee8d4951-9ef4-433f-a1b0-6dadc3119d76": {
+            "gate": "5f0c5639-ff7a-4c91-a444-a3eeae85a60a",
+            "pin": "e1d51937-2c10-4220-962c-df4e57a98779"
+        },
+        "f5922877-ad80-43b4-aef3-bd5dde1111e4": {
+            "gate": "5f0c5639-ff7a-4c91-a444-a3eeae85a60a",
+            "pin": "8a6e8444-f52a-4359-92af-5ae2b3d9e617"
+        },
+        "f97fc701-9187-43e7-b0d9-39807f470f81": {
+            "gate": "5f0c5639-ff7a-4c91-a444-a3eeae85a60a",
+            "pin": "00718354-3e65-45d8-bc7d-521bf11882bd"
+        }
+    },
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "905d521d-ffc5-490b-bf14-a47df3970186",
+    "value": [
+        false,
+        ""
+    ]
+}

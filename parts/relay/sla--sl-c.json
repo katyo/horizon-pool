@@ -1,0 +1,62 @@
+{
+    "MPN": [
+        false,
+        "SLA--SL-C"
+    ],
+    "datasheet": [
+        false,
+        "http://images.100y.com.tw/pdf_file/29-SLA-12VDC-SL-C.pdf"
+    ],
+    "description": [
+        false,
+        "30A SPDT relay"
+    ],
+    "entity": "dfae677e-b4f8-42f2-9646-642dfcc51194",
+    "flags": {
+        "base_part": "set",
+        "exclude_bom": "clear",
+        "exclude_pnp": "clear"
+    },
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Songle Relay"
+    ],
+    "model": "75fd27f6-0740-4fe9-9ea8-3ecfb3633c83",
+    "package": "b21df16a-3d38-4a3e-a11b-b4e01e4f50ce",
+    "pad_map": {
+        "0dfc5fcb-dda7-43bd-b9a7-37ae38c3efa9": {
+            "gate": "c96cbc2d-5ec7-4a9e-8c3b-2d39d2e0ee1b",
+            "pin": "89d629ab-c2a7-4d80-95ca-77e426228c67"
+        },
+        "1eecf3a6-c311-444e-881c-051a0f3ffc9c": {
+            "gate": "c96cbc2d-5ec7-4a9e-8c3b-2d39d2e0ee1b",
+            "pin": "8dba8db9-8c86-4fa7-b79d-89404a3d9662"
+        },
+        "2141afb1-6852-4ade-b218-4c2deb750321": {
+            "gate": "c96cbc2d-5ec7-4a9e-8c3b-2d39d2e0ee1b",
+            "pin": "867b5c01-f941-4cf2-84a1-c19e7e221b92"
+        },
+        "69101135-1737-4d6b-824d-6c48b0e770c1": {
+            "gate": "c96cbc2d-5ec7-4a9e-8c3b-2d39d2e0ee1b",
+            "pin": "e6cf1e3f-8b25-49a6-aff9-2efff4751051"
+        },
+        "c71daf22-67a4-4db4-80dc-5fd4c957c584": {
+            "gate": "c96cbc2d-5ec7-4a9e-8c3b-2d39d2e0ee1b",
+            "pin": "c3f4c29b-5443-45cd-8ca8-41545f6eef4b"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "relay",
+        "spdt"
+    ],
+    "type": "part",
+    "uuid": "a7909588-4794-4dc8-aefc-05e23c713a5d",
+    "value": [
+        false,
+        ""
+    ],
+    "version": 1
+}

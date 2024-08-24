@@ -1,0 +1,219 @@
+{
+    "manufacturer": "Xunlong OrangePi",
+    "name": "OrangePi 3 LTS Pin Header",
+    "pins": {
+        "0bacb327-4856-4a8f-b47c-56a863dc6c2c": {
+            "alt_names": {
+                "8922b94f-b53c-418f-9e4b-4f6038f64802": {
+                    "direction": "bidirectional",
+                    "name": "I2C0-SCK"
+                }
+            },
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PD25",
+            "swap_group": 0
+        },
+        "111190ee-bf18-45a8-8c3d-1ae3777eb632": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PL3",
+            "swap_group": 0
+        },
+        "1b69bf93-b0f0-474e-b82a-0c5233e5c972": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PL10",
+            "swap_group": 0
+        },
+        "315b9abf-7ec9-4f3c-b73a-4d27a6aa2031": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PD15",
+            "swap_group": 0
+        },
+        "32f5536e-66e1-47d4-9e56-432763bbdeb8": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PD16",
+            "swap_group": 0
+        },
+        "53a892a3-6b6b-4f18-a7e0-59711292d206": {
+            "alt_names": {
+                "684c36b3-d14f-4456-b97a-96d187d784de": {
+                    "direction": "bidirectional",
+                    "name": "I2C0-SDA"
+                }
+            },
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PD26",
+            "swap_group": 0
+        },
+        "5aa429b3-e090-403a-8023-e5908222d1a2": {
+            "alt_names": {
+                "c23ceaa6-137c-42e1-8811-5fc9607e0cc2": {
+                    "direction": "output",
+                    "name": "SPI1-MOSI"
+                }
+            },
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PH5",
+            "swap_group": 0
+        },
+        "6901e08f-153d-447c-a0c0-9c41aff0506c": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PL8",
+            "swap_group": 0
+        },
+        "73790a82-d7cb-4d89-80be-14301432e522": {
+            "alt_names": {
+                "0a36cbe6-fbc1-4f8c-8743-2dbd418c0aac": {
+                    "direction": "output",
+                    "name": "SPI1-CS"
+                }
+            },
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PH3",
+            "swap_group": 0
+        },
+        "7b9fe057-01ad-48ed-9440-8e8324be7dc2": {
+            "alt_names": {
+                "705b4c2d-10d0-4496-9a41-0fa2b873d893": {
+                    "direction": "output",
+                    "name": "PWM0"
+                }
+            },
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PD22",
+            "swap_group": 0
+        },
+        "8affe9ee-2b3f-448a-8cc6-90d60dafd12c": {
+            "direction": "power_output",
+            "names": [],
+            "primary_name": "GND1",
+            "swap_group": 0
+        },
+        "8e9c048a-985e-4c7b-a147-a6e020b2cc8a": {
+            "direction": "power_output",
+            "names": [],
+            "primary_name": "GND3",
+            "swap_group": 0
+        },
+        "98a4e4ea-56ed-4c45-9e59-83481a2b4b68": {
+            "alt_names": {
+                "167c1799-4346-44e3-b0d4-f45352ab5a2b": {
+                    "direction": "input",
+                    "name": "UART3-RX"
+                }
+            },
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PD24",
+            "swap_group": 0
+        },
+        "a018fc77-bfea-4cb7-96af-fbbbfe961d8c": {
+            "direction": "power_output",
+            "names": [],
+            "primary_name": "GND2",
+            "swap_group": 0
+        },
+        "a183b28f-a63c-4761-a022-e498a8a438cb": {
+            "direction": "power_output",
+            "names": [],
+            "primary_name": "5V2",
+            "swap_group": 0
+        },
+        "a65668e9-2c96-43cd-9844-7eaac24b77a1": {
+            "direction": "power_output",
+            "names": [],
+            "primary_name": "GND4",
+            "swap_group": 0
+        },
+        "a9cdfdf6-557e-45f6-8fd0-a3b4dec974c9": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PL2",
+            "swap_group": 0
+        },
+        "ad482e5b-1bd8-4cd2-ad84-2ca4f98288f8": {
+            "alt_names": {
+                "bb23211d-12ba-4724-bcd8-f818456940c3": {
+                    "direction": "output",
+                    "name": "UART3-TX"
+                }
+            },
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PD23",
+            "swap_group": 0
+        },
+        "baf175e2-2801-4882-a215-325b9671c82c": {
+            "alt_names": {
+                "a96e023f-28f9-4417-ab51-e221600f9f43": {
+                    "direction": "output",
+                    "name": "SPI1-CLK"
+                }
+            },
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PH4",
+            "swap_group": 0
+        },
+        "bd427134-f1b6-46d6-b485-6a44aaeba533": {
+            "direction": "power_output",
+            "names": [],
+            "primary_name": "3.3V1",
+            "swap_group": 0
+        },
+        "c6de7c32-06a9-4d18-bd81-773b7b16fd4b": {
+            "direction": "power_output",
+            "names": [],
+            "primary_name": "5V1",
+            "swap_group": 0
+        },
+        "cfdd93e3-d533-485e-8b33-403fa1c98df1": {
+            "alt_names": {
+                "0a5799b8-ed0a-44f7-a3ea-eb6816426466": {
+                    "direction": "input",
+                    "name": "SPI1-MISO"
+                }
+            },
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PH6",
+            "swap_group": 0
+        },
+        "d12e9225-307a-48e1-b8f9-9508cd14f3fd": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PD18",
+            "swap_group": 0
+        },
+        "d3f4ed2d-10a5-4101-814e-7d29e80eb580": {
+            "direction": "power_output",
+            "names": [],
+            "primary_name": "GND5",
+            "swap_group": 0
+        },
+        "e8af9c9d-c1c7-4a59-a3ae-6132c5744cfb": {
+            "direction": "power_output",
+            "names": [],
+            "primary_name": "3.3V2",
+            "swap_group": 0
+        },
+        "fd98433e-0f5b-46c8-8813-d75a011a66f1": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PD21",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "fac7c547-c612-4c1f-b5f4-63f77f665a21",
+    "version": 1
+}

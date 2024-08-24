@@ -1,0 +1,44 @@
+{
+    "MPN": [
+        false,
+        "KF8500-2"
+    ],
+    "datasheet": [
+        false,
+        "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2303311830_Cixi-Kefa-Elec-KF8500-8-5-2P_C707833.pdf"
+    ],
+    "description": [
+        false,
+        "300V 10A Screw wire connector with 2 terminals"
+    ],
+    "entity": "29f544a1-a789-4fe6-a1ef-29da5ba3d371",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Kefa"
+    ],
+    "model": "43f15a85-d9a0-4afc-89d8-5ab07c849a78",
+    "package": "d6ef468e-1313-4f15-826c-c50255fd5efd",
+    "pad_map": {
+        "60bf59f8-e2d5-459a-880d-e9f0625a0dc1": {
+            "gate": "eb7f68b1-6fba-4a35-a470-2cecb23fe087",
+            "pin": "b3cef4f5-fe6c-45b5-b063-1618f997168f"
+        },
+        "dd2a5647-5dcf-41a7-b990-e1ece2a43a6a": {
+            "gate": "eb7f68b1-6fba-4a35-a470-2cecb23fe087",
+            "pin": "588536f1-9e96-4500-bcbb-4ba48082b643"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "connector",
+        "th"
+    ],
+    "type": "part",
+    "uuid": "5fc2aa25-7fbe-41f4-938d-572c1b0ff202",
+    "value": [
+        false,
+        ""
+    ]
+}

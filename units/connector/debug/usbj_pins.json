@@ -1,0 +1,38 @@
+{
+    "manufacturer": "",
+    "name": "USBJ Pins",
+    "pins": {
+        "55c97191-4394-45b3-bf3a-8b024441720d": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "USB-",
+            "swap_group": 0
+        },
+        "7ea37030-8ea2-4adc-b50b-45680c561572": {
+            "direction": "power_output",
+            "names": [],
+            "primary_name": "GND",
+            "swap_group": 0
+        },
+        "99a36c86-b287-44a0-b380-0a50ef476d5f": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "USB+",
+            "swap_group": 0
+        },
+        "ebda3a8e-aae4-4825-aca5-aa5b94b4c9c8": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "BOOT",
+            "swap_group": 0
+        },
+        "f145b239-7c41-4ef7-aa44-1f431ac11f6d": {
+            "direction": "power_output",
+            "names": [],
+            "primary_name": "VCC",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "1aadc1f4-f9b9-4672-93e1-6bb8de9d83ce"
+}

@@ -1,0 +1,50 @@
+{
+    "manufacturer": "Microchip",
+    "name": "USB2517 Power",
+    "pins": {
+        "4b7a1239-6c08-4f74-b3cc-8d2d50b7a64e": {
+            "direction": "power_output",
+            "names": [],
+            "primary_name": "VDD18PLL",
+            "swap_group": 0
+        },
+        "4ede595d-8d6b-4662-9d8c-df34420c03dd": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VDDA33",
+            "swap_group": 0
+        },
+        "68ff1e2b-e6b6-4fee-acca-c09a04b4fdbc": {
+            "direction": "power_output",
+            "names": [],
+            "primary_name": "VDD18",
+            "swap_group": 0
+        },
+        "8578866c-be54-463b-bd7c-3f468613c64a": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "GND",
+            "swap_group": 0
+        },
+        "d2cda6ee-a767-43d6-ae89-e0dd7860c5f3": {
+            "direction": "power_output",
+            "names": [],
+            "primary_name": "VDD33PLL",
+            "swap_group": 0
+        },
+        "dbebe8c4-a066-45f6-8c86-c4331d47a695": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VDD33CR",
+            "swap_group": 0
+        },
+        "ee0ef87c-640b-40fb-86ab-67886eb8986b": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VDD33",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "23b2786b-1beb-4487-a9a5-3a64e2a3ee39"
+}

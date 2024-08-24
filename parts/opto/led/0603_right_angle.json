@@ -1,0 +1,43 @@
+{
+    "MPN": [
+        false,
+        "0603 LED Right Angle"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "Generic 0603 Right Angle LED"
+    ],
+    "entity": "f061691a-7954-4797-9529-dba6527d8f4f",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        ""
+    ],
+    "model": "bb3da64d-20c6-408b-bff1-a83e492a3f7f",
+    "package": "7c761d55-5273-430f-8adc-e7edb0cacc2f",
+    "pad_map": {
+        "1a32a4c6-0adc-4947-ab27-c14c3380ecc6": {
+            "gate": "c8168f99-a1ca-4d98-bbb7-066f8cad2346",
+            "pin": "3c305ca9-14d3-40b4-a365-8938959c043e"
+        },
+        "dec661f3-a37e-4510-b296-a64510e72bd3": {
+            "gate": "c8168f99-a1ca-4d98-bbb7-066f8cad2346",
+            "pin": "f3a0ce45-6d5e-453b-9649-33baf57cc7b7"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "led"
+    ],
+    "type": "part",
+    "uuid": "f18b87d5-5838-4806-8cfc-0f5b6f3bc36e",
+    "value": [
+        false,
+        ""
+    ]
+}

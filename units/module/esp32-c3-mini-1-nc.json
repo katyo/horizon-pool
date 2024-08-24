@@ -1,0 +1,92 @@
+{
+    "manufacturer": "Espressif",
+    "name": "ESP32-C3-MINI-1 Nc",
+    "pins": {
+        "3836f4fe-3759-404e-be56-daa0ec5886f0": {
+            "direction": "not_connected",
+            "names": [],
+            "primary_name": "NC14",
+            "swap_group": 0
+        },
+        "5388b092-fa58-4a1d-9558-ff57a321a455": {
+            "direction": "not_connected",
+            "names": [],
+            "primary_name": "NC12",
+            "swap_group": 0
+        },
+        "59bc7ce4-0951-4f06-ae21-b08fa002a9b3": {
+            "direction": "not_connected",
+            "names": [],
+            "primary_name": "NC2",
+            "swap_group": 0
+        },
+        "5ee744cd-afaf-423c-9e9b-d5e8d47cf50f": {
+            "direction": "not_connected",
+            "names": [],
+            "primary_name": "NC11",
+            "swap_group": 0
+        },
+        "82eae8d7-7274-4c09-bb5e-e2d1e902898d": {
+            "direction": "not_connected",
+            "names": [],
+            "primary_name": "NC6",
+            "swap_group": 0
+        },
+        "96baa2ce-ff41-4d82-a4ef-5d0b348f30b5": {
+            "direction": "not_connected",
+            "names": [],
+            "primary_name": "NC5",
+            "swap_group": 0
+        },
+        "b324ab5e-bcea-403f-bbe9-d96d198c9371": {
+            "direction": "not_connected",
+            "names": [],
+            "primary_name": "NC4",
+            "swap_group": 0
+        },
+        "bcbfdf67-0ee8-4935-b711-caca04dde14c": {
+            "direction": "not_connected",
+            "names": [],
+            "primary_name": "NC7",
+            "swap_group": 0
+        },
+        "c14665a7-91df-4e11-b3ab-aaaed0aacdff": {
+            "direction": "not_connected",
+            "names": [],
+            "primary_name": "NC9",
+            "swap_group": 0
+        },
+        "c406b9e5-2a26-44b9-8147-6a2f151cd2ad": {
+            "direction": "not_connected",
+            "names": [],
+            "primary_name": "NC1",
+            "swap_group": 0
+        },
+        "ca37af35-7e60-404f-8fc7-c81e3de1813a": {
+            "direction": "not_connected",
+            "names": [],
+            "primary_name": "NC10",
+            "swap_group": 0
+        },
+        "cb4512f6-3db9-4354-9a5a-953bc7a078ac": {
+            "direction": "not_connected",
+            "names": [],
+            "primary_name": "NC13",
+            "swap_group": 0
+        },
+        "ce2dc197-08d9-4be7-87bd-88f1f7191c9f": {
+            "direction": "not_connected",
+            "names": [],
+            "primary_name": "NC3",
+            "swap_group": 0
+        },
+        "ce424d58-7852-4a05-80ea-8d9f3fc5fdf9": {
+            "direction": "not_connected",
+            "names": [],
+            "primary_name": "NC8",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "be3253a8-b0f3-42dd-b58c-e46c7687684c"
+}

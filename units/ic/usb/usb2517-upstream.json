@@ -1,0 +1,26 @@
+{
+    "manufacturer": "Microchip",
+    "name": "USB2517 Upstream",
+    "pins": {
+        "0090f49d-13f7-4004-ae6a-908443bc6c30": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "VBUS_DET",
+            "swap_group": 0
+        },
+        "3c67f04d-a905-4877-a586-7eb54f98d5b6": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "USBUP_DM",
+            "swap_group": 0
+        },
+        "a9082206-c7be-4e2d-a3cf-87a232575940": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "USBUP_DP",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "b2888bbe-99a2-4337-8ece-195f4c485828"
+}

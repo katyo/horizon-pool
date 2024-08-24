@@ -1,0 +1,19 @@
+{
+    "gates": {
+        "0e771ec8-9114-4ad1-a5bd-71b6299e4a7e": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "903eed88-3d25-4290-a8e9-484a2e625c45"
+        }
+    },
+    "manufacturer": "",
+    "name": "RJ12 6-pin connector",
+    "prefix": "K",
+    "tags": [
+        "connector",
+        "rj12"
+    ],
+    "type": "entity",
+    "uuid": "254e6b12-916b-4793-81fe-d9676130986f"
+}

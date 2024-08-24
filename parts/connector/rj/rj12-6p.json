@@ -1,0 +1,60 @@
+{
+    "MPN": [
+        false,
+        "RJ12 6-pin connector"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "RJ12 6-pin connector"
+    ],
+    "entity": "254e6b12-916b-4793-81fe-d9676130986f",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        ""
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "54771b9c-5e5e-45ad-9ad2-53bd2f686838",
+    "pad_map": {
+        "39467091-f139-49c5-9b58-edde5f136c52": {
+            "gate": "0e771ec8-9114-4ad1-a5bd-71b6299e4a7e",
+            "pin": "203bb8a2-729f-4d85-9078-2023b941401f"
+        },
+        "5ae57e06-ea40-470c-b91c-44041a028b05": {
+            "gate": "0e771ec8-9114-4ad1-a5bd-71b6299e4a7e",
+            "pin": "dd9ef2c9-0256-4f19-b1a9-2a4dffd82261"
+        },
+        "745fdb01-bbec-4a2d-b7c7-76901a83e627": {
+            "gate": "0e771ec8-9114-4ad1-a5bd-71b6299e4a7e",
+            "pin": "4b24441b-cbeb-49bc-9a30-277a9a11c2b6"
+        },
+        "d62c0693-407b-4425-bd26-a5e8be14c753": {
+            "gate": "0e771ec8-9114-4ad1-a5bd-71b6299e4a7e",
+            "pin": "d5465e9d-439d-4a9c-b2a6-9ff92edf1f63"
+        },
+        "f07c37b5-33aa-4c5d-9946-1c8b4ee39c68": {
+            "gate": "0e771ec8-9114-4ad1-a5bd-71b6299e4a7e",
+            "pin": "b8924622-e129-4d44-a4ec-46cccc6fbcaf"
+        },
+        "f69f2b3f-527b-4b4e-8766-6b96056d3c80": {
+            "gate": "0e771ec8-9114-4ad1-a5bd-71b6299e4a7e",
+            "pin": "c3b4ba45-ad58-43eb-9709-a71e815d9012"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "connector",
+        "rj12"
+    ],
+    "type": "part",
+    "uuid": "8e0d5dae-794e-4c06-8e04-959913b6b904",
+    "value": [
+        false,
+        ""
+    ]
+}

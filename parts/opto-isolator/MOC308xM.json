@@ -1,0 +1,58 @@
+{
+    "MPN": [
+        false,
+        "MOC308xM"
+    ],
+    "datasheet": [
+        false,
+        "https://www.onsemi.com/pdf/datasheet/moc3083m-d.pdf"
+    ],
+    "description": [
+        false,
+        "Zero-Cross Triac Driver Optocoupler"
+    ],
+    "entity": "51c67046-3a37-4f7c-bab7-fb25d6d7a48c",
+    "flags": {
+        "base_part": "set",
+        "exclude_bom": "clear",
+        "exclude_pnp": "clear"
+    },
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "ON Semiconductor"
+    ],
+    "model": "015e1218-9594-4651-85bd-9a284b6171f3",
+    "package": "d1c368a0-b31d-429c-96ba-f6618446983c",
+    "pad_map": {
+        "17f96b52-6224-4156-a2c9-3b4c292bf3ab": {
+            "gate": "552a4e70-3feb-411c-8b54-8313980dc5d7",
+            "pin": "e19c5bab-a1cd-4faa-a053-0bca561c001d"
+        },
+        "49b2ec1d-bc9c-4e02-938e-5853ed60855c": {
+            "gate": "552a4e70-3feb-411c-8b54-8313980dc5d7",
+            "pin": "b8e4a4c7-7d4b-40ea-8a3a-ba7b08166734"
+        },
+        "7f96be97-4c27-449b-85d4-982e9acc4e0f": {
+            "gate": "552a4e70-3feb-411c-8b54-8313980dc5d7",
+            "pin": "f3e979ca-a071-4246-81a0-6d39d70927d3"
+        },
+        "82c78305-002b-487c-b1b6-b33435718f8e": {
+            "gate": "552a4e70-3feb-411c-8b54-8313980dc5d7",
+            "pin": "e1c17108-9a40-49b4-9de3-0c1be38a5726"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "optocoupler",
+        "triac"
+    ],
+    "type": "part",
+    "uuid": "2c2f4d22-7884-471a-94d6-ae879fb3dfef",
+    "value": [
+        false,
+        ""
+    ],
+    "version": 1
+}
